@@ -16,7 +16,7 @@ description: >-
 
 * [GATA D](gata-validators/)[AO NFTs](gata-nft-dao/); Validator Co-ownership and monthly rewards. &#x20;
 * [Yield Gorillas](yield-gorilla/); Monthly rewards, deflationary supply.
-* [Souvenir NFTs ](nft-souvenirs.md)
+* Souvenir NFTs; NFTs to enjoy the memorable events. &#x20;
 
 ### Apps/Games&#x20;
 
