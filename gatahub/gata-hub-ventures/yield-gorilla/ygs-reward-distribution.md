@@ -4,6 +4,10 @@ description: Epoch record of YG collection
 
 # YGs Reward Distribution
 
+## YG Epoch 12
+
+1st March 2024
+
 ## YG Epoch 11
 
 1st February 2024
