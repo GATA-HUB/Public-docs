@@ -8,6 +8,8 @@ description: Epoch record of YG collection
 
 1st March 2024
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>YG Epoch 12</p></figcaption></figure>
+
 ## YG Epoch 11
 
 1st February 2024
