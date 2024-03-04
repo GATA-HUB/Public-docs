@@ -125,4 +125,16 @@ Raffle rewards \
 
 
 
+<details>
+
+<summary>Details- GATA Horizons (Banner collection)</summary>
+
+First banner collection of GATA DAO, visual art by Brasco. Spice up your profile with some fresh catnip-filled banners based on your favorite parts of GATA: from Colonial Cats and Voyager Cats to Yield Gorillas and our various IBC validators. A total of 1k banners in 4 different categories with a variety of rarity classes are waiting for you. Made by GATA with love.\
+\
+[Trade here ](https://www.stargaze.zone/m/stars1udmfnrewelppflnl698j4m85q04rpm3h9vtzlu9286vxalfq6nxs5dzzkm/tokens)
+
+</details>
+
+
+
 <figure><img src="../../.gitbook/assets/gata-horizons-teaser.jpg" alt=""><figcaption></figcaption></figure>
