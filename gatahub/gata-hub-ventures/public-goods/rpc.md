@@ -1,3 +1,9 @@
+---
+description: >-
+  Remote Procedure Call (RPC) protocol is generally used to communicate between
+  processes on different workstations.
+---
+
 # RPC
 
 [\
