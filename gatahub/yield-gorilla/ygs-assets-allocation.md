@@ -1,6 +1,6 @@
 ---
-description: Last updated Feb 3, 2023
-cover: ../../../.gitbook/assets/755.jpg
+description: Last updated March 4, 2024
+cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
   cover:
@@ -18,22 +18,37 @@ layout:
     visible: true
 ---
 
-# YG's Assets
+# YG's Assets Allocation
 
-The original amount was staked at the end of the Mint.&#x20;
+## Mint Proceeds&#x20;
 
-| Asset | Amount staked                                                                                       | Validator                                                                                                  |
-| ----- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Atom  | [4920 Atom](https://www.mintscan.io/cosmos/account/cosmos1p454fm4rerxddn0uppen8hvckceylf7p7a2jpf)   | [GATA DAO](https://www.mintscan.io/cosmos/validators/cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6) |
-| Tori  | [381000 Tori](https://www.mintscan.io/teritori/account/tori1p454fm4rerxddn0uppen8hvckceylf7pufam6e) | [GATA DAO](https://www.mintscan.io/teritori/validators/torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn) |
+The original amount was staked at the end of the Mint (Nov 2022).&#x20;
+
+| Asset | Amount staked                                                                                       | Validator                                                                                               |
+| ----- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Atom  | [4920 Atom](https://www.mintscan.io/cosmos/account/cosmos1p454fm4rerxddn0uppen8hvckceylf7p7a2jpf)   | [GATA ](https://www.mintscan.io/cosmos/validators/cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6) |
+| Tori  | [381000 Tori](https://www.mintscan.io/teritori/account/tori1p454fm4rerxddn0uppen8hvckceylf7pufam6e) | [GATA](https://www.mintscan.io/teritori/validators/torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn)  |
 
 100% of the Yield Gorillas mint proceeds had been staked right after the mint.&#x20;
+
+## Current Staked Assets
+
+`Estimated value of the Staked Assets 30K USD`
+
+| Asset      | Amount Staked | Source                                                      |
+| ---------- | ------------- | ----------------------------------------------------------- |
+| Cosmos Hub | 2156 ATOM     | Mint collection                                             |
+| Teritori   | 381000 TORI   | Mint Collection                                             |
+| Celestia   | 100 TIA       | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
+| Dymension  | 100 DYM       | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
+| Archway    | 500 ARCH      | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
+| Source     | 5000 Source   | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
 
 ## YG monthly earnings&#x20;
 
 YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
 
-<table><thead><tr><th width="161">Period</th><th>Total Yield</th><th>Staked Yield </th><th>LP Yield</th><th width="104">LP  Stake</th><th>Raffle</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan 1st 2024</td><td>150 Atom</td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>1828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-31 2024</td><td>577 Atom</td><td>50 Atom</td><td>527 Atom</td><td>5893 Atom</td><td><a href="https://dev.mintscan.io/cosmos/txs/879465749BAF67768736F3DCD808A749AEE1EEBA398764704103D71C738C1D60?height=18950243">21.5 Atom</a></td><td>21.5 Atom<br>24 YG burned</td><td>1936 Atom <a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K Tori</td></tr><tr><td>Feb 1-29 2024</td><td>650 Atom</td><td>47 Atom</td><td></td><td>5673<br>Atom</td><td>25 Atom</td><td><a href="https://www.mintscan.io/cosmos/txs/33B4FE1319978619EE111BE6328D59F9F164F9D9382BE5B8CA85261E4940A084">25 Atom</a><br>25 YG <a href="https://www.mintscan.io/teritori/txs/AB4A4CA10635E790ED944DD7A65A24C6B31FF082C067B4A1F10646D7CC754ACE">burn</a></td><td>2156 Atom <a href="https://www.mintscan.io/cosmos/txs/2B894D437F8B4DDC86D73C19F3F8D00CCDAE2B821FFC473DBFA09E6A816BCD86">(+220)</a></td><td>381K Tori</td></tr></tbody></table>
+<table><thead><tr><th width="161">Period</th><th>Total Yield</th><th>Staked Yield </th><th>LP Yield</th><th width="104">LP  Stake</th><th>Raffle</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan 1st 2024</td><td>150 Atom</td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>1828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-31 2024</td><td>577 Atom</td><td>50 Atom</td><td>527 Atom</td><td>5893 Atom</td><td><a href="https://dev.mintscan.io/cosmos/txs/879465749BAF67768736F3DCD808A749AEE1EEBA398764704103D71C738C1D60?height=18950243">21.5 Atom</a></td><td>21.5 Atom<br>24 YG burned</td><td>1936 Atom <a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K Tori</td></tr><tr><td>Feb 1-29 2024</td><td>650 Atom</td><td>47 Atom</td><td>400<br>Atom</td><td>5673<br>Atom</td><td>25 Atom</td><td><a href="https://www.mintscan.io/cosmos/txs/33B4FE1319978619EE111BE6328D59F9F164F9D9382BE5B8CA85261E4940A084">25 Atom</a><br>25 YG <a href="https://www.mintscan.io/teritori/txs/AB4A4CA10635E790ED944DD7A65A24C6B31FF082C067B4A1F10646D7CC754ACE">burn</a></td><td>2156 Atom <a href="https://www.mintscan.io/cosmos/txs/2B894D437F8B4DDC86D73C19F3F8D00CCDAE2B821FFC473DBFA09E6A816BCD86">(+220)</a></td><td>381K Tori</td></tr></tbody></table>
 
 ## YG supply table
 

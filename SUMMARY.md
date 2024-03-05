@@ -39,7 +39,7 @@
     * [Governance proposal 14](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-14.md)
   * [⁉️ GATA DAO FAQs](gatahub/gata-hub-ventures/gata-nft-dao/faqs.md)
 * [Yield Gorilla](gatahub/gata-hub-ventures/yield-gorilla/README.md)
-  * [YG's Assets](gatahub/gata-hub-ventures/yield-gorilla/ygs-assets.md)
+  * [YG's Assets Allocation](gatahub/yield-gorilla/ygs-assets-allocation.md)
   * [YGs Reward Distribution](gatahub/gata-hub-ventures/yield-gorilla/ygs-reward-distribution.md)
   * [YG concept](gatahub/gata-hub-ventures/yield-gorilla/yg-concept.md)
 * [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
