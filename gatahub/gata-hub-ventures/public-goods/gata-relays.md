@@ -7,7 +7,6 @@ Relayers facilitates communication between two distinct blockchain networks that
 
 ## Connections&#x20;
 
-Cosmos HUB < > Osmosis\
-Cosmos HUB <> Teritori\
-Osmosis <> Teritori\
-Cosmos HUB <> Teritori  \
+<table><thead><tr><th width="148">HUB</th><th>Connections</th></tr></thead><tbody><tr><td><strong>Cosmos HUB</strong></td><td>Neutron, Stride, Osmosis, Stargaze, Juno, Omniflix, Teritori, Archway, Akash</td></tr><tr><td><strong>Osmosis</strong></td><td>Cosmos, Neutron, Stride, Stargaze, Juno, Omniflix, Teritori, Archway, Akash</td></tr></tbody></table>
+
+\
