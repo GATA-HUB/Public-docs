@@ -1,7 +1,7 @@
 ---
 description: >-
-  GATA HUB provide infrastructural support like validators and  IBC relays and
-  we currently manage many types of NFT collection.
+  GATA HUB provide infrastructural support like validators, RPCs and  IBC relays
+  and we also manage many types of NFT collection.
 ---
 
 # Summary of Ventures
