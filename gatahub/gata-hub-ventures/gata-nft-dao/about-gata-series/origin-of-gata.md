@@ -1,5 +1,5 @@
 ---
-description: The origin of γάτα.
+description: The lore of Colonial Cats (GATAc) and the origin of γάτα.
 ---
 
 # Origin of γάτα

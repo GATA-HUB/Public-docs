@@ -16,7 +16,7 @@ description: >-
 ### NFTs
 
 * [GATA D](gata-hub-ventures/gata-validators/)[AO NFTs](gata-hub-ventures/gata-nft-dao/); Validator Co-ownership and monthly rewards. &#x20;
-* [Yield Gorillas](gata-hub-ventures/yield-gorilla/); Monthly rewards, deflationary supply.
+* [Yield Gorillas](yield-gorillas/); Monthly rewards, deflationary supply.
 * [Souvenir NFTs](gata-hub-ventures/nft-souvenirs.md); NFTs to celebrate the memorable events. &#x20;
 
 ### Apps/Games&#x20;

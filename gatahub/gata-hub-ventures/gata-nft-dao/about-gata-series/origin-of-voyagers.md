@@ -1,5 +1,5 @@
 ---
-description: Telltales
+description: The lore of Voyager Cats (GATAv) and the origin of γάτα.
 ---
 
 # Origin of Voyagers

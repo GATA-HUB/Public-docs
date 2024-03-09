@@ -6,7 +6,7 @@ description: >-
 
 # 🥩 GATA DAO Staking/Delegations
 
-Following is the list of total Staked assets in GATA DAO treasury, and GATA-operated nodes including self-bonded assets.&#x20;
+Following is the list of total staked assets in GATA DAO treasury, and GATA-operated nodes including self-bonded assets.&#x20;
 
 {% hint style="info" %}
 last updated January 31, 2024
