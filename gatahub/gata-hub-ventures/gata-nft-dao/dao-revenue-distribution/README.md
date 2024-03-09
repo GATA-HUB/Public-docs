@@ -2,7 +2,7 @@
 description: Details about GATA's revenue distribution.
 ---
 
-# 💵 DAO Revenue Distribution
+# DAO Revenue Distribution
 
 Each month, GATA distributes the revenue to the members of GATA DAO (holders of [GATAc & GATAv](../about-gata-series/)). These monthly distributions are called **GATA epoch rewards** and are based on GATA's [DAO Revenue Share Model](dao-revenue-share-model.md).
 
@@ -406,3 +406,12 @@ Epoch 17
 | Royalties          | 7 Atom       | 70 USD              |
 | Rollover           | 2 Atom       | 20 USD              |
 | **Total**          | **190 Atom** | **1900 USD**        |
+
+
+
+## GATA DAO Epoch 19
+
+* Epoch duration: from February 1st 2024 to February 29th 2024
+* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-series/#colonial-cats-gatac) & [GATAv](../about-gata-series/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.
+* Total $ATOM distributed: 220 $ATOM
+* Distribution Date: March 1st 2024
