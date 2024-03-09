@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# YG's Assets Allocation
+# YG Asset Allocation
 
 ## Mint Proceeds&#x20;
 
@@ -35,14 +35,14 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 `Estimated value of the Staked Assets 30K USD`
 
-| Asset      | Amount Staked | Source                                                      |
-| ---------- | ------------- | ----------------------------------------------------------- |
-| Cosmos Hub | 2156 ATOM     | Mint collection                                             |
-| Teritori   | 381000 TORI   | Mint Collection                                             |
-| Celestia   | 100 TIA       | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
-| Dymension  | 100 DYM       | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
-| Archway    | 500 ARCH      | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
-| Source     | 5000 Source   | [Airdrop](ygs-assets-allocation.md#airdrops-for-yg-wallets) |
+| Asset      | Amount Staked | Source                                                    |
+| ---------- | ------------- | --------------------------------------------------------- |
+| Cosmos Hub | 2156 ATOM     | Mint collection                                           |
+| Teritori   | 381000 TORI   | Mint Collection                                           |
+| Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
+| Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
+| Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
+| Source     | 5000 Source   | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 
 ## YG monthly earnings&#x20;
 

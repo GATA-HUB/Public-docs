@@ -1,3 +1,7 @@
+---
+description: Info on GATA's NFT collection on Archway (paused)
+---
+
 # Apes in Games — Rise of Apelandia
 
 ### What is Apes in Games? <a href="#b8d1" id="b8d1"></a>

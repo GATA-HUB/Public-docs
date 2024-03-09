@@ -2,11 +2,11 @@
 description: Overview & illustration of GATA's revenue flow model
 ---
 
-# 💱 DAO Revenue Share model
+# DAO Revenue Share model
 
 ## Updated Revenue Model (after Felis update)
 
-GATA's revenue model got updated on February 4th 2023 based on GATA DAO's[ governance proposal 9 ("Felis update")](../gata-constitution/governance-proposal-9.md).
+GATA's revenue model got updated on February 4th 2023 based on GATA DAO's[ governance proposal 9 ("Felis update")](../../../gata-nft-dao/gata-constitution/gov.-proposal-9.md).
 
 <figure><img src="../../../../.gitbook/assets/WhatsApp Image 2023-01-27 at 09.34.39.jpg" alt=""><figcaption><p>GATA DAO updated revenue model (after Felis update on Feb 4, 2023)</p></figcaption></figure>
 

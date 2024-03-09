@@ -1,8 +1,8 @@
 ---
-description: The page is dedicated for ICS Partner chains GATA DAO operates.
+description: The page is dedicated for ICS Partner Chains which GATA HUB operates.
 ---
 
-# ICS Partner chains
+# ICS Partner Chains
 
 | Partner Chain | Status Page                                                                                                             | GATA Operations |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------- |

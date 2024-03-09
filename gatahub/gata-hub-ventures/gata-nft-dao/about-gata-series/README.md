@@ -4,7 +4,7 @@ description: >-
   rewards.
 ---
 
-# ℹ️ About GATA series
+# About GATA series
 
 NFT collections of the GATA Series were the first NFTs of GATA. They consist of two core collections:
 

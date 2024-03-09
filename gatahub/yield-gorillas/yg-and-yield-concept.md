@@ -1,4 +1,4 @@
-# YG concept
+# YG & Yield Concept
 
 ## Yield Series NFTs
 
@@ -8,7 +8,7 @@ Introducing the first non-GATA NFT series, the Yield Series will consist of mult
 * The revenue from the mint of Yield series NFTs gets
   * a) staked on [GATA validators](../gata-hub-ventures/gata-validators/) to accrue staking rewards and&#x20;
   * b) put to work into DeFi activities that under direct supervision by the GATA team
-* Holders of Yield series NFTs get rewards based on the afore-mentioned staking rewards and the performance of DeFi activities in so called [YG epoch rewards](ygs-reward-distribution.md).
+* Holders of Yield series NFTs get rewards based on the afore-mentioned staking rewards and the performance of DeFi activities in so called [YG epoch rewards](yg-reward-distributions.md).
 * Amount of epoch rewards per NFT is based on rarity. All holders get a baseline of epoch rewards, but certain NFT traits get a higher reward ([for YGs, this is based on the "skin" trait](./#concept-of-yield-gorillas-and-yield-series))
 
 {% tabs %}

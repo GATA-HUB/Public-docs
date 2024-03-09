@@ -2,7 +2,7 @@
 description: Total assets/tokens present in the DAO treasury.
 ---
 
-# 💰 GATA DAO Treasury
+# GATA DAO Treasury
 
 ### Tokens held in the GATA DAO treasury
 

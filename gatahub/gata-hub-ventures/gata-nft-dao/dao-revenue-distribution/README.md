@@ -10,7 +10,7 @@ Each month, GATA distributes the revenue to the members of GATA DAO (holders of 
 
 ### Reward Accumulation&#x20;
 
-Based on the decision of [proposal 7](../gata-constitution/governance-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../gata-validators/).&#x20;
+Based on the decision of [proposal 7](../../../gata-nft-dao/gata-constitution/gov.-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../gata-validators/).&#x20;
 
 ## GATA DAO EPOCH 1
 

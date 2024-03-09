@@ -1,10 +1,10 @@
 ---
 description: >-
-  We are keeping the easy to track transparent record of the GATA DAO governance
+  This section contains a transparent record of all GATA DAO governance
   proposals.
 ---
 
-# ⚖️ GATA Constitution
+# GATA Constitution
 
 A DAO (decentralized autonomous organization) is a blockchain-based organization that operates without the need for intermediaries such as banks or governments. Instead, a DAO relies on smart contracts and decentralized decision-making processes to govern its operations.
 
@@ -36,10 +36,10 @@ In summary, the process of writing a constitution with each governance proposal 
 
 [QmZ4gF3zM7qoUtbZqzRWtbBzLVvB5HFJjxKijgRJXBzuvs](https://gateway.pinata.cloud/ipfs/QmZ4gF3zM7qoUtbZqzRWtbBzLVvB5HFJjxKijgRJXBzuvs)
 
-### GATA DAO Proposal 11
+#### GATA DAO Proposal 11
 
 [QmRNxuCzpwYaaat6C9DJgXiZkpeFmjvgQpzW2nGFS4LmV6](https://gateway.pinata.cloud/ipfs/QmRNxuCzpwYaaat6C9DJgXiZkpeFmjvgQpzW2nGFS4LmV6)
 
-## GATA DAO Proposal 12
+#### GATA DAO Proposal 12
 
 [QmQMtcEpuemJNqAMJqwAhBr92ih5exaoz9idxovKzENWgr](https://gateway.pinata.cloud/ipfs/QmQMtcEpuemJNqAMJqwAhBr92ih5exaoz9idxovKzENWgr)
