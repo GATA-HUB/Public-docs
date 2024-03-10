@@ -18,6 +18,7 @@
   * [About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
     * [Origin of γάτα](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-gata.md)
     * [Origin of Voyagers](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-voyagers.md)
+  * [On Chain GATA DAO](gatahub/gata-nft-dao/on-chain-gata-dao.md)
   * [GATA DAO Treasury](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-treasury.md)
   * [DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/README.md)
     * [DAO Revenue Share model](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/dao-revenue-share-model.md)
