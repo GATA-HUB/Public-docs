@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐈‍⬛ GATA HUB](README.md)
+* [GATA HUB](README.md)
 * [Useful links](https://linktr.ee/gatadao)
 
 ## 📌 GATA HUB's Ventures  <a href="#gatahub" id="gatahub"></a>

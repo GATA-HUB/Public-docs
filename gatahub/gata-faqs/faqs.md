@@ -82,7 +82,7 @@ Slash protection policy is to protect the GATA delegators in case of slash event
 
 <summary>What are colonial Cats?</summary>
 
-Colonial Cats (GATAc) is the very first GATA series NFT collection of GATA DAO. Launched on Stargaze launchpad comprising of 999 GATAc ever.&#x20;
+Colonial Cats (GATAc) is the very first GATA series NFT collection of GATA DAO. Launched on Stargaze launchpad comprising of 999 GATAc.&#x20;
 
 </details>
 
@@ -92,7 +92,7 @@ Colonial Cats (GATAc) is the very first GATA series NFT collection of GATA DAO. 
 
 Holding a GATA NFT gives you the following utility:
 
-**·**        Voting power in GATA DAO
+**·**        Voting power in [GATA DAO](../gata-nft-dao/on-chain-gata-dao.md)
 
 **·**        50% Validator commission distributed to GATA holders
 
@@ -100,7 +100,7 @@ Holding a GATA NFT gives you the following utility:
 
 **·**        50% DAO Treasury ownership in proportion to your NFT ownership
 
-9% Minting revenue from each of future GATA collections to be distributed to all GATA holders.
+~~9% Minting revenue from each of future GATA collections to be distributed to all GATA holders.~~
 
 </details>
 
