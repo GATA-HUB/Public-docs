@@ -1,6 +1,6 @@
 ---
 description: Introducing GATA HUB
-cover: .gitbook/assets/gata-hub-header-v2b.webp
+cover: .gitbook/assets/gata-hub-header-bw-inv.jpg
 coverY: 0
 ---
 
