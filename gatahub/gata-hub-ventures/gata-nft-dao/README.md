@@ -1,10 +1,13 @@
 # GATA NFT DAO
 
-In the Cosmos ecosystem, an NFT DAO allows the owners of GATA NFTs ([GATAc](about-gata-series/#colonial-cats-gatac) & [GATAv](about-gata-series/#voyager-cats-gatav)) to participate and influence the decision-making of the DAO. GATA DAO has been formed to own and operate [GATA validators](../gata-validators/) which infact are and will be the property of the DAO.&#x20;
+GATA DAO is an NFT DAO allows the owners of GATA NFTs ([GATAc](about-gata-series/#colonial-cats-gatac) & [GATAv](about-gata-series/#voyager-cats-gatav)) to participate and influence the decision-making of the DAO. GATA DAO has been formed to own and operate [GATA validators](../gata-validators/) which infact are and will be the property of the DAO.&#x20;
 
 So, by owning a [GATA NFT](about-gata-series/) you are either owning or are founding a validator that gives you the utility of commission earnings derived from running the validator in proportion to your NFT ownership. This is in addition to the value of the art that the owners hold.
 
 Furthermore, this also includes the utility of earning royalties derived from a share of the trading fee of the NFTs on their respective marketplaces. Therefore, the holders of [GATA NFTs](about-gata-series/) enjoy the benefit of community engagement via running the DAO, earning from validators and royalties on top of their individual staking rewards.
+
+• [STAKE COLONIAL CATS ](https://daodao.zone/dao/stars19fz2t65uqlhrrznpllmmu7nzsvv3v2p4wruypthy7yjpsz5rltvqp6gjsk)\
+• [STAKE VOYAGER CATS](https://daodao.zone/dao/stars1t5kx0emmfep57u8g6dupd6zs6z58v39zky852gm58lj3nwpuexuq0krw0c)&#x20;
 
 ### GATA DAO Objectives
 
