@@ -12,7 +12,7 @@ description: On chain GATA DAO powered by DAO DAO
 
 ## GATA DAO Decision making Flow
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="GATA DAO Decision making" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="GATA DAO Decision making" class="gitbook-drawing">
 
 \
 

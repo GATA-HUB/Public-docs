@@ -2,6 +2,10 @@
 
 The Cosmos ecosystem is a network of independent blockchain networks that are designed to communicate and transact with each other by using [Inter-blockchain communication (IBC)](../how-to-cosmos/ibc-inter-blockchain-communication/). At the core of the Cosmos ecosystem is the Cosmos Hub, which serves as a central point of coordination for different blockchain networks.
 
+
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
 The Cosmos Hub uses a unique consensus algorithm called Tendermint, which is designed to be fast, secure, and energy-efficient. Tendermint allows for fast finality of transactions, meaning that once a transaction is processed, it is immediately confirmed and cannot be altered.
 
 Through the use of application-specific blockchains called "Zones", the Cosmos Hub allows different blockchain networks to be connected and communicate with each other. The Zones are built using the [Cosmos SDK](../what-is-the-interchain/the-cosmos-sdk.md), which is a modular framework for building custom blockchains. This allows developers to create their own blockchain networks with custom functionality and governance models, while still being able to communicate and transact with other blockchain networks in the Cosmos ecosystem.
