@@ -1,6 +1,6 @@
 ---
 description: Introducing GATA HUB
-cover: .gitbook/assets/GATA DAO Banner-02.png
+cover: .gitbook/assets/gata-hub-header-v2b.webp
 coverY: 0
 ---
 
