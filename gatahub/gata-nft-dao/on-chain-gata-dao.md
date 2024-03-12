@@ -4,7 +4,10 @@ description: On chain GATA DAO powered by DAO DAO
 
 # On Chain GATA DAO
 
-GATA has streamlined onchain governance by establishing an onchain DAO structure with 3 DAOs on DAODAO: \
+
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="GATA DAO Decision making" class="gitbook-drawing">
+
 \
 • [GATAc DAO](https://daodao.zone/dao/stars19fz2t65uqlhrrznpllmmu7nzsvv3v2p4wruypthy7yjpsz5rltvqp6gjsk) is for holders of Colonial Cats to stake their NFTs & to place their votes for decisions in the main DAO. \
 • [GATAv DAO](https://daodao.zone/dao/stars1t5kx0emmfep57u8g6dupd6zs6z58v39zky852gm58lj3nwpuexuq0krw0c) is for holders of Voyager Cats to stake their NFTs & to place their votes for decisions in the main DAO. \

@@ -4,7 +4,7 @@ cover: .gitbook/assets/gata-hub-header-v2b.webp
 coverY: 0
 ---
 
-# 🐈‍⬛ GATA HUB
+# GATA HUB
 
 At GATA HUB, we're not just another web3 company; we're the pioneers of blockchain innovation. With a core focus on operating [validators](gatahub/gata-hub-ventures/gata-validators/) and facilitating IBC [relayer](gatahub/gata-hub-ventures/public-goods/gata-relays.md) connections, we ensure the seamless flow of transactions across decentralized networks. Our commitment to infrastructure excellence means you can trust us to keep your transactions secure and efficient, every step of the way.
 
