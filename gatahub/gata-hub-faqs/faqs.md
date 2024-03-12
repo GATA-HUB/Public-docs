@@ -48,38 +48,6 @@ GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA serie
 
 <details>
 
-<summary>How many validators GATA DAO operates?</summary>
-
-GATA DAO operates validators across all the major CosmosSDK networks and we are continuously expanding, here you can check the current [count of validators](../gata-hub-ventures/gata-validators/). &#x20;
-
-</details>
-
-<details>
-
-<summary>What are the benefits GATA gives to it's delegators?</summary>
-
-* Giveaways
-
-<!---->
-
-* NFT drops&#x20;
-
-<!---->
-
-* delegation Support
-
-</details>
-
-<details>
-
-<summary>What is GATA Slash protection?</summary>
-
-Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](../gata-hub-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
-
-</details>
-
-<details>
-
 <summary>What are colonial Cats?</summary>
 
 Colonial Cats (GATAc) is the very first GATA series NFT collection of GATA DAO. Launched on Stargaze launchpad comprising of 999 GATAc.&#x20;

@@ -51,8 +51,8 @@
   * [2024 Road Map](gatahub/gata-hub-road-map/2024-road-map.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
-* [🙋‍♀️ GATA FAQs](gatahub/gata-faqs/README.md)
-  * [GATA DAO FAQs](gatahub/gata-faqs/faqs.md)
+* [🙋‍♀️ GATA HUB FAQs](gatahub/gata-hub-faqs/README.md)
+  * [GATA DAO FAQs](gatahub/gata-hub-faqs/faqs.md)
 
 ## 🔯 Cosmos ecosystem
 
