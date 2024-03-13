@@ -2,13 +2,13 @@
 description: Overview of all YG epoch rewards.
 ---
 
-# YGs Reward Distribution
+# YG Reward Distributions
 
 ## YG Epoch 12
 
 1st March 2024
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YG Epoch 12</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>YG Epoch 12</p></figcaption></figure>
 
 ## YG Epoch 11
 
@@ -18,7 +18,7 @@ description: Overview of all YG epoch rewards.
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 

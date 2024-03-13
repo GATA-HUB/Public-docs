@@ -16,4 +16,4 @@ description: See the list of perpetual task for day to day expansion
 | GATA preparation for ICF          | Finalize the ICF foundation delegation application                                                                           | Q3    |
 | Deposit dApp Upgrades             | New features for the deposit dApp on Dymension RollApp and extension of dApp to more IBC chains.                             | Q4    |
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>roadmap</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>roadmap</p></figcaption></figure>
