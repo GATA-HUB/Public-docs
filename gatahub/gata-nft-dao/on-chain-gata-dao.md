@@ -12,35 +12,13 @@ description: On chain GATA DAO powered by DAO DAO
 \
 • [GATA DAO](https://daodao.zone/dao/stars1v9yezwju74fyjkjrzh7j90y5ga9xg2ulzft0z69nmtlh0hayvhuqnpsenf): The combined vote of the Above two DAOs will help make the division in the main DAO, No one is directly a member of the GATA DAO but indirectly through the secondary DAOs.  \
 \
-To better understand the structure check the following flow diagram.&#x20;
+To better understand the structure check the following flow diagram. :arrow\_down\_small:
 
 ## GATA DAO Decision making Flow
 
 <img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="GATA DAO Decision making" class="gitbook-drawing">
 
 ## DAO FAQs
-
-<details>
-
-<summary>Who can propose? </summary>
-
-Any DAO member can start a governance proposal, proposal deposit is 1000 $STARS which will be refunded after the voting time.  &#x20;
-
-</details>
-
-<details>
-
-<summary>Is it necessary to stake, to be eligible for the Epoch rewards?</summary>
-
-Yes.\
-\
-With the staking functionality finally in place, GATA is switching the distribution of GATA epoch rewards to active stakers\
-\
-• To continue to be eligible for monthly GATA epoch rewards, you need to stake your GATA in the DAO of the respective collection \
-\
-• From epoch 20 (1st April 2024) onward, only holders that staked their GATA will receive epoch rewards on distribution day
-
-</details>
 
 <details>
 
@@ -62,6 +40,20 @@ Holders of [Colonial Cats](https://www.stargaze.zone/m/stars1yw4xvtc43me9scqfr2j
 * mange your stake
 
 &#x20;![](<../../.gitbook/assets/image (3).png>)
+
+</details>
+
+<details>
+
+<summary>Is it necessary to stake, to be eligible for the Epoch rewards?</summary>
+
+Yes.\
+\
+With the staking functionality finally in place, GATA is switching the distribution of GATA epoch rewards to active stakers\
+\
+• To continue to be eligible for monthly GATA epoch rewards, you need to stake your GATA in the DAO of the respective collection \
+\
+• From epoch 20 (1st April 2024) onward, only holders that staked their GATA will receive epoch rewards on distribution day
 
 </details>
 
@@ -89,6 +81,14 @@ DAODAO doesn't support governance with/by staking of multiple NFT collections in
 • 10% quorum&#x20;
 
 • 1000 STARS for proposal creation + refund in case of failed vote
+
+</details>
+
+<details>
+
+<summary>Who can propose? </summary>
+
+Any DAO member can start a governance proposal, proposal deposit is 1000 $STARS which will be refunded after the voting time.  &#x20;
 
 </details>
 
