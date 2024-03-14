@@ -1,5 +1,5 @@
 ---
-description: 'Frequently asked questions about GATA:'
+description: Frequently asked questions about GATA HUB
 ---
 
 # 🙋‍♀️ GATA HUB FAQs
@@ -30,18 +30,7 @@ GATA HUB is the overarching term for all activities in and around GATA. These va
 
 <details>
 
-<summary>How often do you distribute rewards to holders of GATA/YG NFTs?</summary>
-
-Rewards get distributed at the beginning of each month (one month = one epoch) and separately for&#x20;
-
-* GATA DAO in form of [monthly GATA epoch rewards](../gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/) and for&#x20;
-* GATA YIELD in form of [monthly YG rewards](../yield-gorillas/yg-reward-distributions.md).
-
-</details>
-
-<details>
-
-<summary>What does "GATA VALIDATORS" mean?</summary>
+<summary>What does "GATA Infrastructure" mean?</summary>
 
 GATA Tech Team is handling all activities under the umbrella term GATA VALIDATORS. These are all activities that are related to the setup & ongoing operations of&#x20;
 
@@ -55,9 +44,43 @@ GATA Tech Team is handling all activities under the umbrella term GATA VALIDATOR
 
 <details>
 
-<summary>What is GATA Slash protection?</summary>
+<summary>What does "GATA DAO" mean?</summary>
 
-Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](../gata-hub-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
+GATA DAO is the decision making group of people within GATA HUB and everyone who holds a [GATAc](../gata-hub-ventures/gata-nft-dao/about-gata-series/#colonial-cats-gatac) and/or [GATAv](../gata-hub-ventures/gata-nft-dao/about-gata-series/#voyager-cats-gatav) NFT is eligible to take part in that group.&#x20;
+
+This group navigates GATA HUB's ventures by democratic decision making - performed by discussing current & future activities in GATA Discord and by finalizing decisions via onchain voting.
+
+</details>
+
+<details>
+
+<summary>What does "GATA YIELD" mean?</summary>
+
+All Yield Series NFT collections fall under the term GATA YIELD, for example [Yield Gorillas (YG)](../yield-gorillas/). These NFT collections provide their holders with [monthly YG epoch rewards](../yield-gorillas/yg-reward-distributions.md) which are based on the performance of the mint funds that are partially getting staked to GATA validators and used in various DeFi activities managed by the GATA team.&#x20;
+
+You can find more info on the concept of Yield series NFTs in the section [YG & Yield Concept](../yield-gorillas/yg-and-yield-concept.md).&#x20;
+
+</details>
+
+<details>
+
+<summary>How often do you distribute rewards to holders of GATA/YG NFTs?</summary>
+
+Rewards get distributed at the beginning of each month (one month = one epoch) and separately for&#x20;
+
+* GATA DAO in form of [monthly GATA epoch rewards](../gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/) and for&#x20;
+* GATA YIELD in form of [monthly YG rewards](../yield-gorillas/yg-reward-distributions.md).
+
+</details>
+
+<details>
+
+<summary>How can I join GATA DAO?</summary>
+
+Joining GATA DAO is rather simple, you just need to hold a [GATAc](../gata-hub-ventures/gata-nft-dao/about-gata-series/#colonial-cats-gatac) and/or [GATAv](../gata-hub-ventures/gata-nft-dao/about-gata-series/#voyager-cats-gatav) NFT to be eligible. You can get these NFTs on Stargaze:
+
+* [GATAc on Stargaze](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm)
+* [GATAv on Stargaze](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum)
 
 </details>
 
@@ -79,32 +102,9 @@ Slash protection policy is to protect the GATA delegators in case of slash event
 
 <details>
 
-<summary>What does "GATA DAO" mean?</summary>
+<summary>What is GATA Slash protection?</summary>
 
-GATA DAO is the decision making group of people within GATA HUB and everyone who holds a [GATAc](../gata-hub-ventures/gata-nft-dao/about-gata-series/#colonial-cats-gatac) and/or [GATAv](../gata-hub-ventures/gata-nft-dao/about-gata-series/#voyager-cats-gatav) NFT is eligible to take part in that group.&#x20;
-
-This group navigates GATA HUB's ventures by democratic decision making - performed by discussing current & future activities in GATA Discord and by finalizing decisions via onchain voting.
-
-</details>
-
-<details>
-
-<summary>How can I join GATA DAO?</summary>
-
-Joining GATA DAO is rather simple, you just need to hold a [GATAc](../gata-hub-ventures/gata-nft-dao/about-gata-series/#colonial-cats-gatac) and/or [GATAv](../gata-hub-ventures/gata-nft-dao/about-gata-series/#voyager-cats-gatav) NFT to be eligible. You can get these NFTs on Stargaze:
-
-* [GATAc on Stargaze](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm)
-* [GATAv on Stargaze](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum)
-
-</details>
-
-<details>
-
-<summary>What does "GATA YIELD" mean?</summary>
-
-All Yield Series NFT collections fall under the term GATA YIELD, for example [Yield Gorillas (YG)](../yield-gorillas/). These NFT collections provide their holders with [monthly YG epoch rewards](../yield-gorillas/yg-reward-distributions.md) which are based on the performance of the mint funds that are partially getting staked to GATA validators and used in various DeFi activities managed by the GATA team.&#x20;
-
-You can find more info on the concept of Yield series NFTs in the section [YG & Yield Concept](../yield-gorillas/yg-and-yield-concept.md).&#x20;
+Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](../gata-hub-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
 
 </details>
 
@@ -119,6 +119,3 @@ However, with your Yield series NFT you're still eligible for receiving [monthly
 </details>
 
 ###
-
-###
-
