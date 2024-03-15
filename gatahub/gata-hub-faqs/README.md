@@ -118,4 +118,22 @@ However, with your Yield series NFT you're still eligible for receiving [monthly
 
 </details>
 
-###
+<details>
+
+<summary>What are GATA community rewards?</summary>
+
+From giveaways to holders & delegators, quizzes in which we highlight IBC & partner projects, to Zealy sprints - GATA provides various community activities in which the fam can win rewards.&#x20;
+
+</details>
+
+<details>
+
+<summary>How do GATA distribute rewards?</summary>
+
+To enable a smoother experience for everyone, we have introduced a new streamlined distribution method for community rewards by using **Omniflix campaigns enhanced by Streampay,** **winners of community activities & events;**\
+\
+• Will get **NFTs airdropped** to them on Omniflix \
+• These NFTs can **get burned via** [**Omniflix campaigns**](https://omniflix.market/campaigns/all) \
+• The winners get their **reward tokens streamed** directly to their wallet via [Streampay](https://streampay.me/) tech
+
+</details>
