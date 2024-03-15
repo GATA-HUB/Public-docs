@@ -130,10 +130,10 @@ From giveaways to holders & delegators, quizzes in which we highlight IBC & part
 
 <summary>How do GATA distribute rewards?</summary>
 
-To enable a smoother experience for everyone, we have introduced a new streamlined distribution method for community rewards by using **Omniflix campaigns enhanced by Streampay,** **winners of community activities & events;**\
+To enable a smoother experience for everyone, we have introduced a new streamlined distribution method for community rewards by using Omniflix campaigns enhanced by Streampay, winners of community activities & events;\
 \
-• Will get **NFTs airdropped** to them on Omniflix \
-• These NFTs can **get burned via** [**Omniflix campaigns**](https://omniflix.market/campaigns/all) \
-• The winners get their **reward tokens streamed** directly to their wallet via [Streampay](https://streampay.me/) tech
+• Will get NFTs airdropped to them on Omniflix \
+• These NFTs can get burned via [Omniflix campaigns](https://omniflix.market/campaigns/all) \
+• The winners get their reward tokens streamed directly to their wallet via [Streampay](https://streampay.me/) tech
 
 </details>
