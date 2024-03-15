@@ -186,3 +186,13 @@ GATA Horizons is a side collection of GATA, launched on Jan. 1st 2024, made by [
 [GATA Horizons on Stargaze Marketplace ](https://www.stargaze.zone/m/stars1udmfnrewelppflnl698j4m85q04rpm3h9vtzlu9286vxalfq6nxs5dzzkm/tokens)
 
 </details>
+
+## 6- Community Event Rewards
+
+<details>
+
+<summary>GCR</summary>
+
+[https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc](https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc)
+
+</details>
