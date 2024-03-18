@@ -99,7 +99,9 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 
 ### 10th Monthly Rewards (March 2024)
 
-\*in progress / winner not drawn yet\*
+20 $FLIX each to 20 holders. Total 400 $FLIX\
+\
+[https://omniflix.market/campaign/267](https://omniflix.market/campaign/267)
 
 ### 11th Monthly Rewards (April 2024)
 
@@ -195,6 +197,10 @@ GATA Horizons is a side collection of GATA, launched on Jan. 1st 2024, made by [
 
 GCR is a GATA community events reward collection, It get's airdrop to winners directly in their wallets. winners Burn the NFTs via Omniflix campaigns for the rewards.&#x20;
 
-[https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc](https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc)
+[https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc](https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc)\
+\
+[First campaign March 15 2024](https://omniflix.market/campaign/267)\
+\
+
 
 </details>
