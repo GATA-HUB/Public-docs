@@ -415,3 +415,11 @@ Epoch 17
 * Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-series/#colonial-cats-gatac) & [GATAv](../about-gata-series/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.
 * Total $ATOM distributed: 220 $ATOM
 * Distribution Date: March 1st 2024
+
+
+
+| Source | Atom Revenue | USD Value (USD 12/Atom) |
+| ------ | ------------ | ----------------------- |
+|        |              |                         |
+|        |              |                         |
+|        |              |                         |
