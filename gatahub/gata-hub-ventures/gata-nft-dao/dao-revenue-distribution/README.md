@@ -407,8 +407,6 @@ Epoch 17
 | Rollover           | 2 Atom       | 20 USD              |
 | **Total**          | **190 Atom** | **1900 USD**        |
 
-
-
 ## GATA DAO Epoch 19
 
 * Epoch duration: from February 1st 2024 to February 29th 2024
@@ -416,10 +414,18 @@ Epoch 17
 * Total $ATOM distributed: 220 $ATOM
 * Distribution Date: March 1st 2024
 
-
-
-| Source | Atom Revenue | USD Value (USD 12/Atom) |
-| ------ | ------------ | ----------------------- |
-|        |              |                         |
-|        |              |                         |
-|        |              |                         |
+| Source             | Atom Revenue | USD Value (USD 12/Atom) |
+| ------------------ | ------------ | ----------------------- |
+| Atom Validator     | 63 Atom      | 756 USD                 |
+| Akash Validator    | 20 Atom      | 240 USD                 |
+| Archway Validator  | 14 Atom      | 168 USD                 |
+| Osmosis Validator  | 12 Atom      | 144 USD                 |
+| Omniflix Validator | 28 Atom      | 336 USD                 |
+| Teritori Validator | 6.1 Atom     | 73 USD                  |
+| Juno Validator     | 1.7 Atom     | 20 USD                  |
+| Evmos Validator    | 1.8 Atom     | 20 USD                  |
+| Stargaze Validator | 7.6 Atom     | 90 USD                  |
+| Roylaties          | 4.4 Atom     | 52 USD                  |
+| Dymension Airdrop  | 45 Atom      | 540 USD                 |
+| Rollover           | 17 Atom      | 204 USD                 |
+| **Total**          | **220 Atom** | **2640 USD**            |
