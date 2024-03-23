@@ -42,6 +42,7 @@
   * [YG Asset Allocation](gatahub/yield-gorillas/yg-asset-allocation.md)
   * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
   * [YG & Yield Concept](gatahub/yield-gorillas/yg-and-yield-concept.md)
+* [Yield Second](gatahub/yield-second.md)
 * [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
 * [NFT Souvenirs](gatahub/gata-hub-ventures/nft-souvenirs.md)
 * [Apes in Games — Rise of Apelandia](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/README.md)
