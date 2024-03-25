@@ -1,7 +1,5 @@
 # Yield Paws FAQs
 
-## Yield generation and distribution FAQs
-
 <details>
 
 <summary><strong>How does the yield get distributed in general?</strong> </summary>
@@ -67,8 +65,6 @@ GATA team manages the Yield series funds for you and puts around 60-70% of all f
 GATA team is focussing on these token assets for liquidity pools: ETH, BTC, SOL, ATOM, USDC/T and more
 
 </details>
-
-## Infinity swap&#x20;
 
 <details>
 
