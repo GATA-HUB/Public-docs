@@ -6,7 +6,11 @@
 
 <summary><strong>How does the yield get distributed in general?</strong> </summary>
 
-60% go to NFT Holders (individual amount of yield is based on rarity / fur class of Yield NFT) 15% go back to asset building 10% get used as performance fee 5% go into into the collection's infinity pool on SG 5% get used to burn the floor (monthly "Buy & Burn") 5% get used for the holders' lottery (monthly "Yield Raffle")
+* 70% go to NFT Holders (individual amount of yield is based on rarity / fur class of Yield NFT)&#x20;
+* 10% go back to asset building&#x20;
+* 10% get used as performance fee &#x20;
+* 5% get used to burn the floor (monthly "Buy & Burn")&#x20;
+* 5% get used for the holders' lottery (monthly "Yield Raffle")
 
 </details>
 
@@ -38,7 +42,13 @@ The portion of the yield that comes from staking rewards gets accrued on GATA HU
 
 <summary><strong>Are all NFTs giving monthly yield? Which traits give which kind of yield share?</strong> </summary>
 
-Yes, all NFTs of the yield series are providing you with yield / revenue share each month. The individual amount of yield per NFT gets determined by its rarity class, which is based on the trait of fur color: White Fur: 9% of yield Grey Fur: 14% of yield Black Fur: 16% of yield Brown Fur: 18% of yield Orange Fur: 44% of yield
+Yes, all NFTs of the yield series are providing you with yield / revenue share each month. The individual amount of yield per NFT gets determined by its rarity class, which is based on the trait of fur color:&#x20;
+
+* White Fur: 9% of yield   &#x20;
+* Grey Fur: 14% of yield&#x20;
+* Black Fur: 16% of yield&#x20;
+* Brown Fur: 18% of yield&#x20;
+* Orange Fur: 44% of yield
 
 </details>
 
@@ -54,7 +64,7 @@ GATA team manages the Yield series funds for you and puts around 60-70% of all f
 
 <summary><strong>Which token assets are you LPing in / with?</strong> </summary>
 
-GATA team is focussing on these token assets for liquidity pools: ETH, BTC, SOL, ATOM, USDC/T
+GATA team is focussing on these token assets for liquidity pools: ETH, BTC, SOL, ATOM, USDC/T and more
 
 </details>
 
@@ -64,7 +74,11 @@ GATA team is focussing on these token assets for liquidity pools: ETH, BTC, SOL,
 
 <summary><strong>I have minted/bought yield NFTs, but how can I exit?</strong></summary>
 
-&#x20;You can exit your position on yield NFTs anytime by either • selling it on the secondary market on Stargaze or • swapping your NFTs to STARS via infinity swap pool instantly
+&#x20;You can exit your position on yield NFTs anytime by either
+
+&#x20;• selling it on the secondary market on Stargaze or&#x20;
+
+• swapping your NFTs to STARS via infinity swap pool instantly
 
 </details>
 
@@ -72,7 +86,11 @@ GATA team is focussing on these token assets for liquidity pools: ETH, BTC, SOL,
 
 <summary><strong>What is the "infinity swap pool" and how does it work? Can I buy/sell yield NFTs with that?</strong></summary>
 
-&#x20;The infinity swap pool contains both STARS and Yield NFTs. You can use it to swap your assets in both directions at any given time, without the need for manual trading on the secondary market on Stargaze. The smart contract of the infinity pool swap takes care of that for you. • Buy Yield NFTs: Select an amount of STARS and swap that to yield NFTs. • Sell Yield NFTs: Select a number of Yield NFTs and swap those into STARS
+&#x20;The infinity swap pool contains both STARS and Yield NFTs. You can use it to swap your assets in both directions at any given time, without the need for manual trading on the secondary market on Stargaze. The smart contract of the infinity pool swap takes care of that for you.&#x20;
+
+• Buy Yield NFTs: Select an amount of STARS and swap that to yield NFTs.&#x20;
+
+• Sell Yield NFTs: Select a number of Yield NFTs and swap those into STARS
 
 </details>
 
