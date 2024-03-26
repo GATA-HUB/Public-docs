@@ -18,7 +18,7 @@ description: Overview of all YG epoch rewards.
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 
