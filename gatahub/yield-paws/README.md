@@ -9,9 +9,12 @@ description: >-
 ## About the collection
 
 **Collection name:** Yield Paws \
+**Network:** Stargaze Zone\
 **Collection Type:** Standard collection \
 **Price/Currency:** \~25$ USD in $STARS\
 **Collection Size**: 5000
+
+## Utility
 
 Each month, this new Yield series collection by GATA HUB will provide you with&#x20;
 

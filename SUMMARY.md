@@ -38,6 +38,7 @@
     * [Gov. Proposal 12](gatahub/gata-nft-dao/gata-constitution/gov.-proposal-12.md)
     * [Gov. Proposal 13](gatahub/gata-nft-dao/gata-constitution/gov.-proposal-13.md)
     * [Gov. Proposal 14](gatahub/gata-nft-dao/gata-constitution/gov.-proposal-14.md)
+  * [GATA DAO FAQs](gatahub/gata-nft-dao/faqs.md)
 * [Yield Gorillas](gatahub/yield-gorillas/README.md)
   * [YG Asset Allocation](gatahub/yield-gorillas/yg-asset-allocation.md)
   * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
@@ -53,8 +54,7 @@
   * [2024 Road Map](gatahub/gata-hub-road-map/2024-road-map.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
-* [🙋‍♀️ GATA HUB FAQs](gatahub/gata-hub-faqs/README.md)
-  * [GATA DAO FAQs](gatahub/gata-hub-faqs/faqs.md)
+* [🙋‍♀️ GATA HUB FAQs](gatahub/gata-hub-faqs.md)
 
 ## 🔯 Cosmos ecosystem
 
