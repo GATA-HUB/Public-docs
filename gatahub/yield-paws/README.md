@@ -23,7 +23,7 @@ Each month, this new Yield series collection by GATA HUB will provide you with&#
 
 ## Fur type and reward allocation&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ## Yield Concept
 
