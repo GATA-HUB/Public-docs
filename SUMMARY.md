@@ -5,7 +5,7 @@
 
 ## 📌 GATA HUB's Ventures  <a href="#gatahub" id="gatahub"></a>
 
-* [Summary](gatahub/summary.md)
+* [Summary](gatahub/summary-of-ventures.md)
 * [GATA Validators](gatahub/gata-hub-ventures/gata-validators/README.md)
   * [Slash Protection Policy](gatahub/gata-hub-ventures/gata-validators/slash-protection-policy.md)
   * [ICS Partner Chains](gatahub/gata-hub-ventures/gata-validators/ics-partner-chains.md)
@@ -15,9 +15,9 @@
   * [GATA Relays](gatahub/gata-hub-ventures/public-goods/gata-relays.md)
   * [RPC](gatahub/gata-hub-ventures/public-goods/rpc.md)
 * [GATA NFT DAO](gatahub/gata-hub-ventures/gata-nft-dao/README.md)
-  * [About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
-    * [Origin of γάτα](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-gata.md)
-    * [Origin of Voyagers](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-voyagers.md)
+  * [About GATA NFTs](gatahub/gata-nft-dao/about-gata-nfts/README.md)
+    * [Origin of γάτα](gatahub/gata-nft-dao/about-gata-nfts/origin-of-gata.md)
+    * [Origin of Voyagers](gatahub/gata-nft-dao/about-gata-nfts/origin-of-voyagers.md)
   * [On Chain GATA DAO](gatahub/gata-nft-dao/on-chain-gata-dao.md)
   * [GATA DAO Treasury](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-treasury.md)
   * [DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/README.md)

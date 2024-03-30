@@ -5,7 +5,7 @@ description: >-
   their holders.
 ---
 
-# Summary of Ventures
+# Summary
 
 ### Infrastructure / network operations
 
@@ -16,7 +16,7 @@ description: >-
 
 ### NFT collections
 
-* [GATA NFTs](gata-hub-ventures/gata-nft-dao/about-gata-series/) (holders obtain co-ownership of validators, monthly rewards & DAO membership) &#x20;
+* [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly rewards & DAO membership) &#x20;
 * [Yield Gorillas](yield-gorillas/) (holders obtain monthly rewards; deflationary supply)
 * Yield Cats (holders obtain monthly rewards, deflationary supply and POL for infinity pools)
 * [Souvenir NFT collections](gata-hub-ventures/nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
