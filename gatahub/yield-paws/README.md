@@ -12,8 +12,10 @@ description: >-
 **Collection name:** Yield Paws \
 **Network:** Stargaze Zone\
 **Collection Type:** Standard Collection \
-**Price/Currency:** \~25$ USD in $STARS\
-**Collection Size**: 5000
+**Public Mint Price/Currency:** \~25$ USD in $STARS\
+**WL Mint Price/Currency:** \~23-24$ USD in $STARS (5% discount)\
+**Collection Size**: 5000\
+**Royalties:** 1%
 
 **WL mint:** April 4th 2024, 7 pm UTC\
 **Public mint:** April 5th 2024, 7 pm UTC
