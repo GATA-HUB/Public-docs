@@ -1,5 +1,5 @@
 ---
-description: Last updated March 4, 2024
+description: Last updated March 31, 2024
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 30K USD`
+`Estimated value of the Staked Assets 35K USD`
 
 | Asset      | Amount Staked | Source                                                    |
 | ---------- | ------------- | --------------------------------------------------------- |
@@ -48,7 +48,7 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
 
-<table><thead><tr><th width="161">Period</th><th width="115">Total Yield</th><th width="124">Staked Yield </th><th width="114">LP Yield</th><th width="126">LP  Stake</th><th width="115">Raffle</th><th width="135">Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan. 1st 2024</td><td>150 ATOM</td><td>150 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>1828 ATOM</td><td>381K TORI</td></tr><tr><td>Jan. 1-31 2024</td><td>577 ATOM</td><td>50 ATOM</td><td>527 ATOM</td><td>5893 ATOM</td><td><a href="https://dev.mintscan.io/cosmos/txs/879465749BAF67768736F3DCD808A749AEE1EEBA398764704103D71C738C1D60?height=18950243">21.5 ATOM</a></td><td>21.5 ATOM<br>24 YG burned</td><td>1936 ATOM<br><a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K TORI</td></tr><tr><td>Feb. 1-29 2024</td><td>650 ATOM</td><td>47 ATOM</td><td>400 ATOM</td><td>5673 ATOM</td><td>25 ATOM</td><td><a href="https://www.mintscan.io/cosmos/txs/33B4FE1319978619EE111BE6328D59F9F164F9D9382BE5B8CA85261E4940A084">25 ATOM</a><br>25 YG <a href="https://www.mintscan.io/teritori/txs/AB4A4CA10635E790ED944DD7A65A24C6B31FF082C067B4A1F10646D7CC754ACE">burned</a></td><td>2156 ATOM<br><a href="https://www.mintscan.io/cosmos/txs/2B894D437F8B4DDC86D73C19F3F8D00CCDAE2B821FFC473DBFA09E6A816BCD86">(+220)</a></td><td>381K TORI</td></tr></tbody></table>
+<table><thead><tr><th width="161">Period</th><th width="115">Total Yield</th><th width="124">Staked Yield </th><th width="114">LP Yield</th><th width="126">LP  Stake</th><th width="115">Raffle</th><th width="135">Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan. 1st 2024</td><td>150 ATOM</td><td>150 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>0 ATOM</td><td>1828 ATOM</td><td>381K TORI</td></tr><tr><td>Jan. 1-31 2024</td><td>577 ATOM</td><td>50 ATOM</td><td>527 ATOM</td><td>5893 ATOM</td><td><a href="https://dev.mintscan.io/cosmos/txs/879465749BAF67768736F3DCD808A749AEE1EEBA398764704103D71C738C1D60?height=18950243">21.5 ATOM</a></td><td>21.5 ATOM<br>24 YG burned</td><td>1936 ATOM<br><a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K TORI</td></tr><tr><td>Feb. 1-29 2024</td><td>650 ATOM</td><td>47 ATOM</td><td>400 ATOM</td><td>5673 ATOM</td><td>25 ATOM</td><td><a href="https://www.mintscan.io/cosmos/txs/33B4FE1319978619EE111BE6328D59F9F164F9D9382BE5B8CA85261E4940A084">25 ATOM</a><br>25 YG <a href="https://www.mintscan.io/teritori/txs/AB4A4CA10635E790ED944DD7A65A24C6B31FF082C067B4A1F10646D7CC754ACE">burned</a></td><td>2156 ATOM<br><a href="https://www.mintscan.io/cosmos/txs/2B894D437F8B4DDC86D73C19F3F8D00CCDAE2B821FFC473DBFA09E6A816BCD86">(+220)</a></td><td>381K TORI</td></tr><tr><td>Mar 1-31 2024</td><td></td><td>48 Atom</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 
