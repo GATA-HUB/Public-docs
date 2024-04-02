@@ -56,7 +56,7 @@ YG community voted to change the model of revenue generation from staking to LP 
 Last updated Feb 3, 2024.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>515</td><td>7081</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>569</td><td>9431</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>566</td><td>7066</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>584</td><td>9416</td></tr></tbody></table>
 
 <details>
 
