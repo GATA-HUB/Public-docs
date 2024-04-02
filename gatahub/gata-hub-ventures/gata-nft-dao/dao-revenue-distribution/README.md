@@ -431,3 +431,10 @@ Epoch 17
 | Dymension Airdrop  | 45 Atom      | 540 USD                 |
 | Rollover           | 17 Atom      | 204 USD                 |
 | **Total**          | **220 Atom** | **2640 USD**            |
+
+## GATA DAO Epoch 20
+
+* Epoch duration: from March 1st 2024 to March 31st 2024
+* Eligibility: -/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned - $ATOM per GATA.
+* Total $ATOM distributed: 180 $ATOM
+* Distribution Date: March 1st 2024
