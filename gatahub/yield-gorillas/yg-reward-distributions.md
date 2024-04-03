@@ -6,13 +6,17 @@ description: Overview of all YG epoch rewards.
 
 ## YG Epoch 13
 
+1st April 2024
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
 1st March 2024
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2012" %}
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>YG Epoch 12</p></figcaption></figure>
 
