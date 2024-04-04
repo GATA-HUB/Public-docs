@@ -12,8 +12,8 @@ description: >-
 **Collection name:** [Yield Paws](https://www.stargaze.zone/l/yieldpaws) \
 **Network:** [Stargaze Zone](https://www.stargaze.zone/l/yieldpaws)\
 **Collection Type:** Standard Collection \
-**Public Mint Price/Currency:** 777 $STARS\
-**WL Mint Price/Currency:** 725 $STARS (6% discount)\
+**Public Mint Price:** 777 $STARS (50 mints/wallet)\
+**WL Mint Price:** 725 $STARS (10 mints/wallet)\
 **Collection Size**: 5000\
 **Royalties:** 1%
 
