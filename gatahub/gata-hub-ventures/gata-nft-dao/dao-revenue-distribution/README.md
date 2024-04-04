@@ -437,4 +437,6 @@ Epoch 17
 * Epoch duration: from March 1st 2024 to March 31st 2024
 * Eligibility: 986/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
 * Total $ATOM distributed: 180 $ATOM
-* Distribution Date: March 1st 2024
+* Distribution Date: April 1st 2024
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2020" %}
