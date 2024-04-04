@@ -44,10 +44,10 @@ Yes, all Yield Paws NFTs are providing you with yield / revenue share each month
 
 The individual amount of yield per NFT gets determined by its rarity class, which is based on the fur trait:&#x20;
 
-* White Fur: 9% of yield   &#x20;
+* Brown Fur: 9% of yield   &#x20;
 * Grey Fur: 13.5% of yield&#x20;
 * Black Fur: 16% of yield&#x20;
-* Brown Fur: 18% of yield&#x20;
+* White Fur: 18% of yield&#x20;
 * Orange Fur: 43.5% of yield
 
 </details>

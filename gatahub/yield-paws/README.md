@@ -34,7 +34,7 @@ Each month, this new Yield series collection by GATA HUB will provide you with&#
 
 Yield revenue gets distributed to holders of Yield Paws on a monthly basis. Each NFT gets a basic income reward, but on top of that, the individual share of yield is based on the fur trait - the rarer your kitties, the higher your rewards:&#x20;
 
-<figure><img src="../../.gitbook/assets/gata-yp-overview-v1.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## Concept of Yield Paws - Funding, Model & Distribution
 
