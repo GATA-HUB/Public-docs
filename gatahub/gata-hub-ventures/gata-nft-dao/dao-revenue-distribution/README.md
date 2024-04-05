@@ -440,3 +440,20 @@ Epoch 17
 * Distribution Date: April 1st 2024
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2020" %}
+GATA Epoch 20
+{% endembed %}
+
+| Source             | Atom Revenue | USD value ( 11 USd/Atom) |
+| ------------------ | ------------ | ------------------------ |
+| Atom Validator     | 100 Atom     | 1100 USD                 |
+| Akash Validator    | 23.8 Atom    | 262 USD                  |
+| Archway Validator  | 11 Atom      | 121 USD                  |
+| Evmos Validator    | 1.7 Atom     | 19 USD                   |
+| Juno Validator     | 3.1 Atom     | 33 USD                   |
+| Omniflix Validator | 18.4 Atom    | 202 USD                  |
+| Osmosis Validator  | 12.2 Atom    | 134 USD                  |
+| Stargaze Validator | 3.4 Atom     | 38 USD                   |
+| Teritori Validator | 4.3 Atom     | 47 USD                   |
+| Royalties          | 3 Atom       | 33 USD                   |
+| Rollover           | 2 Atom       | 22 USD                   |
+| **Total**          | **180 Atom** | **1980 USD**             |
