@@ -16,9 +16,9 @@ description: >-
 
 ### NFT collections
 
-* [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly rewards & DAO membership) &#x20;
-* [Yield Gorillas](yield-gorillas/) (holders obtain monthly rewards; deflationary supply)
-* Yield Cats (holders obtain monthly rewards, deflationary supply and POL for infinity pools)
+* [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly **ATOM rewards** & DAO membership) &#x20;
+* [Yield Gorillas](yield-gorillas/) (monthly **ATOM rewards**, deflationary supply, raffle)
+* [Yield Paws](yield-paws/) (monthly **STARS rewards**, deflationary supply and POL for infinity pools)
 * [Souvenir NFT collections](gata-hub-ventures/nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ### Apps/Games&#x20;
