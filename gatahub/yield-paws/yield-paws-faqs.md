@@ -144,3 +144,11 @@ Additionally, our yield model encompasses certain features, such as access to pr
 In summary, Yield Kittens present a distinct opportunity to engage in DeFi without the complexities of identifying lucrative opportunities and continually monitoring and adjusting positions to maximize yield.
 
 </details>
+
+<details>
+
+<summary>250 Yield Paws got airdropped - to whom / where did they go?</summary>
+
+250 Yield Paws (5% of supply) got airdropped to the infinity swap pool, in accordance with mint funds allocation, to provide liquidity on NFT side early on.
+
+</details>
