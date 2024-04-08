@@ -5,7 +5,8 @@
 
 ## 📌 GATA HUB's Ventures  <a href="#gatahub" id="gatahub"></a>
 
-* [Summary](gatahub/summary-of-ventures.md)
+* [Summary](gatahub/summary/README.md)
+  * [RollApp](gatahub/summary/rollapp.md)
 * [GATA Validators](gatahub/gata-hub-ventures/gata-validators/README.md)
   * [Slash Protection Policy](gatahub/gata-hub-ventures/gata-validators/slash-protection-policy.md)
   * [ICS Partner Chains](gatahub/gata-hub-ventures/gata-validators/ics-partner-chains.md)
