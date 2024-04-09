@@ -1,5 +1,5 @@
 ---
-description: Last updated March 31, 2024
+description: Last updated April 9, 2024
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -37,12 +37,13 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 | Asset      | Amount Staked | Source                                                    |
 | ---------- | ------------- | --------------------------------------------------------- |
-| Cosmos Hub | 2156 ATOM     | Mint collection                                           |
+| Cosmos Hub | 2228 ATOM     | Mint collection                                           |
 | Teritori   | 381000 TORI   | Mint Collection                                           |
 | Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Source     | 5000 Source   | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
+| SAGA       | 50 SAGA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 
 ## YG monthly earnings&#x20;
 
