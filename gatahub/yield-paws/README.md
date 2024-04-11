@@ -24,17 +24,25 @@ description: >-
 
 Each month, this new Yield series collection by GATA HUB will provide you with&#x20;
 
-• Epoch Rewards (70% of yield gets distributed to all YP holders in $STARS)
+• Epoch Rewards (70% of yield revenue gets distributed to YP holders in $STARS)
 
 • [Buy & Burn](yield-paws-faqs.md#what-is-the-buy-and-burn-program-and-how-does-it-work) program (5% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
 
 • [Yield Raffle](yield-paws-faqs.md#what-is-the-yield-raffle-and-how-does-it-work) (5% of yield gets raffled with 3 random YPs winning; each YP = 1 ticket)
 
-## Monthly Yield Distribution - Reward Allocation by Fur Trait
+## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
-Yield revenue gets distributed to holders of Yield Paws on a monthly basis. Each NFT gets a basic income reward, but on top of that, the individual share of yield is based on the fur trait - the rarer your kitties, the higher your rewards:&#x20;
+Yield Paws holders benefit from monthly distributions of revenue gained from the [yield model activities](./#concept-of-yield-paws-funding-model-and-distribution), the so called **epoch rewards**. These are **$STARS** which get distributed directly to the wallets of holders. You just need to hold your kitties tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+The **individual yield share per NFT** gets determined by the **fur colors** of your kitties. There are **5 different colors** with **5 different yield share values**. The rarer your kitties, the higher your rewards:&#x20;
+
+<figure><img src="../../.gitbook/assets/gata-yp-apr-overview.jpg" alt=""><figcaption><p>Yield Distribution &#x26; APR Projections</p></figcaption></figure>
+
+On APR Projections:
+
+• APRs above are **baseline projections** at launch and **based on mint price in $USD**. From mint onwards, this **reference point** will serve for **regular reports** on YP's APR performance in the future.
+
+• Regardless of APR calculations based on $USD, monthly epoch rewards get **distributed in $STARS**
 
 ## Concept of Yield Paws - Funding, Model & Distribution
 

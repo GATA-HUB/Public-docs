@@ -16,7 +16,7 @@
 
 <summary><strong>Where are the funds of this Yield series coming from?</strong></summary>
 
-The funds for the revenue generation of Yield Paws are coming from the original mint of the collection. 80% of the mint funds are used for the generation of yield exclusively.
+The funds for the revenue generation of Yield Paws are coming from the original mint of the collection. 80% of the mint funds are used for [yield generation](./#concept-of-yield-paws-funding-model-and-distribution) exclusively.
 
 </details>
 
@@ -24,7 +24,10 @@ The funds for the revenue generation of Yield Paws are coming from the original 
 
 <summary><strong>Where does the Yield come from?</strong> </summary>
 
-The yield of Yield Paws comes from a mix of staking rewards (10-15%), DeFi activities like LPing, borrowing & lending (60-70%) and from private sales-related activities (20-25%).
+The yield of Yield Paws comes from a mix of \
+• DeFi activities like LPing, borrowing & lending (60-70%)\
+• private sales-related activities (20-25%)\
+• staking rewards (10-15%)
 
 </details>
 
@@ -32,7 +35,7 @@ The yield of Yield Paws comes from a mix of staking rewards (10-15%), DeFi activ
 
 <summary><strong>Where do you stake the funds? Where are staking rewards accrued?</strong></summary>
 
-The portion of yield that comes from staking rewards gets accrued on the GATA HUB validator for Stargaze. This way, not only holders are benefiting from staking rewards, but GATA infrastructure as well and Stargaze as a whole, as these funds are getting used to secure the whole network.&#x20;
+The portion of yield that comes from staking rewards gets accrued on the [GATA HUB validator](../gata-hub-ventures/gata-validators/) for Stargaze. By doing this, not only YP holders are benefiting from staking rewards, but GATA infrastructure as well and Stargaze as a whole, as these funds are getting used to secure the whole network.&#x20;
 
 </details>
 
@@ -56,7 +59,9 @@ The individual amount of yield per NFT gets determined by its rarity class, whic
 
 <summary><strong>What kind of DeFi activities are used to get yield and on which platforms?</strong></summary>
 
-The GATA team manages the Yield series funds for you and puts around 60-70% of all funds to work in various DeFi activities. Some of those activities include the use of funds for liquidity pooling and for borrowing & lending. For these activities we use DeFi platforms like Osmosis, Kujira, Uniswap, Raydium and other platforms.
+The GATA team manages the Yield series funds for you and puts around 60-70% of all funds to work in various DeFi activities according to [yield model](./#concept-of-yield-paws-funding-model-and-distribution).&#x20;
+
+Some of these activities include the use of funds for liquidity pooling and for borrowing & lending. For these activities, we use DeFi platforms like Osmosis, Kujira, Uniswap, Raydium and other platforms.
 
 </details>
 
@@ -83,7 +88,7 @@ You can exit your position on yield NFTs anytime by either
 
 <details>
 
-<summary><strong>What is the "infinity swap pool" and how does it work? Can I buy/sell yield NFTs with that?</strong></summary>
+<summary>What is the <strong>"Infinity Swap Pool"? How does it work? Can I buy/sell YP NFTs with that?</strong></summary>
 
 The infinity swap pool contains both STARS and Yield NFTs. You can use it to swap your assets in both directions at any given time, without the need for manual trading on the secondary market on Stargaze. The smart contract of the infinity pool swap takes care of that for you.&#x20;
 
@@ -147,7 +152,7 @@ In summary, Yield Kittens present a distinct opportunity to engage in DeFi witho
 
 <details>
 
-<summary>250 Yield Paws got airdropped - to whom / where did they go?</summary>
+<summary><strong>250 Yield Paws got airdropped - to whom / where did they go?</strong></summary>
 
 250 Yield Paws (5% of supply) got airdropped to the infinity swap pool, in accordance with mint funds allocation, to provide liquidity on NFT side early on.
 
