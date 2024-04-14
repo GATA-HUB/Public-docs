@@ -45,6 +45,7 @@
   * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
   * [YG & Yield Concept](gatahub/yield-gorillas/yg-and-yield-concept.md)
 * [Yield Paws](gatahub/yield-paws/README.md)
+  * [YP's Assets](gatahub/yield-paws/yps-assets.md)
   * [Yield Paws FAQs](gatahub/yield-paws/yield-paws-faqs.md)
 * [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
 * [NFT Souvenirs](gatahub/gata-hub-ventures/nft-souvenirs.md)
