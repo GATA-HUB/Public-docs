@@ -7,6 +7,10 @@ description: >-
 
 # Yield Paws
 
+{% hint style="info" %}
+Trade floor NFTs in the infinity swap [pool](https://www.stargaze.zone/infinity-swap/pool/stars1qcesxkn4jcfg2fyffwqhpv02ufrg0szsae6ztzn6jjvgclpgsfws7h4vee/overview)
+{% endhint %}
+
 ## About the collection
 
 **Collection name:** [Yield Paws](https://www.stargaze.zone/l/yieldpaws) \
