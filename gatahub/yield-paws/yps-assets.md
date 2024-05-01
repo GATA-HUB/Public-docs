@@ -8,11 +8,11 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 
 ## Burned YPs &#x20;
 
-| Skin   | Original supply  | Burned | Current supply |
-| ------ | ---------------- | ------ | -------------- |
-| Brown  | 100              | 0      | 100            |
-| Grey   | 300              | 0      | 300            |
-| White  | 800              | 1      | 799            |
-| Black  | 1000             | 0      | 1000           |
-| Orange | 2800             | 9      | 2791           |
-| Total  | 5000             | 9      | 4990           |
+| Skin      | Original supply  | Burned | Current supply |
+| --------- | ---------------- | ------ | -------------- |
+| Brown     | 100              | 0      | 100            |
+| Grey      | 300              | 0      | 300            |
+| Black     | 800              | 0      | 800            |
+| White     | 1000             | 1      | 999            |
+| Orange    | 2800             | 9      | 2791           |
+| **Total** | **5000**         | **9**  | **4990**       |
