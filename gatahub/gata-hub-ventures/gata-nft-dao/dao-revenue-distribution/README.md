@@ -457,3 +457,11 @@ GATA Epoch 20
 | Royalties          | 3 Atom       | 33 USD                   |
 | Rollover           | 2 Atom       | 22 USD                   |
 | **Total**          | **180 Atom** | **1980 USD**             |
+
+## GATA DAO Epoch 21
+
+* Epoch duration: from May 1st 2024 to May 30th 2024
+* Eligibility: 916/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Total $ATOM distributed: 137 $ATOM
+* Distribution Date: May 1st 2024
+
