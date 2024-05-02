@@ -4,6 +4,10 @@
 
 Epoch distributed on 1st May 2024.&#x20;
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%201" %}
+Epoch 1 Snapshot
+{% endembed %}
+
 | Source              | Stars Yield                                                                                                                        | USD Price (0.019 USD/Stars) |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | Staked Assets       | [1980 Stars](https://www.mintscan.io/stargaze/tx/E1F84ADF1AD2FD7BFBD913554B66504CF58F66E13A4566D869E559BB04A0EE77?height=13404385) | 36 USD                      |
