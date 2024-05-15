@@ -465,3 +465,18 @@ GATA Epoch 20
 * Total $ATOM distributed: 137 $ATOM
 * Distribution Date: May 1st 2024
 
+| Source             | Atom Revenue | USD Value (9 USD/Atom) |
+| ------------------ | ------------ | ---------------------- |
+| Cosmso Validator   | 81.3 Atom    | 731 USD                |
+| Akash Validator    | 18.3 Atom    | 165 USD                |
+| Osmosis Validator  | 4.8 Atom     | 43 USD                 |
+| Archway Validator  | 6 Atom       | 54 USD                 |
+| Omniflix Validator | 18 Atom      | 162 USD                |
+| Juno Validator     | 1.53 Atom    | 14 USD                 |
+| Evmos Validator    | 0.7 Atom     | 6 USD                  |
+| Stars Validator    | 3.4  Atom    | 30 USD                 |
+| Stars Royalties    | 1 Atom       | 9 USD                  |
+| Teritori Validator | 2.2 Atom     | 20 USD                 |
+| Rollover           | 0.5 Atom     | 5 USD                  |
+| **Total**          | **137 Atom** | **1233 USD**           |
+
