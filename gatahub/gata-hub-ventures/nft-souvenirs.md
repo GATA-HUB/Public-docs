@@ -200,8 +200,8 @@ GCR is a GATA community events reward collection, It get's airdrop to winners di
 
 [https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc](https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc)\
 \
-[First campaign March 15 2024](https://omniflix.market/campaign/267)\
-\
+[First campaign March 15 2024](https://omniflix.market/campaign/267)
 
+[Second campaign April 15 2024](https://omniflix.market/campaign/339)
 
 </details>
