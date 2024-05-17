@@ -110,7 +110,8 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 
 ### 12th / Final Monthly Rewards (May 2024)
 
-\*in progress / winner not drawn yet\*
+20 $FLIX each to 20 holders. Total 400 $FLIX\
+[https://twitter.com/GataHubZone/status/1791513627075215650](https://twitter.com/GataHubZone/status/1791513627075215650)
 
 </details>
 
