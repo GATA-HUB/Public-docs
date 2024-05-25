@@ -48,7 +48,6 @@
   * [YP's Assets](gatahub/yield-paws/yps-assets.md)
   * [YP Reward Distribution](gatahub/yield-paws/yp-reward-distribution.md)
   * [Yield Paws FAQs](gatahub/yield-paws/yield-paws-faqs.md)
-* [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
 * [NFT Souvenirs](gatahub/gata-hub-ventures/nft-souvenirs.md)
 * [Apes in Games — Rise of Apelandia](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/README.md)
   * [AiG Lore](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-lore.md)
