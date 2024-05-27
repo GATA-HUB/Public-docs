@@ -23,4 +23,4 @@ description: >-
 
 ### Apps/Games&#x20;
 
-* [Deposit dApp](broken-reference) (working title)
+* Deposit dApp (working title/ Details soon)
