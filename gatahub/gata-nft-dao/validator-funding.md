@@ -7,3 +7,10 @@ description: >-
 
 # Validator funding
 
+
+
+| Date          | ATOM | USD      | Total USD funding |
+| ------------- | ---- | -------- | ----------------- |
+| 1st May, 2024 | 137  | 1150 USD | 1150 USD          |
+|               |      |          |                   |
+|               |      |          |                   |
