@@ -7,10 +7,10 @@ description: >-
 
 # Validator funding
 
+Following are the details of total funds disbursed to fund the validator operations.&#x20;
 
-
-| Date          | ATOM | USD      | Total USD funding |
-| ------------- | ---- | -------- | ----------------- |
-| 1st May, 2024 | 137  | 1150 USD | 1150 USD          |
-|               |      |          |                   |
-|               |      |          |                   |
+| Date           | ATOM | USD      | Total USD funding |
+| -------------- | ---- | -------- | ----------------- |
+| 1st May, 2024  | 137  | 1150 USD | 1150 USD          |
+| 1st June, 2024 |      |          |                   |
+| 1st July, 2024 |      |          |                   |
