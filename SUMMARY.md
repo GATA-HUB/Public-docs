@@ -24,6 +24,7 @@
   * [DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/README.md)
     * [DAO Revenue Share model](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/dao-revenue-share-model.md)
   * [GATA DAO Staking/Delegations](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md)
+  * [Validator funding](gatahub/gata-nft-dao/validator-funding.md)
   * [GATA Constitution](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/README.md)
     * [Gov. Proposal 1](gatahub/gata-nft-dao/gata-constitution/gov.-proposal-1.md)
     * [Gov. Proposal 2](gatahub/gata-nft-dao/gata-constitution/gov.-proposal-2.md)
