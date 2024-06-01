@@ -21,17 +21,7 @@ Total supply: 10,000
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>1/1 YG</p></figcaption></figure>
 {% endtab %}
-
-{% tab title="Yield 2nd" %}
-WIP
-
-
-{% endtab %}
 {% endtabs %}
-
-##
-
-##
 
 \
 &#x20;
