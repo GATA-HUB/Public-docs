@@ -45,6 +45,12 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 | Source     | 5000 Source   | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | SAGA       | 50 SAGA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 
+## YG Monthly income&#x20;
+
+This table records the Yield Gorillas income after the implementation of New yield model after community vote.&#x20;
+
+<table><thead><tr><th width="164">Period</th><th width="102">Epoch</th><th>Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td>Epoch 15</td><td></td><td>45 Atom</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
 ## YG supply table
 
 {% hint style="info" %}
