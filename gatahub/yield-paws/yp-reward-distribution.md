@@ -4,7 +4,7 @@
 
 * Epoch Distributed on 2nd June 2024
 * 149.3K  Stars Yielded (\~2710 USD)
-* 104.5K Distribution to YP holders based on skins&#x20;
+* [104.5K](https://www.mintscan.io/stargaze/tx/98F81B678F6E8691701FA132E572515D6E1B19377C05E375C7D42A6F5FC7A2C5) Distribution to YP holders based on skins&#x20;
 * 14.9K Stars sent to team
 * 14.9K Stars further added to LP ( \~270 USD)
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
