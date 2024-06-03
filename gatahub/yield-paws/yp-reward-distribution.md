@@ -1,7 +1,5 @@
 # YP Reward Distribution
 
-
-
 {% hint style="info" %}
 Total Stars Yield till date 254.5K $STARS ( Last updated June 3, 2024)&#x20;
 {% endhint %}
@@ -15,6 +13,10 @@ Total Stars Yield till date 254.5K $STARS ( Last updated June 3, 2024)&#x20;
 * 14.9K Stars further added to LP ( \~270 USD)
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
 * 3 x Raffle rewards worth 2500 $Stars to&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/gata-yp-epoch-rewards-v1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 1&#x20;
 
