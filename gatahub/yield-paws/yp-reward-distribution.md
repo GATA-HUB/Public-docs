@@ -14,7 +14,7 @@ Total Stars Yield till date 254.5K $STARS ( Last updated June 3, 2024)&#x20;
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
 * 3 x Raffle rewards worth 2500 $Stars to&#x20;
 
-
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%202" %}
 
 <figure><img src="../../.gitbook/assets/gata-yp-epoch-rewards-v1.jpg" alt=""><figcaption></figcaption></figure>
 
