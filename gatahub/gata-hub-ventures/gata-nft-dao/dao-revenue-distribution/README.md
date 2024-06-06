@@ -468,7 +468,7 @@ GATA Epoch 20
 
 ## GATA DAO Epoch 21
 
-* Epoch duration: from May 1st 2024 to May 30th 2024
+* Epoch duration: from April 1st 2024 to April 30th 2024
 * Eligibility: 916/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 137 $ATOM
 * Distribution Date: May 1st 2024
@@ -488,3 +488,9 @@ GATA Epoch 20
 | Rollover           | 0.5 Atom     | 5 USD                  |
 | **Total**          | **137 Atom** | **1233 USD**           |
 
+## GATA DAO Epoch 22
+
+* Epoch duration: from May 1st 2024 to May 31st 2024
+* Eligibility: 916/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Total $ATOM distributed: 148 $ATOM
+* Distribution Date: June 2nd 2024
