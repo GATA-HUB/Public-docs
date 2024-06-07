@@ -494,3 +494,5 @@ GATA Epoch 20
 * Eligibility: 916/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 148 $ATOM
 * Distribution Date: June 2nd 2024
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20epoch%2022" %}
