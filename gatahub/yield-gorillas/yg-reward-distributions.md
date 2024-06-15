@@ -9,6 +9,10 @@ description: Overview of all YG epoch rewards.
 2nd June 2024
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2015" %}
+YG snapshot for epoch 15
+{% endembed %}
+
+<figure><img src="../../.gitbook/assets/gata-yg-epoch-rewards-v2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 14
 
