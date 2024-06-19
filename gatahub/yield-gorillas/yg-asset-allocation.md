@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 35K USD`
+`Estimated value of the Staked Assets 27K USD`
 
 | Asset      | Amount Staked | Source                                                    |
 | ---------- | ------------- | --------------------------------------------------------- |
