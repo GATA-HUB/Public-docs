@@ -1,7 +1,10 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-Total Stars Yield till date 254.5K $STARS ( Last updated June 3, 2024)&#x20;
+* **254.5K $STARS** Total Stars Yield &#x20;
+* **2** Epoch distributed \
+  \
+  _( Last updated June 21, 2024)_&#x20;
 {% endhint %}
 
 ## YP Epoch 2
