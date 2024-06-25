@@ -2,6 +2,7 @@
 
 {% hint style="info" %}
 * **254.5K $STARS** Total Stars Yield &#x20;
+*
 * **2** Epoch distributed \
   \
   _( Last updated June 21, 2024)_&#x20;
