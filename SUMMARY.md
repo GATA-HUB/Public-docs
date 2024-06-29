@@ -91,6 +91,6 @@
 
 ## 🧑‍🤝‍🧑 What's cooking in community
 
-* [Crew3](whats-cooking-in-community/crew3.md)
+* [Zealy (Formerly Crew3)](whats-cooking-in-community/zealy-formerly-crew3.md)
 * [Quiz](whats-cooking-in-community/quiz.md)
 * [📙 Disclaimer](whats-cooking-in-community/disclaimer.md)
