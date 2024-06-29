@@ -9,7 +9,7 @@ At GATA, community building is one of the top priorities. GATA is now expanding 
 GATA identified [Zealy](https://zealy.io/cw/gatadao/questboard), a community-building platform for web3 communities. It was a perfect match. [Zealy](https://zealy.io/cw/gatadao/questboard)  allows us to create engagement tasks that keep the members involved and help expand the projects' community network. The tasks are easy and fun to perform. Community members also get rewarded with recognition points&#x20;
 
 How does this help the GATA community?\
-As said earlier, community building is one of the top priorities for GATA DAO. The [Zealy](https://zealy.io/cw/gatadao/questboard) tasks helps the DAO to recognize contributors based on contributions they make and let the DAO reward them on pro-rata basis (have a look at the [leaderboard](https://gatadao.crew3.xyz/leaderboard) to see the top contributors).&#x20;
+As said earlier, community building is one of the top priorities for GATA DAO. The [Zealy](https://zealy.io/cw/gatadao/questboard) tasks helps the DAO to recognize contributors based on contributions they make and let the DAO reward them on pro-rata basis (have a look at the [leaderboard ](https://zealy.io/cw/gatadao/leaderboard)to see the top contributors).&#x20;
 
 This approach has aspects of (addition to the fun part): \
 \-  Using internal forces to tell external forces about GATA\
