@@ -4,7 +4,6 @@
 * **254.5K $STARS** Yield &#x20;
 * **224K $Stars** distributed to holders
 * **2 Epoch** distributed \
-  \
   _( Last updated June 21, 2024)_&#x20;
 {% endhint %}
 
@@ -16,7 +15,7 @@
 * 14.9K Stars sent to team
 * 14.9K Stars further added to LP ( \~270 USD)
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
-* 3 x Raffle rewards worth 2500 $Stars to&#x20;
+* 3 x Raffle rewards worth 2500 $Stars to YPs [#2314](https://www.mintscan.io/stargaze/tx/B566CDE53E4C93CBECF5839F3FB0B68275A57542816761EBDC2004FB7D0C11FD?height=14005112), [#765 ](https://www.mintscan.io/stargaze/tx/2EEB469D229A2EACED1FD4482423F6C86830999C6C7C8DB53EC90E43E68F4655?height=14005121), [#3441](https://www.mintscan.io/stargaze/tx/8C26D01DB11E410E3378308D0B877FFE43424157AFB7CD9EED8896D457A8D538?height=14005133)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%202" %}
 
