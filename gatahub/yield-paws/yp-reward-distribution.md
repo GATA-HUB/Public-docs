@@ -17,6 +17,13 @@
 * YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using Stars&#x20;
 * 3 x Raffle rewards worth $Stars to YPs&#x20;
 
+| Source             | Stars Yield                                                                                                        | USD Price (0.014/Stars) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| Staked Assets      | [4123 Stars](https://www.mintscan.io/stargaze/tx/4AD1FD13557960EF2001DEF8852C12663A2AC7784DFE251A5CD0CAECD4A96ECF) |                         |
+| Managed Assets     |                                                                                                                    |                         |
+| Private investment |                                                                                                                    |                         |
+| **Total**          |                                                                                                                    |                         |
+
 ## YP Epoch 2
 
 * Epoch Distributed on 2nd June 2024
@@ -26,8 +33,6 @@
 * 14.9K Stars further added to LP ( \~270 USD)
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
 * 3 x Raffle rewards worth 2500 $Stars to YPs [#2314](https://www.mintscan.io/stargaze/tx/B566CDE53E4C93CBECF5839F3FB0B68275A57542816761EBDC2004FB7D0C11FD?height=14005112), [#765 ](https://www.mintscan.io/stargaze/tx/2EEB469D229A2EACED1FD4482423F6C86830999C6C7C8DB53EC90E43E68F4655?height=14005121), [#3441](https://www.mintscan.io/stargaze/tx/8C26D01DB11E410E3378308D0B877FFE43424157AFB7CD9EED8896D457A8D538?height=14005133)
-
-
 
 | Source              | Stars Yield | USD Price (0.0183/Stars) |
 | ------------------- | ----------- | ------------------------ |
