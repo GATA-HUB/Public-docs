@@ -17,12 +17,12 @@
 * YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using Stars&#x20;
 * 3 x Raffle rewards worth $Stars to YPs&#x20;
 
-| Source             | Stars Yield                                                                                                        | USD Price (0.014/Stars) |
+| Source             | Stars Yield                                                                                                        | USD Price (0.012/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| Staked Assets      | [4123 Stars](https://www.mintscan.io/stargaze/tx/4AD1FD13557960EF2001DEF8852C12663A2AC7784DFE251A5CD0CAECD4A96ECF) |                         |
-| Managed Assets     |                                                                                                                    |                         |
-| Private investment |                                                                                                                    |                         |
-| **Total**          |                                                                                                                    |                         |
+| Staked Assets      | [4123 Stars](https://www.mintscan.io/stargaze/tx/4AD1FD13557960EF2001DEF8852C12663A2AC7784DFE251A5CD0CAECD4A96ECF) | 50 USD                  |
+| Managed Assets     | 197000 Stars                                                                                                       | 2365 USD                |
+| Private investment | -- Stars                                                                                                           | -- USD                  |
+| **Total**          | **201123 Stars**                                                                                                   | **2415 USD**            |
 
 ## YP Epoch 2
 
