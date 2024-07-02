@@ -10,12 +10,12 @@
 ## YP Epoch 3
 
 * Epoch Distributed on July  2024
-* &#x20; Stars Yielded&#x20;
-* &#x20;Distribution to YP holders based on skins&#x20;
-* Stars sent to team
-* Stars further added to LP&#x20;
-* YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using Stars&#x20;
-* 3 x Raffle rewards worth $Stars to YPs&#x20;
+* &#x20;**201K Stars** Yielded&#x20;
+* &#x20;**160K Stars** Distribution to YP holders based on skins&#x20;
+* 20K Stars sent to team
+* 20K Stars further added to LP &#x20;
+* 13 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~10K Stars&#x20;
+* 3 x Raffle rewards worth 3333 $Stars to YPs&#x20;
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.012/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
