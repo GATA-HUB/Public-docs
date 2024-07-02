@@ -1,17 +1,17 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **254.5K $STARS** Yield &#x20;
-* **224K $Stars** distributed to holders
-* **2 Epoch** distributed \
-  _( Last updated June 21, 2024)_&#x20;
+* 4**55.5K $STARS** Yield &#x20;
+* **364.5K $Stars** distributed to holders
+* **3 Epoch** distributed \
+  _( Last updated July 2, 2024)_&#x20;
 {% endhint %}
 
 ## YP Epoch 3
 
 * Epoch Distributed on July  2024
 * 201K Stars Yielded&#x20;
-* 140.5K Stars Distribution to YP holders based on skins&#x20;
+* [140.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB) Stars Distribution to YP holders based on skins&#x20;
 * 20K Stars sent to team
 * 20K Stars further added to LP &#x20;
 * 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
