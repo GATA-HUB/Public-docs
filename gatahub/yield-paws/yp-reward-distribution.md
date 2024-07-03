@@ -24,6 +24,10 @@
 | Private investment | -- Stars                                                                                                           | -- USD                  |
 | **Total**          | **201123 Stars**                                                                                                   | **2415 USD**            |
 
+
+
+<figure><img src="../../.gitbook/assets/gata-yp-epoch-rewards-2024-07-epoch-3.jpg" alt=""><figcaption><p>YP Epoch 3</p></figcaption></figure>
+
 ## YP Epoch 2
 
 * Epoch Distributed on 2nd June 2024
