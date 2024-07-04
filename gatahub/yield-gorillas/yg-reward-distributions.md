@@ -12,6 +12,14 @@ description: Overview of all YG epoch rewards.
 _(Last updated 20 June 2024)_
 {% endhint %}
 
+## YG Epoch 16
+
+2nd July 2024
+
+
+
+<figure><img src="../../.gitbook/assets/gata-yg-rewards-2024-07-epoch-16.jpg" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 15
 
 2nd June 2024
