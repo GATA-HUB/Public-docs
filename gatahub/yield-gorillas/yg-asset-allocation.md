@@ -58,10 +58,10 @@ Distribution Ratio (70:10:10:5:5)(Holders: Back to assets :  Team : Burn: Raffle
 ## YG supply table
 
 {% hint style="info" %}
-Last updated June 2, 2024.&#x20;
+Last updated July 5, 2024.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>573</td><td>7059</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>591</td><td>9409</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>587</td><td>7045</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>605</td><td>9395</td></tr></tbody></table>
 
 <details>
 
