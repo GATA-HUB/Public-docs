@@ -1,5 +1,5 @@
 ---
-description: Last updated June 30, 2024
+description: Last updated July 5, 2024
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 22K USD`
+`Estimated value of the Staked Assets 18K USD`
 
 | Asset      | Amount Staked | Source                                                    |
 | ---------- | ------------- | --------------------------------------------------------- |
@@ -53,7 +53,7 @@ This table records the Yield Gorillas income after the implementation of New yie
 Distribution Ratio (70:10:10:5:5)(Holders: Back to assets :  Team : Burn: Raffle) &#x20;
 {% endhint %}
 
-<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> 15</td><td>381 Atom</td><td>336 Atom</td><td>45 Atom </td></tr><tr><td>1st June- 30th June 2024</td><td>16</td><td></td><td></td><td>41 Atom</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> 15</td><td>381 Atom</td><td>336 Atom</td><td>45 Atom </td></tr><tr><td>1st June- 30th June 2024</td><td>16</td><td>399 Atom</td><td>358 Atom</td><td>41 Atom</td></tr><tr><td>1st July-31st July 2024</td><td>17</td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 
