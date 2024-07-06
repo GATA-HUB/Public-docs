@@ -15,7 +15,7 @@
 * 20K Stars sent to team
 * 20K Stars further added to LP &#x20;
 * 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
-* 3 x Raffle rewards worth 3333 $Stars to YPs&#x20;
+* 3 x Raffle rewards worth 3333 $Stars to YPs [YP# 1861](https://www.mintscan.io/stargaze/tx/3B470B3A1AB76DABC7375D919B78C7A03F5A6CD8A08D2F372E79930FB1478FC9)**,** [YP# 0097](https://www.mintscan.io/stargaze/tx/CDDE8B2E75F1BAB0D99D76742BDF22B485964E18C87D79D4EDE221D6BDE06362) and [YP#0003](https://www.mintscan.io/stargaze/tx/3389774B90DD1485BCDBA250BE49178E4DD3ED6920617E429EE39B5A6DCC4BF9)
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.012/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
