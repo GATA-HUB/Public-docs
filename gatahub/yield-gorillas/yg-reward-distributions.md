@@ -18,7 +18,7 @@ _(Last updated 4 July 2024)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2016" %}
 
-<figure><img src="../../.gitbook/assets/gata-yg-rewards-2024-07-epoch-16.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gata-yg-rewards-2024-07-epoch-16.jpg" alt=""><figcaption><p>YG epoch 16</p></figcaption></figure>
 
 ## YG Epoch 15
 
