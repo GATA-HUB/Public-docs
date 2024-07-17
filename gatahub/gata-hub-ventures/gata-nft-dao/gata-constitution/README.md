@@ -6,6 +6,10 @@ description: >-
 
 # GATA Constitution
 
+{% hint style="info" %}
+GATA DAO's decision making progressed to onchain DAO via DAO DAO earlier 2024. [_Learn more here._](https://daodao.zone/dao/stars1v9yezwju74fyjkjrzh7j90y5ga9xg2ulzft0z69nmtlh0hayvhuqnpsenf)
+{% endhint %}
+
 A DAO (decentralized autonomous organization) is a blockchain-based organization that operates without the need for intermediaries such as banks or governments. Instead, a DAO relies on smart contracts and decentralized decision-making processes to govern its operations.
 
 One of the key aspects of a DAO is its governance structure. Governance refers to the mechanisms and processes used by the DAO to make decisions and manage its operations. This includes decision-making processes, membership rules, and procedures for resolving disputes.
