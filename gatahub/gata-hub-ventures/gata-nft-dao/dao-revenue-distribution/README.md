@@ -522,3 +522,20 @@ GATA Epoch 20
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2023" %}
 GATA Epoch 23
 {% endembed %}
+
+
+
+| Source             | Atom Revenue | USD Value (7 USD/Atom) |
+| ------------------ | ------------ | ---------------------- |
+| Cosmos Validator   | 80.7         | 565 USD                |
+| Akash Validator    | 24.9         | 175 USD                |
+| Omniflix Validator | 16.5         | 115 USD                |
+| Archway Validator  | 3.36         | 23 USD                 |
+| Osmosis Validator  | 3.15         | 12 USD                 |
+| Stargaze Validator | 2.4          | 17 USD                 |
+| Juno Validator     | 1.35         | 10 USD                 |
+| Teritori Validator | 1.2          | 8 USD                  |
+| Evmos Validator    | 0.36         | 2 USD                  |
+| Stargaze royalties | 0.3          | 2 USD                  |
+| Rollover           | 6            | 42 USD                 |
+| **Total**          | **141**      | **987 USD**            |
