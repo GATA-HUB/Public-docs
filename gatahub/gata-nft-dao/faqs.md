@@ -10,7 +10,7 @@ description: Important and frequently asked questions.
 
 <summary>What is GATA DAO?</summary>
 
-GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds GATA NFT and are eligible to take part in DAO decision making democratically. With these decisions they navigates the GATA DAO's ventures.&#x20;
+GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds GATA NFT ([Colonial cats](https://www.stargaze.zone/m/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm/tokens), [Voyager cats](https://www.stargaze.zone/m/voyagercats/tokens))and are eligible to take part in DAO decision making democratically. With these decisions they navigates the GATA DAO's ventures.&#x20;
 
 </details>
 
@@ -26,7 +26,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <!---->
 
-* [Staking](../gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards&#x20;
+* [Staking](../gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards of GATA DAO Owned assets.
 
 </details>
 
@@ -42,7 +42,7 @@ GATA DAO distribute the revenue share with the GATA NFT holders each month, to c
 
 <summary>How many type of NFTs GATA DAO have? </summary>
 
-GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](broken-reference).&#x20;
+GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here. ](../summary.md)
 
 </details>
 
@@ -60,7 +60,7 @@ Colonial Cats (GATAc) is the very first GATA series NFT collection of GATA DAO. 
 
 Holding a GATA NFT gives you the following utility:
 
-**·**        Voting power in [GATA DAO](../gata-nft-dao/on-chain-gata-dao.md)
+**·**        Voting power in [GATA DAO](on-chain-gata-dao.md)
 
 **·**        50% Validator commission distributed to GATA holders
 
