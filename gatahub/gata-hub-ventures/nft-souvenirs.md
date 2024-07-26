@@ -197,8 +197,8 @@ GATA Horizons is a side collection of GATA, launched on Jan. 1st 2024, made by [
 
 <summary>GCR</summary>
 
-GCR is a GATA community events reward collection, It get's airdrop to winners directly in their wallets. winners Burn the NFTs via Omniflix campaigns for the rewards.&#x20;
-
+GCR is a GATA community events reward collection, It get's airdrop to winners directly in their wallets. winners Burn the NFTs via Omniflix campaigns for the rewards.\
+\
 [https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc](https://omniflix.market/collection/onftdenomf68e41d26cac491a9881a6d10eb750bc)\
 \
 [First campaign March 15 2024](https://omniflix.market/campaign/267)
@@ -207,8 +207,8 @@ GCR is a GATA community events reward collection, It get's airdrop to winners di
 
 [Third campaign May 15 2024](https://omniflix.market/campaign/363)
 
-Fourth campaign June 2024
+[Fourth campaign June 2024](https://omniflix.market/campaign/375)
 
-Fifth campaign July 2024
+[Fifth campaign July 2024](https://omniflix.market/campaign/396) &#x20;
 
 </details>
