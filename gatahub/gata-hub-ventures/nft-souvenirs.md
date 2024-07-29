@@ -50,7 +50,7 @@ All winners will be selected automatically.
 
 ### **2nd Monthly Rewards (July 2023)**
 
-Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts](https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts)
+Bought \~$100 worth of GATA x Omniflix launch souvenir to burn.  [https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts](https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts)
 
 ### 3rd Monthly Rewards (August 2023)
 
