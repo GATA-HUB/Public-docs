@@ -1,21 +1,21 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* 4**55.5K $STARS** Yield &#x20;
-* **364.5K $Stars** distributed to holders
-* **3 Epoch** distributed \
-  _( Last updated July 2, 2024)_&#x20;
+* **695.6K $STARS** Yield &#x20;
+* **533K $Stars** distributed to holders
+* **4 Epoch** distributed \
+  _( Last updated July 31, 2024)_&#x20;
 {% endhint %}
 
-## YP Epoch 3
+## YP Epoch 4
 
 * Epoch Distributed on August  2024
-* 201K Stars Yielded&#x20;
-* [140.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB) Stars Distribution to YP holders based on skins&#x20;
-* 20K Stars sent to team
-* 20K Stars further added to LP &#x20;
-* 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
-* 3 x Raffle rewards worth  $Stars to YPs&#x20;
+* 241K Stars Yielded&#x20;
+* [168.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* 24K Stars sent to team
+* 24K Stars further added to LP (\~240 USD) &#x20;
+* 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~12K Stars&#x20;
+* 3 x Raffle rewards worth 4000 $Stars each to YPs&#x20;
 
 | Source             | Stars yield                                                                                                        | USD Price (0.01/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------- |
@@ -30,7 +30,7 @@
 * 201K Stars Yielded&#x20;
 * [140.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB) Stars Distribution to YP holders based on skins&#x20;
 * 20K Stars sent to team
-* 20K Stars further added to LP &#x20;
+* 20K Stars further added to LP  (240 USD)
 * 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
 * 3 x Raffle rewards worth 3333 $Stars to YPs [YP# 1861](https://www.mintscan.io/stargaze/tx/3B470B3A1AB76DABC7375D919B78C7A03F5A6CD8A08D2F372E79930FB1478FC9)**,** [YP# 0097](https://www.mintscan.io/stargaze/tx/CDDE8B2E75F1BAB0D99D76742BDF22B485964E18C87D79D4EDE221D6BDE06362) and [YP#0003](https://www.mintscan.io/stargaze/tx/3389774B90DD1485BCDBA250BE49178E4DD3ED6920617E429EE39B5A6DCC4BF9)
 
