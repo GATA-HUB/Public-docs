@@ -9,6 +9,23 @@
 
 ## YP Epoch 3
 
+* Epoch Distributed on August  2024
+* 201K Stars Yielded&#x20;
+* [140.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB) Stars Distribution to YP holders based on skins&#x20;
+* 20K Stars sent to team
+* 20K Stars further added to LP &#x20;
+* 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
+* 3 x Raffle rewards worth  $Stars to YPs&#x20;
+
+| Source             | Stars yield                                                                                                        | USD Price (0.01/Stars) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| Staked Assets      | [4166 Stars](https://www.mintscan.io/stargaze/tx/3066CEA4A7652A9DAE5E2FE6999ABA225320A9D1B97E6B526D2BC4268F2A2FBA) | 41 USD                 |
+| Managed Assets     | 237000                                                                                                             | 2360 USD               |
+| Private Investment | -- Stars                                                                                                           | -- USD                 |
+| **Total**          | **240166**                                                                                                         | **2400 USD**           |
+
+## YP Epoch 3
+
 * Epoch Distributed on July  2024
 * 201K Stars Yielded&#x20;
 * [140.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB) Stars Distribution to YP holders based on skins&#x20;
