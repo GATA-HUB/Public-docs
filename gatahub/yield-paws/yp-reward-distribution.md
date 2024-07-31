@@ -14,7 +14,7 @@
 * [168.5K](https://www.mintscan.io/stargaze/tx/2C298A4756D5B8A7D22BCEDF5A265C2BD8AC67FF59AE62928AF3C58495C74EBB)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
 * 24K Stars sent to team
 * 24K Stars further added to LP (\~240 USD) &#x20;
-* 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~12K Stars&#x20;
+* 15 YPs [burned](https://www.mintscan.io/stargaze/tx/BE4C7028025A1C83B361751E99B8B41E98D02F0E357F305534B9C17724684B39?height=14740280) using \~12K Stars&#x20;
 * 3 x Raffle rewards worth 4000 $Stars each to YPs&#x20;
 
 | Source             | Stars yield                                                                                                        | USD Price (0.01/Stars) |
