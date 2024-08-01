@@ -22,7 +22,7 @@
 | Staked Assets      | [4166 Stars](https://www.mintscan.io/stargaze/tx/3066CEA4A7652A9DAE5E2FE6999ABA225320A9D1B97E6B526D2BC4268F2A2FBA) | 41 USD                 |
 | Managed Assets     | 237000                                                                                                             | 2360 USD               |
 | Private Investment | -- Stars                                                                                                           | -- USD                 |
-| **Total**          | **240166**                                                                                                         | **2400 USD**           |
+| **Total**          | **241166**                                                                                                         | **2400 USD**           |
 
 ## YP Epoch 3
 
