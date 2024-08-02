@@ -539,3 +539,10 @@ GATA Epoch 23
 | Stargaze royalties | 0.3          | 2 USD                  |
 | Rollover           | 6            | 42 USD                 |
 | **Total**          | **141**      | **987 USD**            |
+
+## GATA DAO Epoch 24
+
+* Epoch duration: from July 1st 2024 to July 31st 2024
+* Eligibility: 938/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.
+* Total $ATOM distributed: 151 $ATOM
+* Distribution Date: August 1st 2024
