@@ -5,11 +5,11 @@ description: Overview of all YG epoch rewards.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **7850** Atom total yield
-* **5020+** Atom distributed to holders
-* **16** Epoch distributed
+* **8277** Atom total yield
+* **5361+** Atom distributed to holders
+* **17** Epoch distributed
 
-_(Last updated 4 July 2024)_
+_(Last updated 7 August 2024)_
 {% endhint %}
 
 ## YG Epoch 16
