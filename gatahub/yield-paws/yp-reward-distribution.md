@@ -24,6 +24,8 @@
 | Private Investment | -- Stars                                                                                                           | -- USD                 |
 | **Total**          | **241166**                                                                                                         | **2400 USD**           |
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
+
 ## YP Epoch 3
 
 * Epoch Distributed on July  2024
