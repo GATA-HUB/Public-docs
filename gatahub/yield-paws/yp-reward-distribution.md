@@ -15,7 +15,7 @@
 * 24K Stars sent to team
 * 24K Stars further added to LP (\~240 USD) &#x20;
 * 15 YPs [burned](https://www.mintscan.io/stargaze/tx/BE4C7028025A1C83B361751E99B8B41E98D02F0E357F305534B9C17724684B39?height=14740280) using \~12K Stars&#x20;
-* 3 x Raffle rewards worth 4000 $Stars each to YPs&#x20;
+* 3 x Raffle rewards worth 4000 $Stars each to [**YP #3854**](https://www.mintscan.io/stargaze/tx/23048DE72619BD42F95688627E290C8403633A27761F7892C75F76A42BF6EBD8)**,** [**YP #3189**](https://www.mintscan.io/stargaze/tx/5A62ACB1AD73F766A46669406DB093003083432CF1C354C9387482DA6EDE607E) **and** [**YP #1232**](https://www.mintscan.io/stargaze/tx/D367E7102C1354A1866BF39B20E2E477699CE1BDD566D71AA0E8D009FA5D13C0)
 
 | Source             | Stars yield                                                                                                        | USD Price (0.01/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------- |
@@ -36,7 +36,7 @@
 * 20K Stars sent to team
 * 20K Stars further added to LP  (240 USD)
 * 13 YPs [burned ](https://www.mintscan.io/stargaze/txs/9DCDECC6E6BEFDE9C7DD9834565C8126ABB7546B508E33C9B1E64D24558AB097)using \~10K Stars&#x20;
-* 3 x Raffle rewards worth 3333 $Stars to YPs [YP# 1861](https://www.mintscan.io/stargaze/tx/3B470B3A1AB76DABC7375D919B78C7A03F5A6CD8A08D2F372E79930FB1478FC9)**,** [YP# 0097](https://www.mintscan.io/stargaze/tx/CDDE8B2E75F1BAB0D99D76742BDF22B485964E18C87D79D4EDE221D6BDE06362) and [YP#0003](https://www.mintscan.io/stargaze/tx/3389774B90DD1485BCDBA250BE49178E4DD3ED6920617E429EE39B5A6DCC4BF9)
+* 3 x Raffle rewards worth 3333 $Stars to  [YP# 1861](https://www.mintscan.io/stargaze/tx/3B470B3A1AB76DABC7375D919B78C7A03F5A6CD8A08D2F372E79930FB1478FC9)**,** [YP# 0097](https://www.mintscan.io/stargaze/tx/CDDE8B2E75F1BAB0D99D76742BDF22B485964E18C87D79D4EDE221D6BDE06362) and [YP#0003](https://www.mintscan.io/stargaze/tx/3389774B90DD1485BCDBA250BE49178E4DD3ED6920617E429EE39B5A6DCC4BF9)
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.012/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
