@@ -24,6 +24,8 @@
 | Private Investment | -- Stars                                                                                                           | -- USD                 |
 | **Total**          | **241166**                                                                                                         | **2400 USD**           |
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%204" %}
+
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
 
 ## YP Epoch 3
