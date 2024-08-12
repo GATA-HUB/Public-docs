@@ -12,6 +12,14 @@ description: Overview of all YG epoch rewards.
 _(Last updated 7 August 2024)_
 {% endhint %}
 
+## YG Epoch 17
+
+1st August 2024
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+
 ## YG Epoch 16
 
 2nd July 2024
@@ -46,7 +54,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
@@ -64,7 +72,7 @@ YG Snpashot for Epoch 14
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 
