@@ -451,7 +451,7 @@ Epoch 17
 GATA Epoch 20
 {% endembed %}
 
-| Source             | Atom Revenue | USD value ( 11 USd/Atom) |
+| Source             | ATOM Revenue | USD value ( 11 USd/Atom) |
 | ------------------ | ------------ | ------------------------ |
 | Atom Validator     | 100 Atom     | 1100 USD                 |
 | Akash Validator    | 23.8 Atom    | 262 USD                  |
@@ -473,7 +473,7 @@ GATA Epoch 20
 * Total $ATOM distributed: 137 $ATOM
 * Distribution Date: May 1st 2024
 
-| Source             | Atom Revenue | USD Value (9 USD/Atom) |
+| Source             | ATOM Revenue | USD Value (9 USD/ATOM) |
 | ------------------ | ------------ | ---------------------- |
 | Cosmso Validator   | 81.3 Atom    | 731 USD                |
 | Akash Validator    | 18.3 Atom    | 165 USD                |
@@ -497,20 +497,20 @@ GATA Epoch 20
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20epoch%2022" %}
 
-| Source             | Atom Revenue | USD Value (8 USD/ Atom)  |
+| Source             | ATOM Revenue | USD Value (8 USD/ ATOM)  |
 | ------------------ | ------------ | ------------------------ |
-| Cosmos Validator   | 81.6 Atom    | 654 USD                  |
-| Akash Validator    | 24.3 Atom    | 195 USD                  |
-| Archway Validator  | 4.8 Atom     | 38 USD                   |
-| Omniflix Validator | 14.8 Atom    | 119 USD                  |
-| Osmosis Validator  | 3.8 Atom     | 30 USD                   |
-| Juno Validator     | 1.5 Atom     | 12 USD                   |
-| Teritori Validator | 3.3 Atom     | 27 USD                   |
-| Evmos Validator    | 1 Atom       | 8 USD                    |
-| Stargaze Validator | 3 Atom       | 24 USD                   |
-| Stargaze royalties | 1 Atom       | 8 USD                    |
-| Rollover           | 9 Atom       | 72 USD                   |
-| **Total**          | **148 Atom** | **1184 USD**             |
+| Cosmos Validator   | 81.6 ATOM    | 654 USD                  |
+| Akash Validator    | 24.3 ATOM    | 195 USD                  |
+| Archway Validator  | 4.8 ATOM     | 38 USD                   |
+| Omniflix Validator | 14.8 ATOM    | 119 USD                  |
+| Osmosis Validator  | 3.8 ATOM     | 30 USD                   |
+| Juno Validator     | 1.5 ATOM     | 12 USD                   |
+| Teritori Validator | 3.3 ATOM     | 27 USD                   |
+| Evmos Validator    | 1 ATOM       | 8 USD                    |
+| Stargaze Validator | 3 ATOM       | 24 USD                   |
+| Stargaze royalties | 1 ATOM       | 8 USD                    |
+| Rollover           | 9 ATOM       | 72 USD                   |
+| **Total**          | **148 ATOM** | **1184 USD**             |
 
 ## GATA DAO Epoch 23
 
@@ -525,20 +525,20 @@ GATA Epoch 23
 
 
 
-| Source             | Atom Revenue | USD Value (7 USD/Atom) |
+| Source             | ATOM Revenue | USD Value (7 USD/ATOM) |
 | ------------------ | ------------ | ---------------------- |
-| Cosmos Validator   | 80.7         | 565 USD                |
-| Akash Validator    | 24.9         | 175 USD                |
-| Omniflix Validator | 16.5         | 115 USD                |
-| Archway Validator  | 3.36         | 23 USD                 |
-| Osmosis Validator  | 3.15         | 12 USD                 |
-| Stargaze Validator | 2.4          | 17 USD                 |
-| Juno Validator     | 1.35         | 10 USD                 |
-| Teritori Validator | 1.2          | 8 USD                  |
-| Evmos Validator    | 0.36         | 2 USD                  |
-| Stargaze royalties | 0.3          | 2 USD                  |
-| Rollover           | 6            | 42 USD                 |
-| **Total**          | **141**      | **987 USD**            |
+| Cosmos Validator   | 80.7 ATOM    | 565 USD                |
+| Akash Validator    | 24.9 ATOM    | 175 USD                |
+| Omniflix Validator | 16.5 ATOM    | 115 USD                |
+| Archway Validator  | 3.36 ATOM    | 23 USD                 |
+| Osmosis Validator  | 3.15 ATOM    | 12 USD                 |
+| Stargaze Validator | 2.4 ATOM     | 17 USD                 |
+| Juno Validator     | 1.35 ATOM    | 10 USD                 |
+| Teritori Validator | 1.2 ATOM     | 8 USD                  |
+| Evmos Validator    | 0.36 ATOM    | 2 USD                  |
+| Stargaze royalties | 0.3 ATOM     | 2 USD                  |
+| Rollover           | 6 ATOM       | 42 USD                 |
+| **Total**          | **141 ATOM** | **987 USD**            |
 
 ## GATA DAO Epoch 24
 
@@ -546,3 +546,20 @@ GATA Epoch 23
 * Eligibility: 938/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.
 * Total $ATOM distributed: 151 $ATOM
 * Distribution Date: August 1st 2024
+
+
+
+| Source             | ATOM Revenue | USD Value (6 USD/ATOM) |
+| ------------------ | ------------ | ---------------------- |
+| Cosmos Validator   | 77 ATOM      | 462 USD                |
+| Akash Validator    | 25 ATOM      | 150 USD                |
+| Omniflix Validator | 24 ATOM      | 144 USD                |
+| Archway Validator  | 3 ATOM       | 18 USD                 |
+| Osmosis Validator  | 3 ATOM       | 18 USD                 |
+| Teritori Validator | 1 ATOM       | 6 USD                  |
+| Stargaze Validator | 2 ATOM       | 12 USD                 |
+| Juno Validator     | 1 ATOM       | 6 USD                  |
+| Evmos Validator    | 0.5 ATOM     | 3 USD                  |
+| Stargaze Roylaties | 1 ATOM       | 6 USD                  |
+| Rollover           | 14 ATOM      | 84 USD                 |
+| **Total**          | **151 ATOM** | **906 USD**            |
