@@ -547,7 +547,7 @@ GATA Epoch 23
 * Total $ATOM distributed: 151 $ATOM
 * Distribution Date: August 1st 2024
 
-
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2024" %}
 
 | Source             | ATOM Revenue | USD Value (6 USD/ATOM) |
 | ------------------ | ------------ | ---------------------- |
