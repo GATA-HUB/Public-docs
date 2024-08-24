@@ -39,7 +39,7 @@ The original amount was staked at the end of the Mint (Nov 2022).&#x20;
 | ---------- | ------------- | --------------------------------------------------------- |
 | Cosmos Hub | 2500 ATOM     | Mint                                                      |
 | Teritori   | 381000 TORI   | Mint                                                      |
-| Osmosis    | 215 OSMO      | LP Incentives                                             |
+| Osmosis    | 240 OSMO      | LP Incentives                                             |
 | Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
