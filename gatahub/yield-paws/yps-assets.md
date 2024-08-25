@@ -8,10 +8,10 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 
 ## Staked Assets
 
-| Asset/Chain     | Quantity      | Check wallet                                                                                          |
+| Asset/Chain     | Quantity      |  Wallet                                                                                               |
 | --------------- | ------------- | ----------------------------------------------------------------------------------------------------- |
 | STARS/ Stargaze | 315K stargaze | [stars...c37y](https://www.mintscan.io/stargaze/address/stars1e2vmgzdlm4yc2hls6nvclqpxcmhkmw2uzlc37y) |
-| OSMO/Osmosis    | 140 OSMO      | [osmo...cuur8](https://www.mintscan.io/osmosis/address/osmo1e2vmgzdlm4yc2hls6nvclqpxcmhkmw2u7cuur8)   |
+| OSMO/Osmosis    | 150 OSMO      | [osmo...cuur8](https://www.mintscan.io/osmosis/address/osmo1e2vmgzdlm4yc2hls6nvclqpxcmhkmw2u7cuur8)   |
 |                 |               |                                                                                                       |
 
 ## Burned YPs

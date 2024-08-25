@@ -1,5 +1,5 @@
 ---
-description: Last updated July 31, 2024
+description: Last updated August 25, 2024
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -22,24 +22,17 @@ layout:
 
 ## Mint Proceeds&#x20;
 
-The original amount was staked at the end of the Mint (Nov 2022).&#x20;
-
-| Asset | Amount staked                                                                                       | Validator                                                                                               |
-| ----- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ATOM  | [4920 ATOM](https://www.mintscan.io/cosmos/account/cosmos1p454fm4rerxddn0uppen8hvckceylf7p7a2jpf)   | [GATA ](https://www.mintscan.io/cosmos/validators/cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6) |
-| TORI  | [381000 TORI](https://www.mintscan.io/teritori/account/tori1p454fm4rerxddn0uppen8hvckceylf7pufam6e) | [GATA](https://www.mintscan.io/teritori/validators/torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn)  |
-
-100% of the Yield Gorillas mint proceeds had been staked right after the mint.&#x20;
+The original amount was staked at the end of the Mint (Nov 2022).  100% of the Yield Gorillas mint proceeds had been staked right after the mint in form of [4920](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767)[ ATOM](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767) and [381K TORI](https://www.mintscan.io/teritori/tx/C1CFA0BAE0A08B827D2F1BC0A41DC37D9DAA80BC464836F94163C00E92DFE39E?height=756347).&#x20;
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 18K USD`
+`Estimated value of the Staked Assets 15K USD`
 
 | Asset      | Amount Staked | Source                                                    |
 | ---------- | ------------- | --------------------------------------------------------- |
 | Cosmos Hub | 2500 ATOM     | Mint                                                      |
 | Teritori   | 381000 TORI   | Mint                                                      |
-| Osmosis    | 240 OSMO      | LP Incentives                                             |
+| Osmosis    | 250 OSMO      | LP Incentives                                             |
 | Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
