@@ -212,3 +212,15 @@ GCR is a GATA community events reward collection, It get's airdrop to winners di
 [Fifth campaign July 2024](https://omniflix.market/campaign/396) &#x20;
 
 </details>
+
+## 7- GATA Delegator Reward 2023
+
+<details>
+
+<summary>Details- GATA Delegator Reward 2024</summary>
+
+GATA HUB Delegator Reward NFTs for every GATA fam member who staked with GATA on various IBC chains. \~5000 NFTs of 8 Networks were airdropped to the validators. \
+\
+[See on marketplace ](https://omniflix.market/c/onftdenom98a328b68f994118af813e69723f2cf6)
+
+</details>
