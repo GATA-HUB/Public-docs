@@ -213,7 +213,7 @@ GCR is a GATA community events reward collection, It get's airdrop to winners di
 
 </details>
 
-## 7- GATA Delegator Reward 2023
+## 7- GATA Delegator Reward 2024
 
 <details>
 
