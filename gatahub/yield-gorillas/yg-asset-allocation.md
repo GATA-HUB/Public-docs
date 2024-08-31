@@ -32,7 +32,7 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 | ---------- | ------------- | --------------------------------------------------------- |
 | Cosmos Hub | 2500 ATOM     | Mint                                                      |
 | Teritori   | 381000 TORI   | Mint                                                      |
-| Osmosis    | 275 OSMO      | LP Incentives                                             |
+| Osmosis    | 290 OSMO      | LP Incentives                                             |
 | Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
 | Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets) |
@@ -47,7 +47,7 @@ This table records the Yield Gorillas income after the implementation of New yie
 Distribution Ratio (70:10:10:5:5)(Holders: Back to assets :  Team : Burn: Raffle) &#x20;
 {% endhint %}
 
-<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> <a href="yg-reward-distributions.md#yg-epoch-15">15</a></td><td>381 ATOM</td><td>336 ATOM</td><td>45 ATOM</td></tr><tr><td>1st June- 30th June 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-16">16</a></td><td>399 ATOM</td><td>358 ATOM</td><td>41 ATOM</td></tr><tr><td>1st July-31st July 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-17">17</a></td><td>427 ATOM</td><td>388 ATOM</td><td>39 ATOM</td></tr></tbody></table>
+<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> <a href="yg-reward-distributions.md#yg-epoch-15">15</a></td><td>381 ATOM</td><td>336 ATOM</td><td>45 ATOM</td></tr><tr><td>1st June- 30th June 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-16">16</a></td><td>399 ATOM</td><td>358 ATOM</td><td>41 ATOM</td></tr><tr><td>1st July-31st July 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-17">17</a></td><td>427 ATOM</td><td>388 ATOM</td><td>39 ATOM</td></tr><tr><td>1st August-31st August 2024</td><td>18</td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 
