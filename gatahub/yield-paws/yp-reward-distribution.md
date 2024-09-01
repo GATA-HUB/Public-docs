@@ -7,6 +7,17 @@
   _( Last updated July 31, 2024)_&#x20;
 {% endhint %}
 
+## YP Epoch 5
+
+
+
+| Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| Staked Assets      | [4423 Stars](https://www.mintscan.io/stargaze/tx/CADDEA8A0028CC80294560B406488BEE9E2EE42910DC5649D5F13D25AF6DB1C6) | 35 USD                  |
+| Managed Assets     | 246000 Stars                                                                                                       | 1970 USD                |
+| Private investment | -- Stars                                                                                                           | -- USD                  |
+| **Total**          | **250423 Stars**                                                                                                   | **2005 USD**            |
+
 ## YP Epoch 4
 
 * Epoch Distributed on August  2024
@@ -20,7 +31,7 @@
 | Source             | Stars yield                                                                                                        | USD Price (0.01/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | Staked Assets      | [4166 Stars](https://www.mintscan.io/stargaze/tx/3066CEA4A7652A9DAE5E2FE6999ABA225320A9D1B97E6B526D2BC4268F2A2FBA) | 41 USD                 |
-| Managed Assets     | 237000                                                                                                             | 2360 USD               |
+| Managed Assets     | 237000 Stars                                                                                                       | 2360 USD               |
 | Private Investment | -- Stars                                                                                                           | -- USD                 |
 | **Total**          | **241166**                                                                                                         | **2400 USD**           |
 
