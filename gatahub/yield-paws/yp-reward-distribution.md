@@ -9,7 +9,13 @@
 
 ## YP Epoch 5
 
-
+* Epoch Distributed on September  2024
+* 250.5K Stars Yielded&#x20;
+* 175K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* 25K Stars sent to team
+* 25K Stars further added to LP (\~200 USD) &#x20;
+* &#x20;8 YPs burned using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 4000 $Stars each to [**YP #3854**](https://www.mintscan.io/stargaze/tx/23048DE72619BD42F95688627E290C8403633A27761F7892C75F76A42BF6EBD8)**,** [**YP #3189**](https://www.mintscan.io/stargaze/tx/5A62ACB1AD73F766A46669406DB093003083432CF1C354C9387482DA6EDE607E) **and** [**YP #1232**](https://www.mintscan.io/stargaze/tx/D367E7102C1354A1866BF39B20E2E477699CE1BDD566D71AA0E8D009FA5D13C0)
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
