@@ -12,6 +12,12 @@ description: Overview of all YG epoch rewards.
 _(Last updated 7 August 2024)_
 {% endhint %}
 
+## YG Epoch 18
+
+2nd September 2024
+
+
+
 ## YG Epoch 17
 
 1st August 2024
