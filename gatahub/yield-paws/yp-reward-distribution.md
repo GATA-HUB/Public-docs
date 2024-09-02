@@ -1,10 +1,10 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **695.6K $STARS** Yield &#x20;
-* **533K $Stars** distributed to holders
-* **4 Epoch** distributed \
-  _( Last updated July 31, 2024)_&#x20;
+* **946K $STARS** Yield &#x20;
+* **733K $Stars** distributed to holders
+* **5 Epoch** distributed \
+  _( Last updated September 2, 2024)_&#x20;
 {% endhint %}
 
 ## YP Epoch 5
@@ -15,7 +15,7 @@
 * 25K Stars sent to team
 * 25K Stars further added to LP (\~200 USD) &#x20;
 * &#x20;8 YPs **burned** using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 4200 $Stars each to **YP #, YP # and YP #**
+* 3 x Raffle rewards worth 4200 $Stars each to **YP# 0054, YP# 4665 and YP#3934**
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
@@ -23,6 +23,8 @@
 | Managed Assets     | 246000 Stars                                                                                                       | 1970 USD                |
 | Private investment | -- Stars                                                                                                           | -- USD                  |
 | **Total**          | **250423 Stars**                                                                                                   | **2005 USD**            |
+
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>YP Epoch 5</p></figcaption></figure>
 
 ## YP Epoch 4
 
