@@ -17,6 +17,8 @@
 * &#x20;8 YPs **burned** using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 4200 $Stars each to **YP# 0054, YP# 4665 and YP#3934**
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%205" %}
+
 | Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
 | Staked Assets      | [4423 Stars](https://www.mintscan.io/stargaze/tx/CADDEA8A0028CC80294560B406488BEE9E2EE42910DC5649D5F13D25AF6DB1C6) | 35 USD                  |
