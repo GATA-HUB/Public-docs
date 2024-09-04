@@ -5,18 +5,20 @@ description: Overview of all YG epoch rewards.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **8277** Atom total yield
-* **5361+** Atom distributed to holders
-* **17** Epoch distributed
+* **8718** Atom total yield
+* **5714+** Atom distributed to holders
+* **18** Epoch distributed
 
-_(Last updated 7 August 2024)_
+_(Last updated 4 Sep, 2024)_
 {% endhint %}
 
 ## YG Epoch 18
 
 2nd September 2024
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2018" %}
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
 
 ## YG Epoch 17
 
@@ -24,7 +26,7 @@ _(Last updated 7 August 2024)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
 
 ## YG Epoch 16
 
@@ -60,7 +62,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
