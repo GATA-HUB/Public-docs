@@ -11,7 +11,7 @@ description: >-
 
 * [Validator operations](gata-hub-ventures/gata-validators/)
 * [Relay operations ](gata-hub-ventures/public-goods/gata-relays.md)
-* [Public RPC](gata-hub-ventures/public-goods/rpc.md)
+* [Public RPC](public-goods/end-points.md)
 * [Staking & Delegations ](gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
 
 ### NFT collections

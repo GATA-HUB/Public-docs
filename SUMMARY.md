@@ -14,7 +14,7 @@
   * [Foundation Delegations](gatahub/gata-hub-ventures/gata-validators/foundation-delegations.md)
 * [Public goods](gatahub/gata-hub-ventures/public-goods/README.md)
   * [GATA Relays](gatahub/gata-hub-ventures/public-goods/gata-relays.md)
-  * [RPC](gatahub/gata-hub-ventures/public-goods/rpc.md)
+  * [End points](gatahub/public-goods/end-points.md)
 * [GATA NFT DAO](gatahub/gata-hub-ventures/gata-nft-dao/README.md)
   * [About GATA NFTs](gatahub/gata-nft-dao/about-gata-nfts/README.md)
     * [Origin of γάτα](gatahub/gata-nft-dao/about-gata-nfts/origin-of-gata.md)
