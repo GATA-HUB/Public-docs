@@ -15,7 +15,7 @@
 * 25K Stars sent to team
 * 25K Stars further added to LP (\~200 USD) &#x20;
 * &#x20;8 YPs **burned** using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 4200 $Stars each to **YP# 0054, YP# 4665 and YP#3934**
+* 3 x Raffle rewards worth 4200 $Stars each to [**YP# 0054**](https://www.mintscan.io/stargaze/tx/728FFCE4CEE5D935D84963D3DA3A0DB72673BF4B89F53457210E3A19F8E8FD78)**,** [**YP# 4665**](https://www.mintscan.io/stargaze/tx/8A5F9E46D8C9973290773302C1694E77721AA55CEF9143A5979964DF87D18B7B) **and** [**YP#3934**](https://www.mintscan.io/stargaze/tx/1BB66B0EA1C31CD677D4D7D76A0BDA47C14D2124FF06713E344CEC06590D7255)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%205" %}
 
