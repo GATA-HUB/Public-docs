@@ -33,7 +33,7 @@ layout:
 **Collection Size**: 10,000\
 **Royalties:** 2%
 
-## Utility of Yield Paws
+## Utility of Yield Crocs
 
 Each month, Yield Crocs collection by GATA HUB will provide you with&#x20;
 
@@ -45,9 +45,9 @@ Each month, Yield Crocs collection by GATA HUB will provide you with&#x20;
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
-Yield Paws holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. These are **$SOL $yGATA** which get distributed directly to the wallets of holders. You just need to hold your kitties tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
+Yield Crocss holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. These are **$SOL $yGATA** which get distributed directly to the wallets of holders. You just need to hold your Crocs tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
 
-The **individual yield share per NFT** gets determined by the **Skin colors** of your kitties. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: \
+The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: \
 
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>

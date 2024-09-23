@@ -2,11 +2,25 @@
 description: >-
   Yield Gorillas (also called YGs) are the 1st collection of GATA's Yield
   Series.
+cover: ../../.gitbook/assets/yield-gorillas-gitbook-banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Yield Gorillas
-
-<figure><img src="../../.gitbook/assets/collection-banner.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Prologue & Lore of Yield Gorillas**
 
