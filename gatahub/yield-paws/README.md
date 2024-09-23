@@ -3,6 +3,22 @@ description: >-
   Let your kitties work for you: Yield Paws provide you with revenue from
   various DeFi activities, staking rewards & private sale ventures - all without
   lifting a single paw.
+cover: ../../.gitbook/assets/yield-paws-gitbook-banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Yield Paws

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Your friendly neighborhood crocs provide you with monthly epoch rewards in
+  $SOL and $CROC. Earn passive income from various DeFi activities managed by
+  GATA.
 cover: ../.gitbook/assets/yc-gitbook-banner.jpg
 coverY: 0
 layout:
