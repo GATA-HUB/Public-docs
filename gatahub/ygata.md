@@ -1,6 +1,6 @@
 ---
 description: A Community-Owned Token
-cover: ../.gitbook/assets/git cover (1).png
+cover: ../.gitbook/assets/yGATA-yield-GATA-gitbook-banner.jpg
 coverY: 0
 layout:
   cover:
