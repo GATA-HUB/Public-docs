@@ -35,9 +35,9 @@ Each month, Yield Crocs collection by GATA HUB will provide you with&#x20;
 
 • Epoch Rewards (80% of yield revenue gets distributed to YC holders in $SOL and $yGATA)
 
-• [Buy & Burn](yield-paws/yield-paws-faqs.md#what-is-the-buy-and-burn-program-and-how-does-it-work) program (10% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
+• Buy & Burn program (10% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
 
-• [Yield Raffle](yield-paws/yield-paws-faqs.md#what-is-the-yield-raffle-and-how-does-it-work) (10% of yield gets raffled with 3 random YCs winning; each YC = 1 ticket)
+• Yield Raffle (10% of yield gets raffled with 3 random YCs winning; each YC = 1 ticket)
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
