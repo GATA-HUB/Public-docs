@@ -1,5 +1,21 @@
 ---
 description: A Community-Owned Token
+cover: ../.gitbook/assets/git cover (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # yGATA
