@@ -28,16 +28,16 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 `Estimated value of the Staked Assets 15K USD`
 
-| Asset      | Amount Staked | Source                                                              |
-| ---------- | ------------- | ------------------------------------------------------------------- |
-| Cosmos Hub | 2500 ATOM     | Mint                                                                |
-| Teritori   | 381000 TORI   | Mint                                                                |
-| Osmosis    | 415  OSMO     | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
-| Celestia   | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
-| Dymension  | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
-| Archway    | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
-| Source     | 5000 Source   | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
-| SAGA       | 50 SAGA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
+| Asset  | Amount Staked | Source                                                              |
+| ------ | ------------- | ------------------------------------------------------------------- |
+| ATOM   | 2500 ATOM     | Mint                                                                |
+| TORI   | 381000 TORI   | Mint                                                                |
+| OSMO   | 440 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
+| TIA    | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
+| DYM    | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
+| ARCH   | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
+| Source | 5000 Source   | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
+| SAGA   | 50 SAGA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 
 ## YG Monthly income&#x20;
 
