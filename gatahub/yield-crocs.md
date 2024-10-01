@@ -1,7 +1,7 @@
 ---
 description: >-
   Your friendly neighborhood crocs provide you with monthly epoch rewards in
-  $SOL and $CROC. Earn passive income from various DeFi activities managed by
+  $SOL and $yGATA. Earn passive income from various DeFi activities managed by
   GATA.
 cover: ../.gitbook/assets/yc-gitbook-banner.jpg
 coverY: 0
@@ -28,8 +28,8 @@ layout:
 **Collection name:** Yield Crocs \
 **Network:** Omniflix\
 **Collection Type:** Standard Collection \
-**Public Mint Price:** TBA\
-**WL Mint Price:** TBA\
+**Public Mint Price:** 300 yGATA\
+**WL Mint Price:** 270 yGATA\
 **Collection Size**: 10,000\
 **Royalties:** 2%
 
@@ -50,8 +50,8 @@ Yield Crocss holders benefit from monthly distributions of revenue gained from t
 The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: \
 
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Supply of Yield Crocs</p></figcaption></figure>
 
 ## Concept of Yield Paws - Funding, Model & Distribution
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Yield Crocs revenue distribution model</p></figcaption></figure>

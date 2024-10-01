@@ -7,16 +7,16 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury balances last updated July 17, 2024
+Treasury balances last updated September 28, 2024
 {% endhint %}
 
 {% hint style="info" %}
-Approximate value of treasury $20K USD
+Approximate value of treasury $10K USD
 {% endhint %}
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows
 
-<table><thead><tr><th width="113">Token</th><th width="137">Total</th><th width="113">Available</th><th width="135">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$ATOM</td><td>10 $ATOM</td><td>10 $ATOM</td><td>0 $ATOM</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$ETH</td><td>1 ETH</td><td>1 ETH</td><td>0 ETH</td><td>osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m</td></tr><tr><td>$STARS</td><td>100K $STARS</td><td>8K $STARS</td><td>108k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC-AXL</td><td>90 $USDC</td><td>90 USDC</td><td>0 USDC</td><td>noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658</td></tr><tr><td>$TORI (airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr></tbody></table>
+<table><thead><tr><th width="113">Token</th><th width="137">Total</th><th width="113">Available</th><th width="135">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$ATOM</td><td>10 $ATOM</td><td>10 $ATOM</td><td>0 $ATOM</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$ETH</td><td>1 ETH</td><td>1 ETH</td><td>0 ETH</td><td>osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m</td></tr><tr><td>$STARS</td><td>100K $STARS</td><td>8K $STARS</td><td>108k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC-AXL</td><td>90 $USDC</td><td>90 USDC</td><td>0 USDC</td><td>noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658</td></tr><tr><td>$TORI (airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr><tr><td>$EVMOS</td><td>10000 $Evmos</td><td>0 $Evmos</td><td>0$Evmos</td><td>evmos1gfw9rxlzfhnmvvl0fxsdntsc2ej02f2pj0v5xv</td></tr></tbody></table>
 
 
 
