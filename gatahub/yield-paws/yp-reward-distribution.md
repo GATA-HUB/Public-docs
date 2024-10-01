@@ -7,6 +7,23 @@
   _( Last updated September 2, 2024)_&#x20;
 {% endhint %}
 
+## YP Epoch 6
+
+* Epoch Distributed on October  2024
+* 255K Stars Yielded&#x20;
+* 178.5K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* 25.5K Stars sent to team
+* 25.5K Stars further added to LP (\~200 USD) &#x20;
+* &#x20;YPs **burned** using \~13K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 4300 $Stars each to [**YP#** ](https://www.mintscan.io/stargaze/tx/728FFCE4CEE5D935D84963D3DA3A0DB72673BF4B89F53457210E3A19F8E8FD78)**,** [**YP#** ](https://www.mintscan.io/stargaze/tx/8A5F9E46D8C9973290773302C1694E77721AA55CEF9143A5979964DF87D18B7B) **and** [**YP#**](https://www.mintscan.io/stargaze/tx/1BB66B0EA1C31CD677D4D7D76A0BDA47C14D2124FF06713E344CEC06590D7255)
+
+| Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| Staked Assets      | [4194 Stars](https://www.mintscan.io/stargaze/tx/437F92FE0F62E34C1ACCAC4C8EF9873C81FB3FCB5C3168B3303CE6F07FE2FD15) | 35 USD                  |
+| Managed Assets     | 251000 Stars                                                                                                       | 2000 USD                |
+| Private investment | -- Stars                                                                                                           | -- USD                  |
+| **Total**          | **255194 Stars**                                                                                                   | **2035 USD**            |
+
 ## YP Epoch 5
 
 * Epoch Distributed on September  2024
