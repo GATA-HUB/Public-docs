@@ -556,7 +556,7 @@ GATA Epoch 23
 * Total $ATOM distributed: 158 $ATOM
 * Distribution Date: September 1st 2024
 
-{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2024" %}
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20epoch%2025" %}
 
 <table><thead><tr><th width="285">Source</th><th>ATOM Revenue</th><th>USD Value (4 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>84.6 ATOM</td><td>338 USD</td></tr><tr><td>Akash Validator</td><td>25 ATOM</td><td>100 USD</td></tr><tr><td>Omniflix Validator</td><td>33 ATOM</td><td>132 USD</td></tr><tr><td>Archway Validator</td><td>3 ATOM</td><td>12 USD</td></tr><tr><td>Osmosis Validator</td><td>4 ATOM</td><td>16 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>4 USD</td></tr><tr><td>Stargaze Validator</td><td>2.5 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>1 ATOM</td><td>4 USD</td></tr><tr><td>Stargaze Roylaties</td><td>1 ATOM</td><td>4 USD</td></tr><tr><td>Rollover</td><td>3 ATOM</td><td>12 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>158  ATOM</strong></td><td><strong>632 USD</strong></td></tr></tbody></table>
 
@@ -569,7 +569,7 @@ GATA Epoch 23
 * Total $ATOM distributed: 158 $ATOM
 * Distribution Date: October 1st 2024
 
-{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2024" %}
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2026" %}
 
 <table><thead><tr><th width="285">Source</th><th>ATOM Revenue</th><th>USD Value (4.5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>82.8 ATOM</td><td>372 USD</td></tr><tr><td>Akash Validator</td><td>24 ATOM</td><td>108 USD</td></tr><tr><td>Omniflix Validator</td><td>36.6 ATOM</td><td>165 USD</td></tr><tr><td>Osmosis Validator</td><td>4.8 ATOM</td><td>22 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>5 USD</td></tr><tr><td>Stargaze Validator</td><td>2.5 ATOM</td><td>12 USD</td></tr><tr><td>Juno Validator</td><td>1.5 ATOM</td><td>7 USD</td></tr><tr><td>Stargaze Roylaties</td><td>1 ATOM</td><td>5 USD</td></tr><tr><td>Rollover</td><td>4 ATOM</td><td>18 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>158 ATOM</strong></td><td><strong>711 USD</strong></td></tr></tbody></table>
 
