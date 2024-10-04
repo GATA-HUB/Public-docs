@@ -15,7 +15,9 @@
 * 25.5K Stars sent to team
 * 25.5K Stars further added to LP (\~200 USD) &#x20;
 * 10 YPs **burned** using \~13.4K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 4300 $Stars each to **YP# , YP#  and YP#**
+* 3 x Raffle rewards worth 4300 $Stars each to **YP #0909**, **YP #0472** and **YP #2877**
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%206" %}
 
 | Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
@@ -23,6 +25,8 @@
 | Managed Assets     | 251000 Stars                                                                                                       | 2000 USD                |
 | Private investment | -- Stars                                                                                                           | -- USD                  |
 | **Total**          | **255194 Stars**                                                                                                   | **2035 USD**            |
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 5
 
@@ -97,12 +101,12 @@
 * 12 YPs [burned](https://www.mintscan.io/stargaze/tx/1B87AF14528CC4CE9F083BC1EC30F8DAE352253FA23297BEB83F622099D1F89F) using \~7800 Stars&#x20;
 * 3 x Raffle rewards worth 2500 $Stars to YPs [#2314](https://www.mintscan.io/stargaze/tx/B566CDE53E4C93CBECF5839F3FB0B68275A57542816761EBDC2004FB7D0C11FD?height=14005112), [#765 ](https://www.mintscan.io/stargaze/tx/2EEB469D229A2EACED1FD4482423F6C86830999C6C7C8DB53EC90E43E68F4655?height=14005121), [#3441](https://www.mintscan.io/stargaze/tx/8C26D01DB11E410E3378308D0B877FFE43424157AFB7CD9EED8896D457A8D538?height=14005133)
 
-| Source              | Stars Yield | USD Price (0.0183/Stars) |
-| ------------------- | ----------- | ------------------------ |
-| Staked Assets       |             |                          |
-| Managed LP          |             |                          |
-| Private Investments | -- Stars    | 0 USD                    |
-| **Total**           | **149.3K**  | **2710 USD**             |
+| Source              | Stars Yield  | USD Price (0.0183/Stars) |
+| ------------------- | ------------ | ------------------------ |
+| Staked Assets       | 4125 Stars   | 50 USD                   |
+| Managed LP          | 145.2K Stars | 2650 USD                 |
+| Private Investments | -- Stars     | 0 USD                    |
+| **Total**           | **149.3K**   | **2710 USD**             |
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%202" %}
 
