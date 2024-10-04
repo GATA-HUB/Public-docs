@@ -1,5 +1,5 @@
 ---
-description: Overview of all YG epoch rewards.
+description: Overview of all Yield Gorillas epoch rewards to holders.
 ---
 
 # YG Reward Distributions
@@ -14,8 +14,9 @@ _(Last updated 4 Oct, 2024)_
 
 ## YG Epoch 19
 
-2nd October 2024\
+2nd October 2024&#x20;
 
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2019" %}
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>YG Epoch 19</p></figcaption></figure>
 
