@@ -5,12 +5,19 @@ description: Overview of all YG epoch rewards.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **8718** Atom total yield
-* **5714+** Atom distributed to holders
-* **18** Epoch distributed
+* **9140** Atom total yield
+* **6051+** Atom distributed to holders
+* **19** Epoch distributed
 
-_(Last updated 4 Sep, 2024)_
+_(Last updated 4 Oct, 2024)_
 {% endhint %}
+
+## YG Epoch 19
+
+2nd October 2024\
+
+
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>YG Epoch 19</p></figcaption></figure>
 
 ## YG Epoch 18
 
