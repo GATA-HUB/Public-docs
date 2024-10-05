@@ -11,11 +11,11 @@
 
 * Epoch Distributed on October  2024
 * 255K Stars Yielded&#x20;
-* 178.5K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* [178.5K](https://www.mintscan.io/stargaze/tx/11773BEAEE0F2FA7B8375A3A319E8F5A420D3FAE7BDBB6572BEE337FFDB0D51F)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
 * 25.5K Stars sent to team
 * 25.5K Stars further added to LP (\~200 USD) &#x20;
-* 10 YPs **burned** using \~13.4K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 4300 $Stars each to **YP #0909**, **YP #0472** and **YP #2877**
+* [10](https://www.mintscan.io/stargaze/tx/C56A8BFF65C69733C85036929DBB80670545553F4AEAF82B91B5CEB4E1A0F88D?height=15640504) YPs **burned** using \~13.4K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 4300 $Stars each to [**YP #0909**](https://www.mintscan.io/stargaze/tx/7B30A49E1B59397E2577DD80ED0ED83393435D2BD1DA909FD11A9143597A924C?height=15700921), [**YP #0472**](https://www.mintscan.io/stargaze/tx/98250739755E44096CA4787D454077B3005E3E0FB009BA57ED4A50C3CAFE1A93?height=15700942) and [**YP #2877**](https://www.mintscan.io/stargaze/tx/D72DAD6821B981A759E815C9D2D7A19B787E6779146C88179DEFB5866514713B?height=15700956)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%206" %}
 
@@ -32,10 +32,10 @@
 
 * Epoch Distributed on September  2024
 * 250.5K Stars Yielded&#x20;
-* 175K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* [175K](https://www.mintscan.io/stargaze/tx/18F0D251787DC9E2D695AA6092328F5B98DFE86DB55AB7275F52783F47DAC1ED?height=15205123)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
 * 25K Stars sent to team
 * 25K Stars further added to LP (\~200 USD) &#x20;
-* &#x20;8 YPs **burned** using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* &#x20;[8](https://www.mintscan.io/stargaze/tx/1DCCBE40899D85F72DD1804ECA05288F2B9D357CCF211E1AC990010E747EB848?height=15205202) YPs **burned** using \~12K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 4200 $Stars each to [**YP# 0054**](https://www.mintscan.io/stargaze/tx/728FFCE4CEE5D935D84963D3DA3A0DB72673BF4B89F53457210E3A19F8E8FD78)**,** [**YP# 4665**](https://www.mintscan.io/stargaze/tx/8A5F9E46D8C9973290773302C1694E77721AA55CEF9143A5979964DF87D18B7B) **and** [**YP#3934**](https://www.mintscan.io/stargaze/tx/1BB66B0EA1C31CD677D4D7D76A0BDA47C14D2124FF06713E344CEC06590D7255)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%205" %}
