@@ -28,6 +28,16 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 
 > _"The saga of Gorillas is a bit different from GATA's: While GATAs are from greek era of gods and each GATA, as we have seen, possesses different powers, the Yield Gorillas are more of earthly creatures. They have lived and stayed in the common and modest habitat. This modest habitat is a place that belongs to everyone. You and me too, there is no royal patronage. Nonetheless, they are not scarce of royal blood. You may also observe that the habitat has affected the look of the gorillas. Their identity is not based on color but on their environment; a bear, a bull, a moon and many more. Yield Gorillas identify themselves in a unique way because they belong to a unique space. Unique, modest and sometimes a cruel space. In this diverse environment, the Gorillas have emerged to side with those who recognize value. Do you recognize value?"_
 
+## About the collection
+
+**Collection name:** [Yield Gorillas ](https://www.stargaze.zone/m/yieldgorillas/tokens)\
+**Network:** [Stargaze Zone](https://www.stargaze.zone/m/yieldgorillas/tokens) (Migrated from Teritori)\
+**Collection Type:** Standard Collection \
+&#x20;**Public Mint Price:** 2 $Atom (50 mints/wallet)\
+**Collection Size**: 10000\
+**Royalties:** 3%\
+**Public mint: November** 15th 2022
+
 ### Concept of Yield Gorillas & Yield Series
 
 ﻿Yield Gorillas are the first collection of non-GATA NFTs and belong to the Yield series. They consist of 10.000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA team.&#x20;
