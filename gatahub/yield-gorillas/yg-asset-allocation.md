@@ -32,7 +32,7 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 | ------ | ------------- | ------------------------------------------------------------------- |
 | ATOM   | 2500 ATOM     | Mint                                                                |
 | TORI   | 381000 TORI   | Mint                                                                |
-| OSMO   | 490 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
+| OSMO   | 515 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
 | TIA    | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | DYM    | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | ARCH   | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
