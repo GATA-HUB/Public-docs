@@ -26,7 +26,7 @@
 | Private investment | -- Stars                                                                                                           | -- USD                  |
 | **Total**          | **255194 Stars**                                                                                                   | **2035 USD**            |
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 5
 

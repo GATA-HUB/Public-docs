@@ -1,6 +1,6 @@
 ---
 description: A Community-Owned Token
-cover: ../.gitbook/assets/yGATA-yield-GATA-gitbook-banner.jpg
+cover: ../../.gitbook/assets/yGATA-yield-GATA-gitbook-banner.jpg
 coverY: 0
 layout:
   cover:
@@ -52,7 +52,7 @@ yGATA’s model is built on active community engagement, with rewards derived fr
 
 
 
-{% file src="../.gitbook/assets/yGATA-constitution-1.6.pdf" %}
+{% file src="../../.gitbook/assets/yGATA-constitution-1.6.pdf" %}
 
 
 
