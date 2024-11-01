@@ -1,11 +1,28 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **1.201 M $STARS** Yield &#x20;
-* **938K $Stars** distributed to holders
-* **6 Epoch** distributed \
+* **1.472 M $STARS** Yield &#x20;
+* **1.154 M  $Stars** distributed to holders
+* **7 Epoch** distributed \
   _( Last updated October 1, 2024)_&#x20;
 {% endhint %}
+
+## YP Epoch 7
+
+* Epoch Distributed on November  2024
+* 271K Stars Yielded&#x20;
+* 189.7K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* 27.1K Stars sent to team
+* 27.1K Stars further added to LP (\~200 USD) &#x20;
+* [10](https://www.mintscan.io/stargaze/tx/C56A8BFF65C69733C85036929DBB80670545553F4AEAF82B91B5CEB4E1A0F88D?height=15640504) YPs **burned** using \~13.6K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 4500 $Stars each to [**YP #0**](https://www.mintscan.io/stargaze/tx/7B30A49E1B59397E2577DD80ED0ED83393435D2BD1DA909FD11A9143597A924C?height=15700921), [**YP #**](https://www.mintscan.io/stargaze/tx/98250739755E44096CA4787D454077B3005E3E0FB009BA57ED4A50C3CAFE1A93?height=15700942)and [**YP #**](https://www.mintscan.io/stargaze/tx/D72DAD6821B981A759E815C9D2D7A19B787E6779146C88179DEFB5866514713B?height=15700956)
+
+| Source             | Stars yield                                                                                                        | USD Price (0.006) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Staked assets      | [4583 Stars](https://www.mintscan.io/stargaze/tx/69DBD552E8119B9AB40354348629EF2E23EADFFEF345D937D3C96ABD264BBBDF) | 28 USD            |
+| Managed Assets     | 266417 Stars                                                                                                       | 1600 USD          |
+| Private Investment | -- Stars                                                                                                           | -- USD            |
+| **Total**          | **271000 Stars**                                                                                                   | **1628 USD**      |
 
 ## YP Epoch 6
 
@@ -19,12 +36,7 @@
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%206" %}
 
-| Source             | Stars Yield                                                                                                        | USD Price (0.008/Stars) |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| Staked Assets      | [4194 Stars](https://www.mintscan.io/stargaze/tx/437F92FE0F62E34C1ACCAC4C8EF9873C81FB3FCB5C3168B3303CE6F07FE2FD15) | 35 USD                  |
-| Managed Assets     | 251000 Stars                                                                                                       | 2000 USD                |
-| Private investment | -- Stars                                                                                                           | -- USD                  |
-| **Total**          | **255194 Stars**                                                                                                   | **2035 USD**            |
+<table><thead><tr><th>Source</th><th width="236">Stars Yield</th><th>USD Price (0.008/Stars)</th></tr></thead><tbody><tr><td>Staked Assets</td><td><a href="https://www.mintscan.io/stargaze/tx/437F92FE0F62E34C1ACCAC4C8EF9873C81FB3FCB5C3168B3303CE6F07FE2FD15">4194 Stars</a></td><td>35 USD</td></tr><tr><td>Managed Assets</td><td>251000 Stars</td><td>2000 USD</td></tr><tr><td>Private investment</td><td>-- Stars</td><td>-- USD</td></tr><tr><td><strong>Total</strong></td><td><strong>255194 Stars</strong></td><td><strong>2035 USD</strong></td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
