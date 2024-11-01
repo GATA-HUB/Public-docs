@@ -55,7 +55,7 @@ Distribution Ratio (70:10:10:5:5)(Holders: Back to assets :  Team : Burn: Raffle
 Last updated July 5, 2024.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>621</td><td>7011</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>638</td><td>9362</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>634</td><td>6998</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>652</td><td>9348</td></tr></tbody></table>
 
 <details>
 
