@@ -16,7 +16,7 @@ _(Last updated 1 Nov, 2024)_
 
 1st November 2024
 
-
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 19
 
