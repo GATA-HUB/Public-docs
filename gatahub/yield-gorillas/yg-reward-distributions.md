@@ -32,7 +32,7 @@ _(Last updated 1 Nov, 2024)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2018" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
 
 ## YG Epoch 17
 
@@ -40,7 +40,7 @@ _(Last updated 1 Nov, 2024)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
 
 ## YG Epoch 16
 
@@ -76,7 +76,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
