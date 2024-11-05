@@ -43,6 +43,7 @@
   * [GATA DAO FAQs](gatahub/gata-nft-dao/faqs.md)
 * [yGATA](gatahub/ygata/README.md)
   * [Tokenomics](gatahub/ygata/tokenomics.md)
+  * [GATA Yield DAO](gatahub/ygata/gata-yield-dao.md)
 * [Yield Gorillas](gatahub/yield-gorillas/README.md)
   * [YG Asset Allocation](gatahub/yield-gorillas/yg-asset-allocation.md)
   * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
