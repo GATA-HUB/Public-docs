@@ -13,3 +13,13 @@ Vetor\
 Stargaze oversight DAO\
 Omniflix Oversight DAO\
 GATA DAO
+
+## Proceeds
+
+| Coin                        | USDC         | STARS   | FLIX    |
+| --------------------------- | ------------ | ------- | ------- |
+| Total deposited             | 139.7 K      | 9.96 M  | 556.9 K |
+| Platform fee                | 6 K          | 0.59M   | 26.9 K  |
+| Proceeds after platform fee | 133.7 K      | 9.37 M  | 530 K   |
+| DAO Treasury                | 113.5 K USDC | 9 M     | 500 K   |
+
