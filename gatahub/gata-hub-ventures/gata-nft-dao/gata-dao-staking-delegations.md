@@ -2,6 +2,7 @@
 description: >-
   GATA DAO manages staked assets of DAO Treasury across Cosmos, adding rewards
   to revenue.
+hidden: true
 ---
 
 # GATA DAO Staking/Delegations

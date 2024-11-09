@@ -1,5 +1,6 @@
 ---
 description: Info on GATA's NFT collection on Archway (paused)
+hidden: true
 ---
 
 # Apes in Games — Rise of Apelandia

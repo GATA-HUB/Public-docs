@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # YG & Yield Concept
 
 ## Yield Series NFTs
