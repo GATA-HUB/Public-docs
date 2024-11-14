@@ -4,7 +4,7 @@
 * **1.472 M $STARS** Yield &#x20;
 * **1.154 M  $Stars** distributed to holders
 * **7 Epoch** distributed \
-  _( Last updated October 1, 2024)_&#x20;
+  _( Last updated November 1, 2024)_&#x20;
 {% endhint %}
 
 ## YP Epoch 7
@@ -15,14 +15,13 @@
 * 27.1K Stars sent to team
 * 27.1K Stars further added to LP (\~200 USD) &#x20;
 * [9](https://www.mintscan.io/stargaze/tx/59E9293B8F4244619177E4D30A67DC911F341D5B5041685D7AD84FBAEBAEB721?height=16099649) YPs **burned** using \~13.6K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 4500 $Stars each to [**YP #0**](https://www.mintscan.io/stargaze/tx/7B30A49E1B59397E2577DD80ED0ED83393435D2BD1DA909FD11A9143597A924C?height=15700921), [**YP #**](https://www.mintscan.io/stargaze/tx/98250739755E44096CA4787D454077B3005E3E0FB009BA57ED4A50C3CAFE1A93?height=15700942)and [**YP #**](https://www.mintscan.io/stargaze/tx/D72DAD6821B981A759E815C9D2D7A19B787E6779146C88179DEFB5866514713B?height=15700956)
+* 3 x Raffle rewards worth 4500 $Stars each to [**YP #2552**](https://www.mintscan.io/stargaze/tx/72B9CF44986F21D41710E28F166227B5F6B65891EBA390A8C4697A2F43EAB8D2), [**YP #4194**](https://www.mintscan.io/stargaze/tx/C69E5A358251B4147CA761F5D6282D103F13EFF14616B08B3878882F327C53F2)and [**YP #872**](https://www.mintscan.io/stargaze/tx/81272FC84CF1B909CDBA65AA377A43F3FCEC9D340276BE4302F218FD24574DB9)
 
-| Source             | Stars yield                                                                                                        | USD Price (0.006) |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Staked assets      | [4583 Stars](https://www.mintscan.io/stargaze/tx/69DBD552E8119B9AB40354348629EF2E23EADFFEF345D937D3C96ABD264BBBDF) | 28 USD            |
-| Managed Assets     | 266417 Stars                                                                                                       | 1600 USD          |
-| Private Investment | -- Stars                                                                                                           | -- USD            |
-| **Total**          | **271000 Stars**                                                                                                   | **1628 USD**      |
+| Source         | Stars yield                                                                                                        | USD Price (0.006) |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Staked assets  | [4583 Stars](https://www.mintscan.io/stargaze/tx/69DBD552E8119B9AB40354348629EF2E23EADFFEF345D937D3C96ABD264BBBDF) | 28 USD            |
+| Managed Assets | 266417 Stars                                                                                                       | 1600 USD          |
+| **Total**      | **271000 Stars**                                                                                                   | **1628 USD**      |
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
