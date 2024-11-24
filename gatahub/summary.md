@@ -11,8 +11,10 @@ description: >-
 
 * [Validator operations](gata-hub-ventures/gata-validators/)
 * [Relay operations ](gata-hub-ventures/public-goods/gata-relays.md)
-* [Public RPC](public-goods/end-points.md)
+* [Public Goods](gata-hub-ventures/public-goods/)
 * [Staking & Delegations ](gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
+
+## Real Yield; DeFi and NFT-fi
 
 ### NFT collections
 
@@ -21,6 +23,10 @@ description: >-
 * [Yield Paws](yield-paws/) (monthly [**STARS rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
 * [Souvenir NFT collections](gata-hub-ventures/nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
+### GATA Yield DAO
+
+Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
+
 ### Apps/Games&#x20;
 
-* Deposit dApp (working title/ Details soon)
+* [Rollapp](rollapp.md)
