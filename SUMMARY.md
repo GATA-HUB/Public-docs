@@ -44,6 +44,7 @@
 * [yGATA](gatahub/ygata/README.md)
   * [GATA Yield DAO](gatahub/ygata/gata-yield-dao.md)
   * [Tokenomics](gatahub/ygata/tokenomics.md)
+  * [Revenue Distribution](gatahub/ygata/revenue-distribution.md)
 * [Yield Gorillas](gatahub/yield-gorillas/README.md)
   * [YG Asset Allocation](gatahub/yield-gorillas/yg-asset-allocation.md)
   * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
