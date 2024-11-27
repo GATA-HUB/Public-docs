@@ -19,11 +19,12 @@ GATA Yield DAO was supported by Omniflix and Stargaze community pools with 500K 
 
 {% endhint %}
 
+### Veto Power
+
+[Stargaze oversight DAO](https://daodao.zone/dao/omniflix17avurt3rv6nge4cwqae86ngq4arktdexmmmna8v2tj4wl6yk5xjs6ld0vt)\
+[Omniflix Oversight DAO](https://daodao.zone/dao/omniflix13y0dlfczmxe7k9gwkcvnzctxgzlp3sxwz5jt0ptp7jt6ar4pjtyqtf676d/home)\
 \
-\
-Veto Power\
-Stargaze oversight DAO\
-Omniflix Oversight DAO
+The **Stargaze x yGATA Oversight** and **OmniFlix x yGATA Oversight** committees hold veto power to ensure accountability and alignment . Their role is to protect the DAO from harmful proposals, safeguard ecosystem integrity, and ensure strategic alignment with Stargaze and OmniFlix communities, which supported yGATA’s launch. This measure fosters interchain trust and stability in the DAO’s early stages.
 
 ## Proceeds
 
