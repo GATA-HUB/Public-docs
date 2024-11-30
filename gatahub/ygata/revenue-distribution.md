@@ -12,3 +12,6 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 
 
 
+
+
+{% embed url="https://docs.google.com/spreadsheets/d/1FspCgzmBzM25YWBRsjcTzqvq0FXGaW1-d11PkuLjZck/edit?usp=sharing" %}
