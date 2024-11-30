@@ -8,6 +8,11 @@ description: Epoch rewards of GATA Yield DAO
 
 {% hint style="info" %}
 Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking of Assets
+
+**Total Yield: 5032 USD**\
+**Epoch distributed: 1** \
+\
+(_Last updated 1 Dec, 2024)_
 {% endhint %}
 
 
@@ -22,6 +27,6 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 | 1&#x35;**% yGATA Liquidity share**  | 755 USD                         |                              |
 | **15% yGATA buyback**               | 755 USD / 43085 yGATA           |                              |
 | **yGATA epoch reward**              | 192332 yGATA                    |                              |
-| **yGATA Inflation**                 | (192332 - 43085) = 149247 12.7% | **33.6%**                    |
+| **yGATA Inflation**                 | (192332 - 43085) = 149247 12.7% |                              |
 | **Earning APR**                     | **33.6%**                       |                              |
 
