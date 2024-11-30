@@ -12,6 +12,16 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 
 
 
+| Epoch                               | Epoch 1                         | Epoch 2                      |
+| ----------------------------------- | ------------------------------- | ---------------------------- |
+| **Period**                          | 9 Nov 2024 - 27 Nov 2024        | **28 Nov 2024 -28 Dec 2024** |
+| **LP revenue**                      | 2102 USD                        |                              |
+| **Staked assets revenue**           | 2930 USD                        |                              |
+| **Other Revenue**                   | 0 USD                           |                              |
+| **Total Revenue**                   | 5032 USD                        |                              |
+| 1&#x35;**% yGATA Liquidity share**  | 755 USD                         |                              |
+| **15% yGATA buyback**               | 755 USD / 43085 yGATA           |                              |
+| **yGATA epoch reward**              | 192332 yGATA                    |                              |
+| **yGATA Inflation**                 | (192332 - 43085) = 149247 12.7% | **33.6%**                    |
+| **Earning APR**                     | **33.6%**                       |                              |
 
-
-{% embed url="https://docs.google.com/spreadsheets/d/1FspCgzmBzM25YWBRsjcTzqvq0FXGaW1-d11PkuLjZck/edit?usp=sharing" %}
