@@ -1,9 +1,9 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **1.472 M $STARS** Yield &#x20;
-* **1.154 M  $Stars** distributed to holders
-* **7 Epoch** distributed \
+* **1.637 M $STARS** Yield &#x20;
+* **1.319 M  $Stars** distributed to holders
+* **8 Epoch** distributed \
   &#xNAN;_( Last updated November 1, 2024)_&#x20;
 {% endhint %}
 
@@ -11,8 +11,8 @@
 
 * Epoch Distributed on 1st December 2024
 * 165K Stars Yielded&#x20;
-* 132K[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
-* 11 YPs **burned** using \~16.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* [132K](https://www.mintscan.io/stargaze/tx/5372474C9AD43A31118B53FEABA67549AB420C55D33E8D436E37F75021881CE6)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
+* [11 YPs](https://www.mintscan.io/stargaze/txs/F1732636208355B8BD24AD153DAC011EC88274381F740D5A0AAAAFFD0D2031DE) **burned** using \~16.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 5500 $Stars each to **YP #**, **YP #**&#x61;nd **YP** [#yp-epoch-8](yp-reward-distribution.md#yp-epoch-8 "mention")
 
 
@@ -32,6 +32,8 @@
 * 27.1K Stars further added to LP (\~200 USD) &#x20;
 * [9](https://www.mintscan.io/stargaze/tx/59E9293B8F4244619177E4D30A67DC911F341D5B5041685D7AD84FBAEBAEB721?height=16099649) YPs **burned** using \~13.6K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 4500 $Stars each to [**YP #2552**](https://www.mintscan.io/stargaze/tx/72B9CF44986F21D41710E28F166227B5F6B65891EBA390A8C4697A2F43EAB8D2), [**YP #4194**](https://www.mintscan.io/stargaze/tx/C69E5A358251B4147CA761F5D6282D103F13EFF14616B08B3878882F327C53F2)and [**YP #872**](https://www.mintscan.io/stargaze/tx/81272FC84CF1B909CDBA65AA377A43F3FCEC9D340276BE4302F218FD24574DB9)
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%207" %}
 
 | Source         | Stars yield                                                                                                        | USD Price (0.006) |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- |
