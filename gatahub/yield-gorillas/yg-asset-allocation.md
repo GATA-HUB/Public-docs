@@ -1,5 +1,5 @@
 ---
-description: Last updated October 15, 2024
+description: Last updated December 1, 2024
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -26,14 +26,14 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 50K USD`
+`Estimated value of the Staked Assets 55K USD`
 
 | Asset  | Amount Staked | Source                                                              |
 | ------ | ------------- | ------------------------------------------------------------------- |
 | ATOM   | 2500 ATOM     | Mint                                                                |
 | TORI   | 381,000 TORI  | Mint                                                                |
 | yGATA  | 1,450,000     | LP Investment in [yGATA](../ygata/)                                 |
-| OSMO   | 560 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
+| OSMO   | 575 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
 | TIA    | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | DYM    | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | ARCH   | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
@@ -42,15 +42,23 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 ## YG Monthly income&#x20;
 
-This table records the Yield Gorillas income after the implementation of New yield model after community vote.  This is the 4th amended model of the distribution. Check for the older models [here](yg-asset-allocation.md#older-distribution-records). The first distribution under this model is Epoch 21, December 2024.&#x20;
+This table records the Yield Gorillas income after the implementation of New yield model after community vote.  This is the 4th amended model of the distribution. Check for the older models [here](yg-asset-allocation.md#older-distribution-records). The first distribution under this model is Epoch 21, December 2024.  80% Yield directly to holders and 10% each for raffle and Burn.
+
+| Epoch/Period       | Yield from Staking | Yield from yGATA  | Total               |
+| ------------------ | ------------------ | ----------------- | ------------------- |
+| 21 / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
+| 22/ December 2024  |                    |                   |                     |
+|                    |                    |                   |                     |
+
+
 
 ## YG supply table
 
 {% hint style="info" %}
-Last updated November 8, 2024.&#x20;
+Last updated December 1, 2024.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>634</td><td>6998</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>652</td><td>9348</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>654</td><td>6978</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>672</td><td>9328</td></tr></tbody></table>
 
 <details>
 
