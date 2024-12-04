@@ -4,7 +4,7 @@ description: >-
   validator
 ---
 
-# Governance proposal 14
+# Gov. Proposal 14
 
 &#x20;For the last few weeks, we have been in discussions with @Senator to optimally use our validator resources, there is more to come but the first decision from that discussion is to shut down the GATA Passage validator and start operating the Stragze validator. We have been in a partnership with 0base.vc validator since the genesis and and GATA has been earning the \~1500 Stars a month from that partnership, we are thankful to 0base for that great partnership.\
 \
@@ -26,4 +26,4 @@ Community support for validator: less than 50 delegators \
 \
 **Result** \
 **Proposal passed. with 54 votes for the prop and 4 votes against it.** \
-_it was a discord vote on a gated channel._&#x20;
+&#xNAN;_&#x69;t was a discord vote on a gated channel._&#x20;

@@ -17,7 +17,7 @@ There are two types of slashings validator nodes might face:
 
 * 100% downtime slashing coverage in a maximum of 14-28 days
 * 10% double signing coverage in a maximum of 14-28 days \
-  _(we hope to increase this number in the future)_&#x20;
+  &#xNAN;_(we hope to increase this number in the future)_&#x20;
 
 Because every network has different slashing parameters, we cannot give you estimates, but let's take Juno Network as an example: if you delegate 100 $JUNO to GATA HUB and the validator gets downtime slashed you would be slashed 0.01 JUNO and 5 $JUNO in case of a double sign slashing.
 
