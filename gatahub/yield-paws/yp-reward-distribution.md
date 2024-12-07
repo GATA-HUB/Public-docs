@@ -13,7 +13,7 @@
 * 165K Stars Yielded&#x20;
 * [132K](https://www.mintscan.io/stargaze/tx/5372474C9AD43A31118B53FEABA67549AB420C55D33E8D436E37F75021881CE6)[ ](https://www.mintscan.io/stargaze/tx/0DE302271BE52CD23A7F3C019254AC0054B907BBCD569053A9CC4AA7CC73F856)Stars Distribution to YP holders based on skins&#x20;
 * [11 YPs](https://www.mintscan.io/stargaze/txs/F1732636208355B8BD24AD153DAC011EC88274381F740D5A0AAAAFFD0D2031DE) **burned** using \~16.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 5500 $Stars each to **YP #3191**, **YP #1668** and **YP #2775**&#x20;
+* 3 x Raffle rewards worth 5500 $Stars each to [**YP #3191**](https://www.mintscan.io/stargaze/tx/F7B6562D6D1483D64D0BF1EF6B8D447957FE470E041535E99BEF3EA994729759), [**YP #1668**](https://www.mintscan.io/stargaze/tx/0FFEF8756ACA12D1CF4F3C9886A8394AF92CFF05435592C548D0C3B7203CEC0C) and [**YP #2775** ](https://www.mintscan.io/stargaze/tx/E14728AB613075397BCCE9D69F60F4DCFC5F3BBBD280FEA26F9359DB6B2E45FC)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%208" %}
 
