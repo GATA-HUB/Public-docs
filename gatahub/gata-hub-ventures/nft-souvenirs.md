@@ -224,3 +224,13 @@ GATA HUB Delegator Reward NFTs for every GATA fam member who staked with GATA on
 [See on marketplace ](https://omniflix.market/c/onftdenom98a328b68f994118af813e69723f2cf6)
 
 </details>
+
+## 8- GATA Xmas Greetings 2024
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
