@@ -58,7 +58,7 @@ This table records the Yield Gorillas income after the implementation of New yie
 Last updated December 1, 2024.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>654</td><td>6978</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>672</td><td>9328</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>681</td><td>6951</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>699</td><td>9301</td></tr></tbody></table>
 
 <details>
 
