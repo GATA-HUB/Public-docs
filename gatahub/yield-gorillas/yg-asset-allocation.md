@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 | ATOM   | 2500 ATOM     | Mint                                                                |
 | TORI   | 381,000 TORI  | Mint                                                                |
 | yGATA  | 1,450,000     | LP Investment in [yGATA](../ygata/)                                 |
-| OSMO   | 575 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
+| OSMO   | 565 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
 | TIA    | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | DYM    | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | ARCH   | 500 ARCH      | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
@@ -47,8 +47,8 @@ This table records the Yield Gorillas income after the implementation of New yie
 | Epoch/Period       | Yield from Staking | Yield from yGATA  | Total               |
 | ------------------ | ------------------ | ----------------- | ------------------- |
 | 21 / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
-| 22/ December 2024  |                    |                   |                     |
-|                    |                    |                   |                     |
+| 22/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
+| 23/ January 2025   |                    |                   |                     |
 
 
 
