@@ -55,6 +55,7 @@
   * [Yield Paws FAQs](gatahub/yield-paws/yield-paws-faqs.md)
 * [Yield Crocs](gatahub/yield-crocs/README.md)
   * [YC's Assets](gatahub/yield-crocs/ycs-assets.md)
+  * [YC Reward Distribution](gatahub/yield-crocs/yc-reward-distribution.md)
 * [NFT Souvenirs](gatahub/gata-hub-ventures/nft-souvenirs.md)
 * [Apes in Games — Rise of Apelandia](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/README.md)
   * [AiG Lore](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-lore.md)
