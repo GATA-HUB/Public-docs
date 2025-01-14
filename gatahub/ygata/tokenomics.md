@@ -30,10 +30,10 @@ layout:
 * GATA Yield DAO 7,665,000 yGATA&#x20;
 {% endhint %}
 
-63% of all [$yGATA](https://x.com/search?q=%24yGATA\&src=cashtag\_click) will go straight to the community launch, while 36.5% get locked in GATA Yield DAO  and 0.5% unlocked for the Operations.&#x20;
+63% of all [$yGATA](https://x.com/search?q=%24yGATA\&src=cashtag_click) will go straight to the community launch, while 36.5% get locked in GATA Yield DAO  and 0.5% unlocked for the Operations.&#x20;
 
 ## Launch of yGATA
 
 yGATA is a participation token of GATA Yield DAO, the token will be launched using the Streamswap protocol, a fair launch platform deployed on Osmosis. The yGATA token will be available against 3 Coins $USDC (Nobel), $FLIX and $STARS. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
