@@ -13,15 +13,15 @@
 * 299K Stars Yielded&#x20;
 * [240K ](https://www.mintscan.io/stargaze/tx/E35FE7E1089C995199A5E0E1F97086C5539BFD7642045FC870E7446086824F9C?height=16966781)Stars Distribution to YP holders based on skins&#x20;
 * [`31`](https://www.mintscan.io/stargaze/tx/AC70CFCB36D0166393115F26E0DEADB8C93FF75F9231DBDC9A3CB0517BD8A2F7?height=16966797) YPs **burned** using \~29.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 9900 $Stars each to **YP #**, **YP #** and **YP #**
-
-{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/Yield%20Paws/YP%20epoch%209" %}
+* 3 x Raffle rewards worth 9900 $Stars each to [**YP #286**](https://www.mintscan.io/stargaze/tx/1190A1F203F80DCE4A48AD6883C18316568B135964F63410932585D7C3D02993), [**YP #1940**](https://www.mintscan.io/stargaze/tx/BC5308E41729CD1C5661F7B56A6577C2D9B302BC39609637349246077C5EC44D) and [**YP #1247**](https://www.mintscan.io/stargaze/tx/7D1BC695476BA4152CC3DD1F14D023B30882A981023FECDF3CBDB85251166BC5)
 
 | Source        | STARS Yield                                                                                                                          | USD Price (0.0055) |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 | Staked Assets | [5.9K STARS](https://www.mintscan.io/stargaze/tx/E33758D8CC7C3B59FD03513587CFC35C3A940999556592C474B79A660BB1BBD6)                   | 32 USD             |
 | yGATA         | [293.5K STARS](https://www.mintscan.io/stargaze/tx/F64E2392B0A9B3DF78E2AA8798CFD9BB76FAC7123454CB0A41CCFC67DB3E2963?height=16966737) | 1670 USD           |
 | **Total**     | 299,000 STARS                                                                                                                        | **1702 USD**       |
+
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/Yield%20Paws/YP%20epoch%209" %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YP epoch 9</p></figcaption></figure>
 
