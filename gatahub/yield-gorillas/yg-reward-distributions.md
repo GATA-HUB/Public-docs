@@ -16,7 +16,11 @@ _(Last updated 25 January, 2025)_
 
 1st January 2025
 
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2022" %}
+YG epoch 22
+{% endembed %}
 
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 21
 
