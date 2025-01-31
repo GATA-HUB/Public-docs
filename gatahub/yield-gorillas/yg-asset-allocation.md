@@ -44,11 +44,11 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 This table records the Yield Gorillas income after the implementation of New yield model after community vote.  This is the 4th amended model of the distribution. Check for the older models [here](yg-asset-allocation.md#older-distribution-records). The first distribution under this model is Epoch 21, December 2024.  80% Yield directly to holders and 10% each for raffle and Burn.
 
-| Epoch/Period       | Yield from Staking | Yield from yGATA  | Total               |
-| ------------------ | ------------------ | ----------------- | ------------------- |
-| 21 / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
-| 22/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
-| 23/ January 2025   |                    |                   |                     |
+| Epoch/Period                                                 | Yield from Staking | Yield from yGATA  | Total               |
+| ------------------------------------------------------------ | ------------------ | ----------------- | ------------------- |
+| [21](yg-reward-distributions.md#yg-epoch-21) / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
+| [22](yg-reward-distributions.md#yg-epoch-22)/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
+| 23/ January 2025                                             | 44 ATOM            |                   |                     |
 
 
 
