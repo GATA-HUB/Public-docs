@@ -9,17 +9,17 @@
 
 ## YP Epoch 10
 
-* Epoch Distributed on 1st Feburary 2025
+* Epoch Distributed on 1st February 2025
 * 301K Stars Yielded&#x20;
 * 240K Stars Distribution to YP holders based on skins&#x20;
 * `26` YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 10K $Stars each to [**YP #286**](https://www.mintscan.io/stargaze/tx/1190A1F203F80DCE4A48AD6883C18316568B135964F63410932585D7C3D02993), [**YP #1940**](https://www.mintscan.io/stargaze/tx/BC5308E41729CD1C5661F7B56A6577C2D9B302BC39609637349246077C5EC44D) and [**YP #1247**](https://www.mintscan.io/stargaze/tx/7D1BC695476BA4152CC3DD1F14D023B30882A981023FECDF3CBDB85251166BC5)
+* 3 x Raffle rewards worth 10K $Stars each to&#x20;
 
-| Source        | STARS Yield                                                                                                          | USD Price (0.0055) |
+| Source        | STARS Yield                                                                                                          | USD Price (0.0041) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Staked Assets | 4K STARS                                                                                                             | 32 USD             |
-| yGATA         | [297.5K STARS](https://www.mintscan.io/stargaze/tx/466F9D9926F51EC6CD5BB10074F999BDFE463E67B2AC2A6D2CF571EEFA50BEFB) | 1670 USD           |
-| **Total**     | 301000 STARS                                                                                                         | **1702 USD**       |
+| Staked Assets | 4K STARS                                                                                                             | 16.4 USD           |
+| yGATA         | [297.5K STARS](https://www.mintscan.io/stargaze/tx/466F9D9926F51EC6CD5BB10074F999BDFE463E67B2AC2A6D2CF571EEFA50BEFB) | 1200 USD           |
+| **Total**     | 301000 STARS                                                                                                         | **1220 USD**       |
 
 ## YP Epoch 9
 
