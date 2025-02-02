@@ -1,10 +1,10 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **1.936 M $STARS** / **18193 USD** Yield &#x20;
-* **1.559 M  $Stars** distributed to holders
-* **9 Epoch** distributed \
-  &#xNAN;_( Last updated January 1, 2025)_&#x20;
+* &#x32;**.237 M $STARS** / **18193 USD** Yield &#x20;
+* **1.860 M  $STARS** distributed to holders
+* **10 Epoch** distributed \
+  &#xNAN;_( Last updated February 1, 2025)_&#x20;
 {% endhint %}
 
 ## YP Epoch 10
@@ -12,14 +12,16 @@
 * Epoch Distributed on 1st February 2025
 * 301K Stars Yielded&#x20;
 * 240K Stars Distribution to YP holders based on skins&#x20;
-* `26` YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* [`26`](https://www.mintscan.io/stargaze/tx/ECD414DB2BEB127310F213BACEA583575298BD894909851E91F31B22C5470B99?height=17438962) YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 10K $Stars each to&#x20;
 
 | Source        | STARS Yield                                                                                                          | USD Price (0.0041) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Staked Assets | 4K STARS                                                                                                             | 16.4 USD           |
+| Staked Assets | [4K STARS](https://www.mintscan.io/stargaze/tx/E2BA5E04B31B17ED8A652ED5781067A086E5D13A7826B58831504D2D080A6A00)     | 16.4 USD           |
 | yGATA         | [297.5K STARS](https://www.mintscan.io/stargaze/tx/466F9D9926F51EC6CD5BB10074F999BDFE463E67B2AC2A6D2CF571EEFA50BEFB) | 1200 USD           |
 | **Total**     | 301000 STARS                                                                                                         | **1220 USD**       |
+
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 9
 
