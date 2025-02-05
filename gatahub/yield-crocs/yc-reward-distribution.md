@@ -7,14 +7,16 @@ Total Epoch Distributed: 2 **Epoch**\
 &#xNAN;_&#x4C;ast updated: 5 FEB 2025_
 {% endhint %}
 
-
-
 ## Epoch 2
 
 * Epoch Distributed on 1st February 2025
 * **36K yGATA** & **3.32 SOL** Yielded and distributed
 * 27 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 0.33 $SOL 3600 yGATA each to
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%202" %}
+
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption><p>YC Epoch 2</p></figcaption></figure>
 
 ## Epoch 1
 
