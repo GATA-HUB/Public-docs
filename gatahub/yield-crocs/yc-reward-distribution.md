@@ -1,13 +1,20 @@
 # YC Reward Distribution
 
 {% hint style="info" %}
-Total reward Distributed : **50.5K yGATA & 5.2 SOL**\
-Total Epoch Distributed: **1 Epoch**\
+Total reward Distributed : **86.2K yGATA & 8.52 SOL**\
+Total Epoch Distributed: 2 **Epoch**\
 \
-&#xNAN;_&#x4C;ast updated: 5 Jan 2025_
+&#xNAN;_&#x4C;ast updated: 5 FEB 2025_
 {% endhint %}
 
 
+
+## Epoch 2
+
+* Epoch Distributed on 1st February 2025
+* **36K yGATA** & **3.32 SOL** Yielded and distributed
+* 27 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 0.33 $SOL 3600 yGATA each to
 
 ## Epoch 1
 
