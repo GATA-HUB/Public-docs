@@ -13,7 +13,7 @@
 * 301K Stars Yielded&#x20;
 * 240K Stars Distribution to YP holders based on skins&#x20;
 * [`26`](https://www.mintscan.io/stargaze/tx/ECD414DB2BEB127310F213BACEA583575298BD894909851E91F31B22C5470B99?height=17438962) YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 10K $Stars each to&#x20;
+* 3 x Raffle rewards worth 10K $Stars each to **YP #286**, **YP #1940** and **YP #1247**
 
 | Source        | STARS Yield                                                                                                          | USD Price (0.0041) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
