@@ -13,4 +13,5 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 
 ## YCs Burn info&#x20;
 
-<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Fire</td><td>250</td><td>223</td><td>0</td><td>223</td></tr><tr><td>Water</td><td>650</td><td>575</td><td>0</td><td>575</td></tr><tr><td>Gold</td><td>1300</td><td>1148</td><td>0</td><td>1148</td></tr><tr><td>Silver</td><td>2600</td><td>2301</td><td>0</td><td>2301</td></tr><tr><td>Earth</td><td>5200</td><td>4642</td><td>0</td><td>4642</td></tr><tr><td>Total</td><td>10000</td><td>8890</td><td>0</td><td>8890</td></tr></tbody></table>
+<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Fire</td><td>250</td><td>223</td><td>0</td><td>223</td></tr><tr><td>Water</td><td>650</td><td>575</td><td>0</td><td>575</td></tr><tr><td>Gold</td><td>1300</td><td>1148</td><td>0</td><td>1148</td></tr><tr><td>Silver</td><td>2600</td><td>2301</td><td>0</td><td>2301</td></tr><tr><td>Earth</td><td>5200</td><td>4642</td><td>66</td><td>4586</td></tr><tr><td>Total</td><td>10000</td><td>8890</td><td>66</td><td>8824</td></tr></tbody></table>
+
