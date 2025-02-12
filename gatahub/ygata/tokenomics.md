@@ -26,8 +26,8 @@ layout:
 
 {% hint style="info" %}
 * Total Supply 21,000,000 yGATA
-* Supply at launch 13,335,000 yGATA&#x20;
-* GATA Yield DAO 7,665,000 yGATA&#x20;
+* Supply at launch 14,475,000 yGATA&#x20;
+* [GATA Yield DAO](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/treasury) 5,711,200 yGATA&#x20;
 {% endhint %}
 
 63% of all [$yGATA](https://x.com/search?q=%24yGATA\&src=cashtag_click) will go straight to the community launch, while 36.5% get locked in GATA Yield DAO  and 0.5% unlocked for the Operations.&#x20;
