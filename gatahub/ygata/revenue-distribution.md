@@ -7,14 +7,20 @@ description: Epoch rewards of GATA Yield DAO
 {% hint style="info" %}
 Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking of Assets
 
-**Total Yield: 10212 USD**\
-**yGATA Distributed: 670.9K** \
-**Epoch distributed: 2**\
+**Total Yield: 18312 USD**\
+**yGATA Distributed: 1090.7K** \
+**Epoch distributed: 3**\
 \
-(_Last updated 21 Jan, 2024)_
+(_Last updated 11 FEB, 2025)_
 {% endhint %}
 
-## Epoch 2
+### Epoch 3
+
+Distributed on 1st February 2025, after the successful execution of GATA Yield DAO [prop 20. ](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A20)
+
+<table><thead><tr><th width="222">Epoch</th><th>Epoch 1</th><th>Details</th></tr></thead><tbody><tr><td><strong>Period</strong></td><td>28 DEC 2024 - 29 JAN 2025</td><td><strong>31 Productive days</strong></td></tr><tr><td><strong>LP revenue</strong></td><td>2200 USD</td><td>52% DAO assets in LP</td></tr><tr><td><strong>Staked assets revenue</strong></td><td>2390 USD</td><td>48% DAO Staked asset</td></tr><tr><td><strong>Other Revenue</strong></td><td>0 USD</td><td>--</td></tr><tr><td><strong>Total Revenue</strong></td><td>4590 USD</td><td>Calculated on the base prices of 29th January</td></tr><tr><td><strong>15% yGATA Liquidity share</strong> </td><td>690 USD</td><td>At least 690 USD worth of liquidity added in the yGATA pool</td></tr><tr><td><strong>15% yGATA buyback</strong></td><td>690 USD / yGATA </td><td> yGATA sent back to DAO treasury</td></tr><tr><td><strong>yGATA epoch reward</strong></td><td>419780 yGATA</td><td>3rd yGATA epoch rewards for DAO members</td></tr><tr><td><strong>yGATA Inflation</strong></td><td>3%</td><td>(419780 - )= 449K</td></tr><tr><td><strong>Earning APR</strong></td><td>29%</td><td>Realized earning in the epoch</td></tr></tbody></table>
+
+### Epoch 2
 
 Distributed on 1st January 2025, after the successful execution of GATA Yield DAO [prop 19](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A17).&#x20;
 

@@ -26,7 +26,7 @@ layout:
 
 {% hint style="info" %}
 * Total Supply 21,000,000 yGATA
-* Supply at launch 14,475,000 yGATA&#x20;
+* [Circulating supply](https://gatahub.zone/ygata) 14,475,000 yGATA&#x20;
 * [GATA Yield DAO](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/treasury) 5,711,200 yGATA&#x20;
 {% endhint %}
 
