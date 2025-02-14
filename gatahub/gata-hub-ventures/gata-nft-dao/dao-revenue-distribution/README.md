@@ -609,3 +609,21 @@ Epoch 28 snapshot
 
 <table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (10 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>87 ATOM</td><td>870 USD</td></tr><tr><td>Akash Validator</td><td>21.4 ATOM</td><td>214 USD</td></tr><tr><td>Omniflix Validator</td><td>25.7 ATOM</td><td>257 USD</td></tr><tr><td>Osmosis Validator</td><td>2.9 ATOM</td><td>29 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td>Stargaze Validator</td><td>1.8 ATOM</td><td>18 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>30 USD</td></tr><tr><td>Stargaze Royalties</td><td>1.7 ATOM</td><td>17 USD</td></tr><tr><td>Rollover</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>145 ATOM</strong></td><td><strong>1450 USD</strong></td></tr></tbody></table>
 
+## GATA DAO Epoch 29
+
+* Epoch duration: from December 1st 2024 to December 31st 2024
+* Eligibility: 955/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Total $ATOM distributed: 145 $ATOM
+* Distribution Date: January 1st 2024
+
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (10 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>87 ATOM</td><td>870 USD</td></tr><tr><td>Akash Validator</td><td>21.4 ATOM</td><td>214 USD</td></tr><tr><td>Omniflix Validator</td><td>25.7 ATOM</td><td>257 USD</td></tr><tr><td>Osmosis Validator</td><td>2.9 ATOM</td><td>29 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td>Stargaze Validator</td><td>1.8 ATOM</td><td>18 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>30 USD</td></tr><tr><td>Stargaze Royalties</td><td>1.7 ATOM</td><td>17 USD</td></tr><tr><td>Rollover</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>145 ATOM</strong></td><td><strong>1450 USD</strong></td></tr></tbody></table>
+
+## GATA DAO Epoch 30
+
+* Epoch duration: from Januray 1st 2025 to January 31st 2025
+* Eligibility: 969/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.145 $ATOM per GATA.
+* Total $ATOM distributed: 142 $ATOM
+* Distribution Date: Feburary 1st 2025
+
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (10 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>87 ATOM</td><td>870 USD</td></tr><tr><td>Akash Validator</td><td>21.4 ATOM</td><td>214 USD</td></tr><tr><td>Omniflix Validator</td><td>25.7 ATOM</td><td>257 USD</td></tr><tr><td>Osmosis Validator</td><td>2.9 ATOM</td><td>29 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td>Stargaze Validator</td><td>1.8 ATOM</td><td>18 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>30 USD</td></tr><tr><td>Stargaze Royalties</td><td>1.7 ATOM</td><td>17 USD</td></tr><tr><td>Rollover</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>145 ATOM</strong></td><td><strong>1450 USD</strong></td></tr></tbody></table>
+
