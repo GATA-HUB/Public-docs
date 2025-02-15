@@ -13,11 +13,11 @@ Each month, GATA distributes the revenue to the members of GATA DAO (holders of 
 Based on the decision of [proposal 7](../../../gata-nft-dao/gata-constitution/gov.-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../gata-validators/).&#x20;
 
 {% hint style="info" %}
-* **6,335 ATOM** distributed to GATA holders till date.&#x20;
-* **14,049 ATOM** Yielded from GATA DAO operations till date.
-* **28 Epochs** Distributed   &#x20;
+* **6,621 ATOM** distributed to GATA holders till date.&#x20;
+* **15,002 ATOM** Yielded from GATA DAO operations till date.
+* **30 Epochs** Distributed   &#x20;
 
-_(Last Updated 9 December 2024)_
+_(Last Updated 15 Feburary 2025)_
 {% endhint %}
 
 ## GATA DAO EPOCH 1
