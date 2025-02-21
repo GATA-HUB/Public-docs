@@ -1,7 +1,7 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* &#x32;**.237 M $STARS** / **18193 USD** Yield &#x20;
+* **2.237 M $STARS** / **18193 USD** Yield &#x20;
 * **1.860 M  $STARS** distributed to holders
 * **10 Epoch** distributed \
   &#xNAN;_( Last updated February 1, 2025)_&#x20;
@@ -13,7 +13,7 @@
 * 301K Stars Yielded&#x20;
 * 240K Stars Distribution to YP holders based on skins&#x20;
 * [`26`](https://www.mintscan.io/stargaze/tx/ECD414DB2BEB127310F213BACEA583575298BD894909851E91F31B22C5470B99?height=17438962) YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 10K $Stars each to **YP #286**, **YP #1940** and **YP #1247**
+* 3 x Raffle rewards worth 10K $Stars each to [**YP #1206**](https://www.mintscan.io/stargaze/tx/A32AB8B91AB010EB9F1A47910716AE1F67EDCA215FB9F2F4791A60936EB3FB53)**,** [**YP #2155**](https://www.mintscan.io/stargaze/tx/A2FA060D5401ED794B98AB2319D3FEEC48C49E6FC8EEF0E44FD6F476016FAC24) **and** [**YP #4447**](https://www.mintscan.io/stargaze/tx/C9336851AAC31F981FA9396AE2E3E95B9129F040C743E5FEFA634F7046EEAA13)
 
 | Source        | STARS Yield                                                                                                          | USD Price (0.0041) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
