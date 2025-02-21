@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 Total reward Distributed : **86.2K yGATA & 8.52 SOL**\
-Total Epoch Distributed: 2 **Epoch**\
+Total Epoch Distributed: **2 Epoch**\
 \
 &#xNAN;_&#x4C;ast updated: 5 FEB 2025_
 {% endhint %}
@@ -12,7 +12,7 @@ Total Epoch Distributed: 2 **Epoch**\
 * Epoch Distributed on 1st February 2025
 * **36K yGATA** & **3.32 SOL** Yielded and distributed
 * 27 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 0.33 $SOL 3600 yGATA each to **YC #2751**, **YC #5012** and **YC #7329**
+* 3 x Raffle rewards worth 0.33 $SOL 3600 yGATA each to [**YC #2751**](https://www.mintscan.io/osmosis/tx/D1ACF1AB9DFA6277E345F632B743A68E8BAFE5893DE2A915DEC78DF839E90961), [**YC #5012**](https://www.mintscan.io/omniflix/tx/48C7728D7B8FCCCF2D8200B4B3E1137915EAA2FC604B2BD3ED39928FB1AD33EE) and [**YC #73**](https://www.mintscan.io/osmosis/tx/D1F0836E488811AB172CA26EFCC0C640AD6DF7A18027D542CBE4D65819F5A595)[**29**](https://www.mintscan.io/omniflix/tx/0B89490A4C0D0F41C568643E41A1A549DF02A068A067FCCB370B22D11FD7F701)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%202" %}
 YP epoch 2
