@@ -5,12 +5,16 @@ description: Overview of all Yield Gorillas epoch rewards to holders.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **9965** Atom total yield
-* **6810+** Atom distributed to holders
-* **22** Epoch distributed
+* **10,080** Atom total yield
+* **7,025+** Atom distributed to holders
+* **23** Epoch distributed
 
-_(Last updated 25 January, 2025)_
+_(Last updated 27 February, 2025)_
 {% endhint %}
+
+## YG Epoch 23
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
 
 ## YG Epoch 22
 
@@ -54,7 +58,7 @@ YG epoch 22
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2018" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
 
 ## YG Epoch 17
 
@@ -62,7 +66,7 @@ YG epoch 22
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
 
 ## YG Epoch 16
 
@@ -98,7 +102,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
@@ -116,7 +120,7 @@ YG Snpashot for Epoch 14
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 
