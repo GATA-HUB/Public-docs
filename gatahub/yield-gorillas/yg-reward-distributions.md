@@ -14,6 +14,10 @@ _(Last updated 27 February, 2025)_
 
 ## YG Epoch 23
 
+1st FEB 2025
+
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2023" %}
+
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
 
 ## YG Epoch 22
@@ -21,10 +25,8 @@ _(Last updated 27 February, 2025)_
 1st January 2025
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2022" %}
-YG epoch 22
-{% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>YG Epoch 22</p></figcaption></figure>
 
 ## YG Epoch 21
 
@@ -32,7 +34,7 @@ YG epoch 22
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2021" %}
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p>YG Epoch 21</p></figcaption></figure>
 
 
 
@@ -42,7 +44,7 @@ YG epoch 22
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2020" %}
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>YG Epoch 20</p></figcaption></figure>
 
 ## YG Epoch 19
 
