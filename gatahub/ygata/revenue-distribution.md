@@ -14,6 +14,12 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 (_Last updated 11 FEB, 2025)_
 {% endhint %}
 
+### Epoch 4
+
+Distributed on 1st March 2025, after the successful execution of GATA Yield [DAO prop 23](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A23).&#x20;
+
+<table><thead><tr><th width="222">Epoch</th><th>Epoch 1</th><th>Details</th></tr></thead><tbody><tr><td><strong>Period</strong></td><td>29th JAN 2025 - 28 FEB 2025</td><td><strong>31 Productive days</strong></td></tr><tr><td><strong>LP revenue</strong></td><td>2400 USD</td><td>65% DAO assets in LP</td></tr><tr><td><strong>Staked assets revenue</strong></td><td>1600 USD</td><td>35% DAO Staked asset</td></tr><tr><td><strong>Other Revenue</strong></td><td>0 USD</td><td>--</td></tr><tr><td><strong>Total Revenue</strong></td><td>4000 USD</td><td>Calculated on the base prices of 1st March 2025</td></tr><tr><td><strong>15% yGATA Liquidity share</strong> </td><td>600 USD</td><td>At least 690 USD worth of liquidity added in the yGATA pool</td></tr><tr><td><strong>15% yGATA buyback</strong></td><td><a href="https://www.mintscan.io/osmosis/tx/639EFC264441C9CC1A13CAC19F21717971738F633911EC8D55227A80D1DC286F">610 USD / 31593 yGATA </a></td><td>31593  yGATA sent back to DAO treasury</td></tr><tr><td><strong>yGATA epoch reward</strong></td><td>399600 yGATA</td><td>4th yGATA epoch rewards for DAO members</td></tr><tr><td><strong>yGATA Inflation</strong></td><td>2.75%</td><td></td></tr><tr><td><strong>Earning APR</strong></td><td></td><td>Realized earning in the epoch</td></tr></tbody></table>
+
 ### Epoch 3
 
 Distributed on 1st February 2025, after the successful execution of GATA Yield DAO [prop 20. ](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A20)
