@@ -14,6 +14,8 @@ Total Epoch Distributed: **3 Epoch**\
 * 16 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 0.42 $SOL 3600 yGATA each to **YC #1647, YC #3000 and YC #8992**
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%203" %}
+
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>YC Epoch 3</p></figcaption></figure>
 
 ## Epoch 2
