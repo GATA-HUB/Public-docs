@@ -12,7 +12,7 @@ Total Epoch Distributed: **3 Epoch**\
 * Epoch Distributed on 1st March 2025
 * **36K yGATA** & **4.2 SOL** Yielded and distributed
 * 16 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 0.42 $SOL 3600 yGATA each to&#x20;
+* 3 x Raffle rewards worth 0.42 $SOL 3600 yGATA each to **YC #1647, YC #3000 and YC #8992**
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>YC Epoch 3</p></figcaption></figure>
 
