@@ -1,10 +1,10 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **2.237 M $STARS** / **18193 USD** Yield &#x20;
-* **1.860 M  $STARS** distributed to holders
-* **10 Epoch** distributed \
-  &#xNAN;_( Last updated February 1, 2025)_&#x20;
+* **2.559 M $STARS** / **19254 USD** Yield &#x20;
+* **2.183 M  $STARS** distributed to holders
+* **11 Epoch** distributed \
+  &#xNAN;_( Last updated March 6, 2025)_&#x20;
 {% endhint %}
 
 ## YP Epoch 11
@@ -13,7 +13,7 @@
 * 322.5K Stars Yielded&#x20;
 * 257K Stars Distribution to YP holders based on skins&#x20;
 * &#x20;[`30`](https://www.mintscan.io/stargaze/txs/8D2DB887B2F5D2FDF1F4906FDDF372150C1CBB21943B0A01AB34A6A7145B6821) YPs **burned** using \~35K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 11K $Stars each to&#x20;
+* 3 x Raffle rewards worth 11K $Stars each to **YP #1194, YP #1911 and YP #2585**
 
 
 
@@ -23,9 +23,7 @@
 | yGATA         | [319K STARS](https://www.mintscan.io/osmosis/tx/2E057D82738D0ED8793D865ED3D5118D9B6876E88DCF3B2463C478EAA226EA6C)  | 1050 USD           |
 | **Total**     | **322600 STARS**                                                                                                   | **1061 USD**       |
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
-
-## Y
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>YP Epoch 11</p></figcaption></figure>
 
 ## YP Epoch 10
 
