@@ -15,7 +15,7 @@
 * &#x20;[`30`](https://www.mintscan.io/stargaze/txs/8D2DB887B2F5D2FDF1F4906FDDF372150C1CBB21943B0A01AB34A6A7145B6821) YPs **burned** using \~35K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 11K $Stars each to **YP #1194, YP #1911 and YP #2585**
 
-
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2011" %}
 
 | Source        | STARS Yield                                                                                                        | USD Price (0.0031) |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
@@ -33,13 +33,15 @@
 * [`26`](https://www.mintscan.io/stargaze/tx/ECD414DB2BEB127310F213BACEA583575298BD894909851E91F31B22C5470B99?height=17438962) YPs **burned** using \~30.5K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 10K $Stars each to [**YP #1206**](https://www.mintscan.io/stargaze/tx/A32AB8B91AB010EB9F1A47910716AE1F67EDCA215FB9F2F4791A60936EB3FB53)**,** [**YP #2155**](https://www.mintscan.io/stargaze/tx/A2FA060D5401ED794B98AB2319D3FEEC48C49E6FC8EEF0E44FD6F476016FAC24) **and** [**YP #4447**](https://www.mintscan.io/stargaze/tx/C9336851AAC31F981FA9396AE2E3E95B9129F040C743E5FEFA634F7046EEAA13)
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2010" %}
+
 | Source        | STARS Yield                                                                                                          | USD Price (0.0041) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Staked Assets | [4K STARS](https://www.mintscan.io/stargaze/tx/E2BA5E04B31B17ED8A652ED5781067A086E5D13A7826B58831504D2D080A6A00)     | 16.4 USD           |
 | yGATA         | [297.5K STARS](https://www.mintscan.io/stargaze/tx/466F9D9926F51EC6CD5BB10074F999BDFE463E67B2AC2A6D2CF571EEFA50BEFB) | 1200 USD           |
 | **Total**     | 301000 STARS                                                                                                         | **1220 USD**       |
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>YP Epoch 10</p></figcaption></figure>
 
 ## YP Epoch 9
 
