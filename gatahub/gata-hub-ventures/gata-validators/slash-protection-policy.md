@@ -28,9 +28,8 @@ Because every network has different slashing parameters, we cannot give you esti
 ### **Eligible Chains**
 
 * **Cosmos Hub**
-* **Osmosis Hub**
+* **Atom One**
 * **Juno**
-* **Teritori**
 * **Omniflix**
 * **Akash Network**
 * **Stargaze**
@@ -55,8 +54,16 @@ AKT Slashing 2023-11
 
 #### Cosmos HUB
 
-Feburary 11, 2024: validator lost connection to peers during infrastructure upgrade, resulting in downtime slash.&#x20;
+February 11, 2024: validator lost connection to peers during infrastructure upgrade, resulting in downtime slash.&#x20;
 
 {% file src="../../../.gitbook/assets/Slash amount Cosmos HUB 11Feb 2024.txt" %}
 ATOM Slashing 2024-02
+{% endfile %}
+
+March 5, 2025: Validator slashed because of Stride ICS chain downtime.&#x20;
+
+
+
+{% file src="../../../.gitbook/assets/GATA_Cosmos_D_Slash_refund.txt" %}
+ATOM slashing 2025-03
 {% endfile %}
