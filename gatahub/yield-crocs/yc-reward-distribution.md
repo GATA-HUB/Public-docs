@@ -12,7 +12,7 @@ Total Epoch Distributed: **3 Epoch**\
 * Epoch Distributed on 1st March 2025
 * **36K yGATA** & **4.2 SOL** Yielded and distributed
 * 16 YPs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 0.42 $SOL 3600 yGATA each to **YC #1647, YC #3000 and YC #8992**
+* 3 x Raffle rewards worth 0.42 $SOL 1200 yGATA each to [**YC #1647**](https://www.mintscan.io/osmosis/tx/B7BFFD8097573EE8E2151A54137B5B6100A1921B755EF32025F2DAE3DAA912B6?height=31489680)**,** [**YC #3000**](https://www.mintscan.io/osmosis/tx/8B939DA32DAB2987C664BCCDB3EB48E0E455DBB16E1BBA096DD4269EDFDA73E7?height=31489737) **and** [**YC #8992**](https://www.mintscan.io/osmosis/tx/4FB53E5199E9B76140AB565C97AF3444E67208BEA44BC457FD17433B5953312A?height=31489786)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%203" %}
 
