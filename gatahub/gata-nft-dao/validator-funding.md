@@ -29,4 +29,4 @@ Following are the details of total funds disbursed to fund the validator operati
 | 1st January 2025            | [41](https://www.mintscan.io/osmosis/tx/D5459C5E7EDD8ED0D85DABD02872E4B7948C46D9360037DEB6BD2BCB59B5BDA0) (NTRN)  | 190 USD  | 9552 USD          |
 | 1st February 2025           | [75](https://www.mintscan.io/cosmos/tx/DF0F6F89C208A3933F57C2263B653D9AA454F101F5710F76BA508745CB19DB61)          | 354 USD  | 9906 USD          |
 | 1st February 2025           | [63](https://www.mintscan.io/cosmos/tx/524B7D82A53B1D677DB76C86CD0E9E897825E3095A88CBBB16AB565D50B855AD)          | 288 USD  | 10194 USD         |
-| 1st April 2025              | 70                                                                                                                | 325 USD  | 10519 USD         |
+| 1st April 2025              | [70](https://www.mintscan.io/cosmos/tx/28D5F5D67F8EC45380EBFD7B665BC765FCE0FEDFFCC9EC7C8CF37C2A320C6211)          | 325 USD  | 10519 USD         |
