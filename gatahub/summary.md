@@ -21,6 +21,7 @@ description: >-
 * [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/)& DAO membership) &#x20;
 * [Yield Gorillas](yield-gorillas/) (monthly [**ATOM rewards**](yield-gorillas/yg-reward-distributions.md), deflationary supply, raffle)
 * [Yield Paws](yield-paws/) (monthly [**STARS rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
+* [Yield Crocs](yield-crocs/) (monthly [Solana and yGATA rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
 * [Souvenir NFT collections](gata-hub-ventures/nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ### GATA Yield DAO
@@ -29,4 +30,4 @@ Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
 
 ### Apps/Games&#x20;
 
-* [Rollapp](rollapp.md)
+* [Yield dApp](rollapp.md)
