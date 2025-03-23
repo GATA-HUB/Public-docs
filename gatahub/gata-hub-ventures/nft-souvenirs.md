@@ -236,3 +236,15 @@ Commemorative side collection of GATA with which we celebrated Christmas & year'
 [GATA Xmas greetings 2024 on Stargaze Marketplace](https://www.stargaze.zone/m/stars13u6ugmja48etdpy5gaf6hnkmx8gw05fkcg0wr9ry65qc5nm39cpqc3tt3x/tokens)
 
 </details>
+
+## 9- GATA 3rd Anniversary
+
+<details>
+
+<summary>GATA HUB: 3rd Anniversary Celebration mint</summary>
+
+Celebrate 3 incredible years of GATA HUB with this special Open Edition collection! Mint your free commemorative NFT from March 11th, 4 PM UTC to March 18th, 4 PM UTC and be part of the legacy.\
+\
+[View collection ](https://omniflix.market/c/onftdenom5841d7530dfd4dd0b61093389896aae8/non-transferable)
+
+</details>
