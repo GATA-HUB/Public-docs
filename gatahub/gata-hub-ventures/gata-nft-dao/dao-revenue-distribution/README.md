@@ -620,7 +620,7 @@ Epoch 28 snapshot
 GATA Epoch 29
 {% endembed %}
 
-<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (10 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>87 ATOM</td><td>870 USD</td></tr><tr><td>Akash Validator</td><td>21.4 ATOM</td><td>214 USD</td></tr><tr><td>Omniflix Validator</td><td>25.7 ATOM</td><td>257 USD</td></tr><tr><td>Osmosis Validator</td><td>2.9 ATOM</td><td>29 USD</td></tr><tr><td>Teritori Validator</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td>Stargaze Validator</td><td>1.8 ATOM</td><td>18 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>30 USD</td></tr><tr><td>Stargaze Royalties</td><td>1.7 ATOM</td><td>17 USD</td></tr><tr><td>Rollover</td><td>1 ATOM</td><td>10 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>145 ATOM</strong></td><td><strong>1450 USD</strong></td></tr></tbody></table>
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>92 ATOM</td><td>460 USD</td></tr><tr><td>Akash Validator</td><td>17 ATOM</td><td>85 USD</td></tr><tr><td>Omniflix Validator</td><td>26 ATOM</td><td>130 USD</td></tr><tr><td>Osmosis Validator</td><td>2.7 ATOM</td><td>13 USD</td></tr><tr><td>Teritori Validator</td><td>0.1 ATOM</td><td>0.5 USD</td></tr><tr><td>Stargaze Validator</td><td>1.8 ATOM</td><td>9 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>1 ATOM</td><td>5 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>146 ATOM</strong></td><td><strong>730 USD</strong></td></tr></tbody></table>
 
 ## GATA DAO Epoch 30
 
@@ -645,3 +645,6 @@ GATA Epoch 30
 {% embed url="https://github.com/GATA-HUB/snapshots/commit/f8a16e0caeaafc3fa6b2c9b7d7fd0196591e0d1d" %}
 GATA Epoch 31
 {% endembed %}
+
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>88 ATOM</td><td>440 USD</td></tr><tr><td>Akash Validator</td><td>14 ATO</td><td>70 USD</td></tr><tr><td>Omniflix Validator</td><td>19 ATOM</td><td>85 USD</td></tr><tr><td>Osmosis Validator</td><td>1.4 ATOM</td><td>7 USD</td></tr><tr><td>Teritori Validator</td><td>0.2 ATOM</td><td>1 USD</td></tr><tr><td>Stargaze Validator</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>21 ATOM</td><td>105 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>151 ATO</strong></td><td><strong>755 USD</strong></td></tr></tbody></table>
+
