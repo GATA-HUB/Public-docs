@@ -24,7 +24,7 @@ layout:
 # Yield Paws
 
 {% hint style="info" %}
-Trade floor NFTs in the infinity swap [pool](https://www.stargaze.zone/infinity-swap/pool/stars1qcesxkn4jcfg2fyffwqhpv02ufrg0szsae6ztzn6jjvgclpgsfws7h4vee/overview)
+Trade floor NFTs in the infinity swap [pool](https://www.stargaze.zone/infinity-swap/pool/stars1qcesxkn4jcfg2fyffwqhpv02ufrg0szsae6ztzn6jjvgclpgsfws7h4vee/overview) or trade on the [marketplace](https://www.stargaze.zone/m/yieldpaws/tokens)
 {% endhint %}
 
 ## About the collection
