@@ -20,10 +20,11 @@ The specifics of foundation delegation can vary among blockchain projects, with 
 
 
 
-| Foundation | Term/Award date     | Token | Amount     | Details                                                                                                              |
-| ---------- | ------------------- | ----- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| ICF        | Dec 2022 - 2023     | ATOM  | 13.7k ATOM | [Detailed decision](https://drive.google.com/file/d/17XN4r963viVroVu3PNjbY2wy367vgNZv/view)                          |
-| Juno DAO   | Aug 2023 - Dec 2023 | JUNO  | 100k JUNO  | [Detailed decision](https://docs.google.com/spreadsheets/d/1v6TfvBlsaUqMfjPQHRk2ZJjI3bV3ykOdKlCPXJCg\_lA/edit#gid=0) |
-| ICF        | Dec 2023 - Nov 2024 | ATOM  | 178k ATOM  | [Detailed decision](https://drive.google.com/file/d/1aiXLjn-ient8Zw0aIawqLcnLVL6JvzrC/view)                          |
-| ICF        | Dec 2023 - Nov 2024 | OSMO  | 5k OSMO    | [Detailed decision ](https://drive.google.com/file/d/1OUkhvfk7-1-BWYjyYBAFlUn6ywu\_P36f/view)                        |
-| Archway    | August 2023         | ARCH  | 3m ARCH    |                                                                                                                      |
+| Foundation                            | Term/Award date         | Token | Amount     | Details                                                                                                             |
+| ------------------------------------- | ----------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| ICF                                   | Dec 2022 - 2023         | ATOM  | 13.7k ATOM | [Detailed decision](https://drive.google.com/file/d/17XN4r963viVroVu3PNjbY2wy367vgNZv/view)                         |
+| Juno DAO                              | Aug 2023 - Dec 2023     | JUNO  | 100k JUNO  | [Detailed decision](https://docs.google.com/spreadsheets/d/1v6TfvBlsaUqMfjPQHRk2ZJjI3bV3ykOdKlCPXJCg_lA/edit#gid=0) |
+| ICF                                   | Dec 2023 - June 2025    | ATOM  | 178k ATOM  | [Detailed decision](https://drive.google.com/file/d/1aiXLjn-ient8Zw0aIawqLcnLVL6JvzrC/view)                         |
+| ICF                                   | Dec 2023 - June 2025    | OSMO  | 5k OSMO    | [Detailed decision ](https://drive.google.com/file/d/1OUkhvfk7-1-BWYjyYBAFlUn6ywu_P36f/view)                        |
+| Archway                               | August 2023- March 2024 | ARCH  | 3m ARCH    |                                                                                                                     |
+| [All in Bits](https://allinbits.com/) | March 2025              | ATONE | 160K ATONR | [Detailed Decision](https://allinbits.com/blog/aib-atone-delegation-program-cycle-1/)                               |
