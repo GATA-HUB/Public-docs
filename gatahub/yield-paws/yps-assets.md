@@ -22,5 +22,5 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 | Grey      | 300              | 0      | 300            |
 | Black     | 800              | 0      | 800            |
 | White     | 1000             | 1      | 999            |
-| Orange    | 2800             | 175    | 2625           |
-| **Total** | **5000**         | 176    | **4824**       |
+| Orange    | 2800             | 195    | 2605           |
+| **Total** | **5000**         | 196    | **4824**       |
