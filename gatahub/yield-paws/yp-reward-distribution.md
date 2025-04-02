@@ -1,19 +1,21 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **2.559 M $STARS** / **19254 USD** Yield &#x20;
-* **2.183 M  $STARS** distributed to holders
-* **11 Epoch** distributed \
-  &#xNAN;_( Last updated March 6, 2025)_&#x20;
+* **2.91 M $STARS** / **20254 USD** Yield &#x20;
+* **2.534 M  $STARS** distributed to holders
+* **12 Epoch** distributed \
+  &#xNAN;_( Last updated April 2, 2025)_&#x20;
 {% endhint %}
 
-## YP Epoch 11
+## YP Epoch 12
 
 * Epoch Distributed on 1st April 2025
 * 350.2K Stars Yielded&#x20;
-* 280K Stars Distribution to YP holders based on skins&#x20;
+* 281K Stars Distribution to YP holders based on skins&#x20;
 * &#x20;[`20`](https://www.mintscan.io/stargaze/txs/0AD87D75D238D9933B1E326BF6E3340F9928512B68EBBEF2E49FF018D0A96313) YPs **burned** using \~40K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 12K $Stars each to **YP #1194, YP #1911 and YP #2585**
+* 3 x Raffle rewards worth 12K $Stars each to **YP #, YP # and YP #**
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2012" %}
 
 | Source        | STARS Yield                                                                                                        | USD Price (0.0028) |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
@@ -21,7 +23,7 @@
 | yGATA         | [346K STARS](https://www.mintscan.io/stargaze/tx/3C53B5F4547A2E2042C7FB2B7A08F9E3A91FBFD3FA5D9912AB12E16F0DF4F79F) | 969 USD            |
 | **Total**     | **350220 STARS**                                                                                                   | **980 USD**        |
 
-
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>YP Epoch 12</p></figcaption></figure>
 
 ## YP Epoch 11
 
