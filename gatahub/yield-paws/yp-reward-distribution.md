@@ -13,7 +13,7 @@
 * 350.2K Stars Yielded&#x20;
 * 281K Stars Distribution to YP holders based on skins&#x20;
 * &#x20;[`20`](https://www.mintscan.io/stargaze/txs/0AD87D75D238D9933B1E326BF6E3340F9928512B68EBBEF2E49FF018D0A96313) YPs **burned** using \~40K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 12K $Stars each to **YP #, YP # and YP #**
+* 3 x Raffle rewards worth 12K $Stars each to [**YP #96**](https://www.mintscan.io/stargaze/tx/7E057B89BFCE73A4841EB0098FA587CB596132E28EDD75D66081AAFD2A04763A)**,** [**YP #1836**](https://www.mintscan.io/stargaze/tx/54B88F3B27140FEA329581E76BC96926CA90C531A2845EBA57BA0EBE4366F932) **and** [**YP #2565**](https://www.mintscan.io/stargaze/tx/D3B1F1EAA36CF6E2086072909137782209D050B63DC04FF24606218C0CF1C8C1)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2012" %}
 
