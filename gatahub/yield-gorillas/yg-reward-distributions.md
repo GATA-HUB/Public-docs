@@ -5,12 +5,18 @@ description: Overview of all Yield Gorillas epoch rewards to holders.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **10,532** Atom total yield
-* **7,477+** Atom distributed to holders
-* **24** Epoch distributed
+* **10,5759** Atom total yield
+* **7,704+** Atom distributed to holders
+* **25** Epoch distributed
 
-_(Last updated 26 March, 2025)_
+_(Last updated 7 April, 2025)_
 {% endhint %}
+
+## YG Epoch 25
+
+1st April 2024
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 24
 
@@ -26,7 +32,7 @@ _(Last updated 26 March, 2025)_
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2023" %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
 
 ## YG Epoch 22
 
@@ -68,7 +74,7 @@ _(Last updated 26 March, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2018" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
 
 ## YG Epoch 17
 
@@ -76,7 +82,7 @@ _(Last updated 26 March, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
 
 ## YG Epoch 16
 
@@ -112,7 +118,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 
@@ -130,7 +136,7 @@ YG Snpashot for Epoch 14
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 

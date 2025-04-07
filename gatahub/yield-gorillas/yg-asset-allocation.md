@@ -26,7 +26,7 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 ## Current Staked Assets
 
-`Estimated value of the Staked Assets 55K USD`
+`Estimated value of the Staked Assets 35K USD`
 
 | Asset  | Amount Staked | Source                                                              |
 | ------ | ------------- | ------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ This table records the Yield Gorillas income after the implementation of New yie
 | [22](yg-reward-distributions.md#yg-epoch-22)/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
 | [23](yg-reward-distributions.md#yg-epoch-23)/ January 2025   | 44 ATOM            | 171 ATOM          | 215 ATOM / 1100 USD |
 | [24](yg-reward-distributions.md#yg-epoch-24)/ February 2025  | 40 ATOM            | 186 ATOM          | 226 ATOM / 1100 USD |
-| 25/ March 2025                                               | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
+| [25](yg-reward-distributions.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
 
 
 

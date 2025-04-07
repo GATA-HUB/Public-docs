@@ -77,7 +77,7 @@
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/Yield%20Paws/YP%20epoch%209" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YP epoch 9</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>YP epoch 9</p></figcaption></figure>
 
 ## YP Epoch 8
 
@@ -117,7 +117,7 @@
 | Managed Assets | 266417 Stars                                                                                                       | 1600 USD          |
 | **Total**      | **271000 Stars**                                                                                                   | **1628 USD**      |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 6
 
@@ -133,7 +133,7 @@
 
 <table><thead><tr><th>Source</th><th width="236">Stars Yield</th><th>USD Price (0.008/Stars)</th></tr></thead><tbody><tr><td>Staked Assets</td><td><a href="https://www.mintscan.io/stargaze/tx/437F92FE0F62E34C1ACCAC4C8EF9873C81FB3FCB5C3168B3303CE6F07FE2FD15">4194 Stars</a></td><td>35 USD</td></tr><tr><td>Managed Assets</td><td>251000 Stars</td><td>2000 USD</td></tr><tr><td>Private investment</td><td>-- Stars</td><td>-- USD</td></tr><tr><td><strong>Total</strong></td><td><strong>255194 Stars</strong></td><td><strong>2035 USD</strong></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 5
 
@@ -175,7 +175,7 @@
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%204" %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
 
 ## YP Epoch 3
 

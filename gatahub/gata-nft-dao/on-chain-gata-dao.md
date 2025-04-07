@@ -31,11 +31,11 @@ Holders of [Colonial Cats](https://www.stargaze.zone/m/stars1yw4xvtc43me9scqfr2j
 * &#x20;Log[^1] in with the account you hold NFTs in.&#x20;
 
 \
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 * Chose your wallet and connect&#x20;
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 * mange your stake
 
