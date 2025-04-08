@@ -18,7 +18,7 @@ _(Last updated 7 April, 2025)_
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2025" %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 25</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG Epoch 25</p></figcaption></figure>
 
 ## YG Epoch 24
 
@@ -34,7 +34,7 @@ _(Last updated 7 April, 2025)_
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2023" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 23</p></figcaption></figure>
 
 ## YG Epoch 22
 
@@ -76,7 +76,7 @@ _(Last updated 7 April, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2018" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 18</p></figcaption></figure>
 
 ## YG Epoch 17
 
@@ -84,7 +84,7 @@ _(Last updated 7 April, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2017" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YG Epoch 17</p></figcaption></figure>
 
 ## YG Epoch 16
 
@@ -120,7 +120,7 @@ YG Snpashot for Epoch 14
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2013" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 12
 

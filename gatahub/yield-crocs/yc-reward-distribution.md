@@ -1,11 +1,22 @@
 # YC Reward Distribution
 
 {% hint style="info" %}
-Total reward Distributed : **122.2K yGATA & 12.72 SOL**\
-Total Epoch Distributed: **3 Epoch**\
+Total reward Distributed : **154.7K yGATA & 16.82 SOL**\
+Total Epoch Distributed: 4 **Epoch**\
 \
-&#xNAN;_&#x4C;ast updated: 3 March 2025_
+&#xNAN;_&#x4C;ast updated: 8 April 2025_
 {% endhint %}
+
+## Epoch 4
+
+* Epoch Distributed on 1st March 2025
+* **32.5K yGATA** & **4.1 SOL** Yielded and distributed
+* 21 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 0.14 $SOL 1100 yGATA each to holders of [**YC #938**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/938)**,** [**YC #4769**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/4769) **and** [**YC #5444**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/5444)
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%204" %}
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YC Epoch 4</p></figcaption></figure>
 
 ## Epoch 3
 
