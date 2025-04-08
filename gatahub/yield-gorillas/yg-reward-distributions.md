@@ -16,7 +16,9 @@ _(Last updated 7 April, 2025)_
 
 1st April 2024
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/YG/YG%20Epoch%2025" %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG Epoch 25</p></figcaption></figure>
 
 ## YG Epoch 24
 
