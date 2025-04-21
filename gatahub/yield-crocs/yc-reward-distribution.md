@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 Total reward Distributed : **154.7K yGATA & 16.82 SOL**\
-Total Epoch Distributed: 4 **Epoch**\
+Total Epoch Distributed: **4** **Epoch**\
 \
 &#xNAN;_&#x4C;ast updated: 8 April 2025_
 {% endhint %}
