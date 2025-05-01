@@ -7,6 +7,20 @@
   &#xNAN;_( Last updated April 2, 2025)_&#x20;
 {% endhint %}
 
+## YP Epoch 13
+
+* Epoch Distributed on 1st April 2025
+* &#x20;Stars Yielded&#x20;
+* &#x20;Stars Distribution to YP holders based on skins&#x20;
+* &#x20; YPs **burned** using Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth K $Stars each t0
+
+| Source        | STARS Yield | USD Price (0.0028) |
+| ------------- | ----------- | ------------------ |
+| Staked Assets |             |                    |
+| yGATA         |             |                    |
+| **Total**     |             |                    |
+
 ## YP Epoch 12
 
 * Epoch Distributed on 1st April 2025

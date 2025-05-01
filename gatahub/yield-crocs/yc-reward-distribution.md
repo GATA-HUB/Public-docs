@@ -7,9 +7,16 @@ Total Epoch Distributed: **4** **Epoch**\
 &#xNAN;_&#x4C;ast updated: 8 April 2025_
 {% endhint %}
 
+## Epoch 5
+
+* Epoch Distributed on 1st May 2025
+* **K yGATA** & **SOL** Yielded and distributed
+* YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth  $SOL  yGATA each to holders of&#x20;
+
 ## Epoch 4
 
-* Epoch Distributed on 1st March 2025
+* Epoch Distributed on 1st April 2025
 * **32.5K yGATA** & **4.1 SOL** Yielded and distributed
 * 21 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 0.14 $SOL 1100 yGATA each to holders of [**YC #938**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/938)**,** [**YC #4769**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/4769) **and** [**YC #5444**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/5444)
