@@ -51,17 +51,17 @@ This table records the Yield Gorillas income after the implementation of New yie
 | [23](yg-reward-distributions.md#yg-epoch-23)/ January 2025   | 44 ATOM            | 171 ATOM          | 215 ATOM / 1100 USD |
 | [24](yg-reward-distributions.md#yg-epoch-24)/ February 2025  | 40 ATOM            | 186 ATOM          | 226 ATOM / 1100 USD |
 | [25](yg-reward-distributions.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
-| 26/ April 2025                                               | 39 ATOM            |                   |                     |
+| 26/ April 2025                                               | 39 ATOM            | 182 ATOM          | 221 ATOM/ 890 USD   |
 
 
 
 ## YG supply table
 
 {% hint style="info" %}
-Last updated April 1, 2025.&#x20;
+Last updated May 2, 2025.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>732</td><td>6900</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>751</td><td>9249</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>718</td><td>6886</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>765</td><td>9235</td></tr></tbody></table>
 
 <details>
 
