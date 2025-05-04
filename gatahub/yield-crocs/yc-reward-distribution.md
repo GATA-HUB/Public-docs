@@ -10,9 +10,13 @@ Total Epoch Distributed: **4** **Epoch**\
 ## Epoch 5
 
 * Epoch Distributed on 1st May 2025
-* **K yGATA** & **SOL** Yielded and distributed
-* YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* **33K yGATA** & **3.1SOL** Yielded and distributed
+* 10 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth  $SOL  yGATA each to holders of&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>YC Epoch 5</p></figcaption></figure>
 
 ## Epoch 4
 
