@@ -16,6 +16,8 @@ _(Last updated 4 May, 2025)_
 
 1st May 2025
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20epoch%2026" %}
+
 <figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>YG Epoch 26</p></figcaption></figure>
 
 ## YG Epoch 25
