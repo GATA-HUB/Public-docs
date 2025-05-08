@@ -1,5 +1,5 @@
 ---
-description: Last updated April 8, 2025
+description: Last updated May 8, 2025
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -51,7 +51,7 @@ This table records the Yield Gorillas income after the implementation of New yie
 | [23](yg-reward-distributions.md#yg-epoch-23)/ January 2025   | 44 ATOM            | 171 ATOM          | 215 ATOM / 1100 USD |
 | [24](yg-reward-distributions.md#yg-epoch-24)/ February 2025  | 40 ATOM            | 186 ATOM          | 226 ATOM / 1100 USD |
 | [25](yg-reward-distributions.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
-| 26/ April 2025                                               | 39 ATOM            | 182 ATOM          | 221 ATOM/ 890 USD   |
+| [26](yg-reward-distributions.md#yg-epoch-26)/ April 2025     | 39 ATOM            | 182 ATOM          | 221 ATOM/ 980 USD   |
 
 
 
