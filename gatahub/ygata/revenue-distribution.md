@@ -9,9 +9,10 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 
 **Total Yield: 39720 USD**\
 **yGATA Distributed: 2290.3K** \
+**yGATA Buyback: 203.6K**\
 **Epoch distributed: 6**\
 \
-(_Last updated 30 April, 2025)_
+(_Last updated 10 May, 2025)_
 {% endhint %}
 
 ### Epoch 6
