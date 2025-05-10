@@ -11,7 +11,7 @@ Total Epoch Distributed:  **5** **Epoch**\
 
 * Epoch Distributed on 1st May 2025
 * **33K yGATA** & **3.13 SOL** Yielded and distributed
-* 10 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* [10](https://www.mintscan.io/omniflix/tx/91B1E5C36F27D20F0E8434A5AC99F6244DB4ADF938FD073FEEC6800ECBDEF85A) YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 0.1 $SOL & 1100 $yGATA each to holders of [**YC #1206**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/1206)**,** [**YC #6199**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/6199) **and** [**YC #7584**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/7584)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%205" %}
@@ -22,7 +22,7 @@ Total Epoch Distributed:  **5** **Epoch**\
 
 * Epoch Distributed on 1st April 2025
 * **32.5K yGATA** & **4.1 SOL** Yielded and distributed
-* 21 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* [21](https://www.mintscan.io/omniflix/tx/B22AE53F23A70F6ADA9A2DA7232E16C2FF732A3531231A8C4E06BAFCD215FB5C) YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 0.14 $SOL 1100 yGATA each to holders of [**YC #938**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/938)**,** [**YC #4769**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/4769) **and** [**YC #5444**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/5444)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%204" %}
