@@ -13,11 +13,11 @@ Each month, GATA distributes the revenue to the members of GATA DAO (holders of 
 Based on the decision of [proposal 7](../../../gata-nft-dao/gata-constitution/gov.-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../gata-validators/).&#x20;
 
 {% hint style="info" %}
-* **6,920 ATOM** distributed to GATA holders till date.&#x20;
-* **15,650 ATOM** Yielded from GATA DAO operations till date.
-* **32 Epochs** Distributed   &#x20;
+* **7,071 ATOM** distributed to GATA holders till date.&#x20;
+* **16,155 ATOM** Yielded from GATA DAO operations till date.
+* **33 Epochs** Distributed   &#x20;
 
-_(Last Updated 5 April 2025)_
+_(Last Updated 12 May 2025)_
 {% endhint %}
 
 ## GATA DAO EPOCH 1
@@ -656,3 +656,12 @@ GATA Epoch 31
 * Distribution Date: April 1st 2025
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2032" %}
+
+## GATA DAO EPOCH 33
+
+* Epoch duration: from April 1st 2025 to April 30th 2025
+* Eligibility: 986/1887 eligible holders of [GATAc](../../../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](../../../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.&#x20;
+* Total $ATOM distributed: 151 $ATOM
+* Distribution Date: May 2nd 2025
+
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2033" %}
