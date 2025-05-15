@@ -1,4 +1,5 @@
 ---
+description: Independent Zones in Internet of Blockchain
 icon: dice-d20
 ---
 
