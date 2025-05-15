@@ -16,7 +16,7 @@ Total Epoch Distributed:  **5** **Epoch**\
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%205" %}
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>YC Epoch 5</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>YC Epoch 5</p></figcaption></figure>
 
 ## Epoch 4
 
@@ -38,7 +38,7 @@ Total Epoch Distributed:  **5** **Epoch**\
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%203" %}
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>YC Epoch 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption><p>YC Epoch 3</p></figcaption></figure>
 
 ## Epoch 2
 
@@ -51,7 +51,7 @@ Total Epoch Distributed:  **5** **Epoch**\
 YP epoch 2
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption><p>YC Epoch 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p>YC Epoch 2</p></figcaption></figure>
 
 ## Epoch 1
 
@@ -64,4 +64,4 @@ YP epoch 2
 YC Epoch 1
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>YP Epoch 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>YP Epoch 1</p></figcaption></figure>

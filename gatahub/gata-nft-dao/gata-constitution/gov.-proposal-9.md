@@ -1,4 +1,4 @@
-# Governance proposal 9
+# Gov. Proposal 9
 
 **DAO proposal #9 Proposing the $TORI Airdrop management**
 
@@ -20,7 +20,7 @@ Voting Basics -Voting will be on-chain by magic transaction so everyone can part
 
 if you want to vote for YES, write 1 in the memo. If you want to vote NO write 2 in memo. Address : stars1eewzan3pa6ta7jr83sqzujsgnaupkfs67e0ew3
 
-\-Transaction must be sent from $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 vote.
+-Transaction must be sent from $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 vote.
 
 IPFS link https://gateway.pinata.cloud/ipfs/QmYQzei24sbhLPVdbvmRdAPvqrBS5io4GwrQ41rXyZwmXk
 
@@ -31,4 +31,4 @@ Voting end time : 19 OCT 2022 12:35 pm UTC
 
 ## Result
 
-![](<../../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (37).png>)

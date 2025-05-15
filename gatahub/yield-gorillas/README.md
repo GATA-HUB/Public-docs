@@ -42,13 +42,13 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 
 ﻿Yield Gorillas are the first collection of non-GATA NFTs and belong to the Yield series. They consist of 10.000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA team.&#x20;
 
-The revenue from the mint got staked on [GATA validators](../gata-hub-ventures/gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly base in so-called [YG epoch rewards](yg-reward-distributions.md), based on the rarity of their YGs.
+The revenue from the mint got staked on [GATA validators](../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly base in so-called [YG epoch rewards](yg-reward-distributions.md), based on the rarity of their YGs.
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>For Yield Gorillas, the allocation of revenue depends on the rarities of the NFTs (skin trait).</p></figcaption></figure>
 
 ### Yield Gorillas History
 
-The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../gata-nft-dao/about-gata-nfts/), all delegators to [GATA validators](../gata-hub-ventures/gata-validators/).
+The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../gata-nft-dao/about-gata-nfts/), all delegators to [GATA validators](../gata-validators/).
 
 Around launch, GATA provided infos via [launch article on Medium](https://medium.com/gatadao/yield-gorillas-serie-is-here-4ae0c2423017) as well as various [minting scenarios](https://medium.com/gatadao/yield-gorilla-rewards-calculation-21dc924787e3).
 

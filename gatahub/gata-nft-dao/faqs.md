@@ -18,15 +18,11 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How dose GATA DAO earns for their NFT holders?</summary>
 
-* By operating validators and getting commission from the [validators.](../gata-hub-ventures/gata-validators/)
+* By operating validators and getting commission from the [validators.](../gata-validators/)
 
-<!---->
+- Secondary market NFT royalties.
 
-* Secondary market NFT royalties.
-
-<!---->
-
-* [Staking](../gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards of GATA DAO Owned assets.
+* [Staking](gata-dao-staking-delegations.md) rewards of GATA DAO Owned assets.
 
 </details>
 
@@ -34,7 +30,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How many Epochs GATA DAO has distributed?</summary>
 
-GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](../gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/)_._&#x20;
+GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](dao-revenue-distribution/)_._&#x20;
 
 </details>
 

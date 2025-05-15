@@ -23,7 +23,7 @@
 | yGATA         | [705K STARS](https://www.mintscan.io/stargaze/tx/425AB3E4193650E578AD297D0F88F5F10FA452458BD1BAA18BF5DB298E15C597) | 775 USD             |
 | **Total**     | 710K STARS                                                                                                         | 780 USD             |
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>YP epoch 13</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption><p>YP epoch 13</p></figcaption></figure>
 
 ## YP Epoch 12
 
@@ -41,7 +41,7 @@
 | yGATA         | [346K STARS](https://www.mintscan.io/stargaze/tx/3C53B5F4547A2E2042C7FB2B7A08F9E3A91FBFD3FA5D9912AB12E16F0DF4F79F) | 969 USD            |
 | **Total**     | **350220 STARS**                                                                                                   | **980 USD**        |
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>YP Epoch 12</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p>YP Epoch 12</p></figcaption></figure>
 
 ## YP Epoch 11
 
@@ -59,7 +59,7 @@
 | yGATA         | [319K STARS](https://www.mintscan.io/osmosis/tx/2E057D82738D0ED8793D865ED3D5118D9B6876E88DCF3B2463C478EAA226EA6C)  | 1050 USD           |
 | **Total**     | **322600 STARS**                                                                                                   | **1061 USD**       |
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>YP Epoch 11</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>YP Epoch 11</p></figcaption></figure>
 
 ## YP Epoch 10
 
@@ -77,7 +77,7 @@
 | yGATA         | [297.5K STARS](https://www.mintscan.io/stargaze/tx/466F9D9926F51EC6CD5BB10074F999BDFE463E67B2AC2A6D2CF571EEFA50BEFB) | 1200 USD           |
 | **Total**     | 301000 STARS                                                                                                         | **1220 USD**       |
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>YP Epoch 10</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>YP Epoch 10</p></figcaption></figure>
 
 ## YP Epoch 9
 
@@ -95,7 +95,7 @@
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/Yield%20Paws/YP%20epoch%209" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>YP epoch 9</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>YP epoch 9</p></figcaption></figure>
 
 ## YP Epoch 8
 
@@ -113,7 +113,7 @@
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%208" %}
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -135,7 +135,7 @@
 | Managed Assets | 266417 Stars                                                                                                       | 1600 USD          |
 | **Total**      | **271000 Stars**                                                                                                   | **1628 USD**      |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 6
 
@@ -151,7 +151,7 @@
 
 <table><thead><tr><th>Source</th><th width="236">Stars Yield</th><th>USD Price (0.008/Stars)</th></tr></thead><tbody><tr><td>Staked Assets</td><td><a href="https://www.mintscan.io/stargaze/tx/437F92FE0F62E34C1ACCAC4C8EF9873C81FB3FCB5C3168B3303CE6F07FE2FD15">4194 Stars</a></td><td>35 USD</td></tr><tr><td>Managed Assets</td><td>251000 Stars</td><td>2000 USD</td></tr><tr><td>Private investment</td><td>-- Stars</td><td>-- USD</td></tr><tr><td><strong>Total</strong></td><td><strong>255194 Stars</strong></td><td><strong>2035 USD</strong></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 5
 
@@ -172,7 +172,7 @@
 | Private investment | -- Stars                                                                                                           | -- USD                  |
 | **Total**          | **250423 Stars**                                                                                                   | **2005 USD**            |
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>YP Epoch 5</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>YP Epoch 5</p></figcaption></figure>
 
 ## YP Epoch 4
 
@@ -193,7 +193,7 @@
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20epoch%204" %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>YP Epoch 4</p></figcaption></figure>
 
 ## YP Epoch 3
 
@@ -255,4 +255,4 @@ Epoch 1 Snapshot
 | Private Investments | -- Stars                                                                                                                           | 0 USD                       |
 | **Total**           | **104207**                                                                                                                         | **1976 USD**                |
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>

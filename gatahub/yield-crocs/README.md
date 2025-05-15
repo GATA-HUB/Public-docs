@@ -56,8 +56,8 @@ Yield Crocss holders benefit from monthly distributions of revenue gained from t
 The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: \
 
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Supply of Yield Crocs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Supply of Yield Crocs</p></figcaption></figure>
 
 ## Concept of Yield Paws - Funding, Model & Distribution
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Yield Crocs revenue distribution model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Yield Crocs revenue distribution model</p></figcaption></figure>

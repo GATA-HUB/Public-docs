@@ -1,4 +1,4 @@
-# Governance proposal 10
+# Gov. Proposal 10
 
 **GATA DAO Prop #10**
 
@@ -15,7 +15,7 @@ Voting Basics -Voting will be on-chain by magic transaction so everyone can part
 
 if you want to vote for YES, write 1 in the memo. If you want to vote NO write 2 in memo. Address : stars1eewzan3pa6ta7jr83sqzujsgnaupkfs67e0ew3
 
-\-Transaction must be sent from $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 vote.\
+-Transaction must be sent from $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 vote.\
 \
 IPFS link
 
@@ -32,4 +32,4 @@ _Voting end time: 9 NOV 2022 7:45 pm UTC_
 
 Prop 10 passed in favor of shutting down the Rowan validator. \
 \
-![](<../../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (51).png>)

@@ -1,4 +1,4 @@
-# Governance proposal 11
+# Gov. Proposal 11
 
 **GATA DAO Prop #11**
 
@@ -35,7 +35,7 @@ Voting Basics -Voting will be on-chain by magic transaction so everyone can part
 
 if you want to vote for YES, write 1 in the memo. If you want to vote NO write 2 in the memo. Address : stars1eewzan3pa6ta7jr83sqzujsgnaupkfs67e0ew3
 
-\-Transaction must be sent from the $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 votes.
+-Transaction must be sent from the $GATA-c/$GATA-v holding account. One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA you have 10 votes.
 
 Voting start time: 1 Feb 2022 6:30 pm UTC Voting end time: 4 Feb 2022 6:30 pm UTC
 
@@ -46,4 +46,4 @@ Voting start time: 1 Feb 2022 6:30 pm UTC Voting end time: 4 Feb 2022 6:30 pm UT
 
 Prop 11 passed to execute the Felis update. \
 \
-![](<../../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (44).png>)

@@ -31,15 +31,15 @@ Holders of [Colonial Cats](https://www.stargaze.zone/m/stars1yw4xvtc43me9scqfr2j
 * &#x20;Log[^1] in with the account you hold NFTs in.&#x20;
 
 \
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 * Chose your wallet and connect&#x20;
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 * mange your stake
 
-&#x20;![](<../../.gitbook/assets/image (3).png>)
+&#x20;![](<../../.gitbook/assets/image (21).png>)
 
 </details>
 
@@ -102,12 +102,12 @@ Any DAO member can start a governance proposal, proposal deposit is 1000 $STARS 
 * Vote can be changed anytime during the voting time.
 * All live proposal show up on the proposal tab of DAO.&#x20;
 
-<img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (22).png" alt="" data-size="original">
 
 Open the proposal and vote as you deem right \
 
 
-<img src="../../.gitbook/assets/image (5).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (23).png" alt="" data-size="original">
 
 submit the transaction, approve in your wallet, you need some $STARS for gas.&#x20;
 

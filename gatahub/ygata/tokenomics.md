@@ -36,4 +36,4 @@ layout:
 
 yGATA is a participation token of GATA Yield DAO, the token will be launched using the Streamswap protocol, a fair launch platform deployed on Osmosis. The yGATA token will be available against 3 Coins $USDC (Nobel), $FLIX and $STARS. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

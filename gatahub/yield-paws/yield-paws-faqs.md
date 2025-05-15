@@ -35,7 +35,7 @@ The yield of Yield Paws comes from a mix of \
 
 <summary><strong>Where do you stake the funds? Where are staking rewards accrued?</strong></summary>
 
-The portion of yield that comes from staking rewards gets accrued on the [GATA HUB validator](../gata-hub-ventures/gata-validators/) for Stargaze. By doing this, not only YP holders are benefiting from staking rewards, but GATA infrastructure as well and Stargaze as a whole, as these funds are getting used to secure the whole network.&#x20;
+The portion of yield that comes from staking rewards gets accrued on the [GATA HUB validator](../gata-validators/) for Stargaze. By doing this, not only YP holders are benefiting from staking rewards, but GATA infrastructure as well and Stargaze as a whole, as these funds are getting used to secure the whole network.&#x20;
 
 </details>
 
