@@ -96,7 +96,8 @@
     * [Stride](cosmos-ecosystem/ics/atom-economic-zone-aez/stride.md)
     * [Neutron](cosmos-ecosystem/ics/atom-economic-zone-aez/neutron.md)
   * [ICS 2.0 PSS ( Partial Set security)](cosmos-ecosystem/ics/ics-2.0-pss-partial-set-security.md)
-* [IBC Zones](cosmos-ecosystem/ibc-zones.md)
+* [IBC Zones](cosmos-ecosystem/ibc-zones/README.md)
+  * [AtomOne](cosmos-ecosystem/ibc-zones/atomone.md)
 
 ## 🧑‍🤝‍🧑 What's cooking in community
 
