@@ -195,7 +195,7 @@ GATA Horizons is a side collection of GATA, launched on Jan. 1st 2024, made by [
 
 <details>
 
-<summary>GCR</summary>
+<summary>Details- GCR</summary>
 
 GCR is a GATA community events reward collection, It get's airdrop to winners directly in their wallets. winners Burn the NFTs via Omniflix campaigns for the rewards.\
 \
@@ -229,7 +229,7 @@ GATA HUB Delegator Reward NFTs for every GATA fam member who staked with GATA on
 
 <details>
 
-<summary>GATA Christmas 2024 drop </summary>
+<summary>Details- GATA Christmas 2024 drop </summary>
 
 Commemorative side collection of GATA with which we celebrated Christmas & year's end in 2023 with the community. Free mint for \~5500 GATA stakeholders .\
 \
@@ -241,7 +241,7 @@ Commemorative side collection of GATA with which we celebrated Christmas & year'
 
 <details>
 
-<summary>GATA HUB: 3rd Anniversary Celebration mint</summary>
+<summary>Details- GATA HUB: 3rd Anniversary Celebration mint</summary>
 
 Celebrate 3 incredible years of GATA HUB with this special Open Edition collection! Mint your free commemorative NFT from March 11th, 4 PM UTC to March 18th, 4 PM UTC and be part of the legacy.\
 \
