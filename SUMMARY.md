@@ -69,8 +69,11 @@
 ## 🔯 Cosmos ecosystem
 
 * [ℹ️ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos/README.md)
+  * [IBC Zones](cosmos-ecosystem/introduction-to-cosmos/ibc-zones/README.md)
+    * [Cosmos HUB](cosmos-ecosystem/introduction-to-cosmos/ibc-zones/cosmos-hub.md)
+    * [AtomOne](cosmos-ecosystem/introduction-to-cosmos/ibc-zones/atomone/README.md)
+      * [Photon](cosmos-ecosystem/introduction-to-cosmos/ibc-zones/atomone/photon.md)
   * [Interoperability](cosmos-ecosystem/introduction-to-cosmos/interoperability.md)
-  * [ATOM Token](cosmos-ecosystem/introduction-to-cosmos/atom-token.md)
 * [⁉️ How to Cosmos](cosmos-ecosystem/how-to-cosmos/README.md)
   * [Creating and Securing Your Cosmos Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/README.md)
     * [Keplr Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/keplr-wallet.md)
@@ -95,10 +98,8 @@
   * [Atom Economic Zone (AEZ)](cosmos-ecosystem/ics/atom-economic-zone-aez/README.md)
     * [Stride](cosmos-ecosystem/ics/atom-economic-zone-aez/stride.md)
     * [Neutron](cosmos-ecosystem/ics/atom-economic-zone-aez/neutron.md)
-  * [ICS 2.0 PSS ( Partial Set security)](cosmos-ecosystem/ics/ics-2.0-pss-partial-set-security.md)
-* [IBC Zones](cosmos-ecosystem/ibc-zones/README.md)
-  * [AtomOne](cosmos-ecosystem/ibc-zones/atomone/README.md)
-    * [Photon](cosmos-ecosystem/ibc-zones/atomone/photon.md)
+  * [ICS 2.0 PSS ( Partial Set security)](cosmos-ecosystem/ics/ics-2.0-pss-partial-set-security/README.md)
+    * [Elys Network](cosmos-ecosystem/ics/ics-2.0-pss-partial-set-security/elys-network.md)
 
 ## 🧑‍🤝‍🧑 What's cooking in community
 
