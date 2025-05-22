@@ -9,9 +9,9 @@ In October 2024, AtomOne emerged as a fork of the Cosmos Hub, aiming to address 
 #### **Key Developments Since Launch**
 
 * **GovGen Chain Initiation**: Before AtomOne's official launch, the GovGen chain was established to gauge community sentiment and shape the new network's foundational principles. This governance-only chain allowed stakeholders to vote on critical aspects like the constitution, tokenomics, and software choices.
-* **ATONE Token Distribution**: Upon launch, AtomOne distributed 96.99 million ATONE tokens to ATOM holders, with additional allocations to a community pool and the AtomOne Treasury DAO. ([BlockBeats](https://www.theblockbeats.info/en/flash/267491?utm_source=chatgpt.com))
-* **Constitutional Governance**: AtomOne operates under a written constitution, emphasizing decentralized decision-making and community involvement. This framework aims to enhance transparency and ensure that governance reflects the collective vision of its participants. ([AtomOne](https://atom.one/faq/?utm_source=chatgpt.com))
-* **Validator Voting Rights Reform**: To promote a more equitable governance structure, AtomOne removed voting rights tied to delegated tokens, ensuring that only validators' self-staked tokens influence governance decisions. ([COINOTAG NEWS](https://en.coinotag.com/breakingnews/atomone-launches-as-a-governance-blockchain-forked-from-cosmos-hub-enhancing-decentralized-governance-and-tokenomics/?utm_source=chatgpt.com))
+* **ATONE Token Distribution**: Upon launch, AtomOne distributed 96.99 million ATONE tokens to ATOM holders, with additional allocations to a community pool and the AtomOne Treasury DAO. ([BlockBeats](https://www.theblockbeats.info/en/flash/267491))
+* **Constitutional Governance**: AtomOne operates under a written constitution, emphasizing decentralized decision-making and community involvement. This framework aims to enhance transparency and ensure that governance reflects the collective vision of its participants. ([AtomOne](https://atom.one/faq/?utm_source))
+* **Validator Voting Rights Reform**: To promote a more equitable governance structure, AtomOne removed voting rights tied to delegated tokens, ensuring that only validators' self-staked tokens influence governance decisions. ([COINOTAG NEWS](https://en.coinotag.com/breakingnews/atomone-launches-as-a-governance-blockchain-forked-from-cosmos-hub-enhancing-decentralized-governance-and-tokenomics))
 
 #### **Looking Ahead**
 
@@ -25,7 +25,7 @@ AtomOne plans to implement several features to further its mission:
 
 ### **Photon**&#x20;
 
-Photon is the designated fee token for the AtomOne network, introduced to separate transactional functions from governance and staking activities. This design choice aims to enhance security and provide a more stable economic model for the network. ([AtomOne](https://atom.one/faq/?utm_source=chatgpt.com))
+Photon is the designated fee token for the AtomOne network, introduced to separate transactional functions from governance and staking activities. This design choice aims to enhance security and provide a more stable economic model for the network. ([AtomOne](https://atom.one/faq/))
 
 #### **Why Photon?**
 

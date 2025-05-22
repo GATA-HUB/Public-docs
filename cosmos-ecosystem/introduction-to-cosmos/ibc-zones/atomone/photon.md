@@ -1,6 +1,6 @@
 # Photon
 
-Photon is the designated fee token for the AtomOne network, introduced to separate transactional functions from governance and staking activities. This design choice aims to enhance security and provide a more stable economic model for the network. ([AtomOne](https://atom.one/faq/?utm_source=chatgpt.com))
+Photon is the designated fee token for the AtomOne network, introduced to separate transactional functions from governance and staking activities. This design choice aims to enhance security and provide a more stable economic model for the network. ([AtomOne](https://atom.one/faq/))
 
 #### **Why Photon?**
 
