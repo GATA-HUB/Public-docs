@@ -646,7 +646,7 @@ GATA Epoch 30
 GATA Epoch 31
 {% endembed %}
 
-<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>88 ATOM</td><td>440 USD</td></tr><tr><td>Akash Validator</td><td>14 ATO</td><td>70 USD</td></tr><tr><td>Omniflix Validator</td><td>19 ATOM</td><td>85 USD</td></tr><tr><td>Osmosis Validator</td><td>1.4 ATOM</td><td>7 USD</td></tr><tr><td>Teritori Validator</td><td>0.2 ATOM</td><td>1 USD</td></tr><tr><td>Stargaze Validator</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>21 ATOM</td><td>105 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>151 ATOM</strong></td><td><strong>755 USD</strong></td></tr></tbody></table>
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>88 ATOM</td><td>440 USD</td></tr><tr><td>Akash Validator</td><td>14 ATOM</td><td>70 USD</td></tr><tr><td>Omniflix Validator</td><td>19 ATOM</td><td>85 USD</td></tr><tr><td>Osmosis Validator</td><td>1.4 ATOM</td><td>7 USD</td></tr><tr><td>Teritori Validator</td><td>0.2 ATOM</td><td>1 USD</td></tr><tr><td>Stargaze Validator</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>21 ATOM</td><td>105 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>151 ATOM</strong></td><td><strong>755 USD</strong></td></tr></tbody></table>
 
 ## GATA DAO EPOCH 32
 
@@ -657,6 +657,10 @@ GATA Epoch 31
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2032" %}
 
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>88 ATOM</td><td>440 USD</td></tr><tr><td>Akash Validator</td><td>14 ATOM</td><td>70 USD</td></tr><tr><td>Omniflix Validator</td><td>19 ATOM</td><td>85 USD</td></tr><tr><td>Osmosis Validator</td><td>1.4 ATOM</td><td>7 USD</td></tr><tr><td>AtomOne Validator</td><td>0.2 ATOM</td><td>1 USD</td></tr><tr><td>Stargaze Validator</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>21 ATOM</td><td>105 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>151 ATOM</strong></td><td><strong>755 USD</strong></td></tr></tbody></table>
+
+
+
 ## GATA DAO EPOCH 33
 
 * Epoch duration: from April 1st 2025 to April 30th 2025
@@ -665,3 +669,6 @@ GATA Epoch 31
 * Distribution Date: May 2nd 2025
 
 {% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/GATA%20DAO%20distributions/GATA%20Epoch%2033" %}
+
+<table><thead><tr><th width="285">Source</th><th width="177">ATOM Revenue</th><th>USD Value (5 USD/ATOM)</th></tr></thead><tbody><tr><td>Cosmos Validator</td><td>88 ATOM</td><td>440 USD</td></tr><tr><td>Akash Validator</td><td>14 ATOM</td><td>70 USD</td></tr><tr><td>AtomOne</td><td></td><td></td></tr><tr><td>Omniflix Validator</td><td>19 ATOM</td><td>85 USD</td></tr><tr><td>Stargaze Validator</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Juno Validator</td><td>3 ATOM</td><td>15 USD</td></tr><tr><td>Stargaze Royalties</td><td>2 ATOM</td><td>10 USD</td></tr><tr><td>Rollover</td><td>21 ATOM</td><td>105 USD</td></tr><tr><td><strong>Total</strong></td><td><strong>151 ATOM</strong></td><td><strong>755 USD</strong></td></tr></tbody></table>
+
