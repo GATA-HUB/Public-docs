@@ -7,16 +7,16 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury balances last updated May 12 , 2025
+Treasury balances last updated May 25 , 2025
 {% endhint %}
 
 {% hint style="info" %}
-Approximate value of treasury $10K USD
+Approximate value of treasury $5K USD
 {% endhint %}
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows
 
-<table><thead><tr><th width="126">Token</th><th width="137">Total</th><th width="123">Available</th><th width="135">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$ATOM</td><td>10 $ATOM</td><td>0 $ATOM</td><td>10 $ATOM</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$yGATA</td><td>194K $yGATA</td><td>50 $yGATA</td><td>194K$yGATA</td><td>omniflix1whjay3z7ww5zzhydxpt8xffu587jh990fh0tmh</td></tr><tr><td>$STARS</td><td>102K $STARS</td><td>2K $STARS</td><td>100k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC</td><td>0 $USDC</td><td>0 USDC</td><td>0 USDC</td><td>noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658</td></tr><tr><td>$TORI (airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr><tr><td>$ATONE</td><td>81 $ATONE</td><td> 1 $ATONE</td><td>80 $ATONE</td><td>evmos1gfw9rxlzfhnmvvl0fxsdntsc2ej02f2pj0v5xv</td></tr></tbody></table>
+<table><thead><tr><th width="126">Token</th><th width="137">Total</th><th width="123">Available</th><th width="135">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$ATOM</td><td>10 $ATOM</td><td>0 $ATOM</td><td>10 $ATOM</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$yGATA</td><td>194K $yGATA</td><td>50 $yGATA</td><td>194K$yGATA</td><td>omniflix1whjay3z7ww5zzhydxpt8xffu587jh990fh0tmh</td></tr><tr><td>$ATONE</td><td>111 $ATONE</td><td>1 $ATONE</td><td>110 ATONE</td><td>atone1whjay3z7ww5zzhydxpt8xffu587jh9906fz463</td></tr><tr><td>$STARS</td><td>102K $STARS</td><td>2K $STARS</td><td>100k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC</td><td>0 $USDC</td><td>0 USDC</td><td>0 USDC</td><td>noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658</td></tr><tr><td>$TORI (airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr></tbody></table>
 
 
 
