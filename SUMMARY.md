@@ -61,6 +61,7 @@
   * [AiG Lore](gatahub/apes-in-games-rise-of-apelandia/aig-lore.md)
   * [AiG NFT Collection](gatahub/apes-in-games-rise-of-apelandia/aig-nft-collection.md)
 * [🛤️ GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
+  * [2025 Roadmap](gatahub/gata-hub-road-map/2025-roadmap.md)
   * [2024 Recap](gatahub/gata-hub-road-map/2024-recap.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
