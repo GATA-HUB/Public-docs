@@ -1,9 +1,3 @@
----
-hidden: true
----
-
 # 2025 Roadmap
-
-
 
 <table><thead><tr><th>Task</th><th>Detail</th><th>ETA</th><th data-type="rating" data-max="5">Stage</th></tr></thead><tbody><tr><td><strong>GATA Unification</strong> <br><em>(Phase One)</em></td><td>Unification of GATA DAO NFTs (<a href="../gata-nft-dao/about-gata-nfts/#colonial-cats-gatac">GATAc</a> and <a href="../gata-nft-dao/about-gata-nfts/#voyager-cats-gatav">GATAv</a>) <br>Trading switch from $STARS to $BTC</td><td>Q1</td><td>5</td></tr><tr><td><strong>New concept NFT series</strong></td><td>A new NFT-fi concept </td><td>Q2</td><td>4</td></tr><tr><td><strong>GATA on EVM</strong></td><td>GATA HUB is going to L2</td><td>Q2</td><td>3</td></tr><tr><td><strong>Multiple NFT Yield Series</strong> </td><td>NFT yield series will be launched on Cosmos and EVM L2</td><td>Q1-Q4</td><td>3</td></tr><tr><td><strong>Community incentivization</strong></td><td>Focused on GATA Community (Delegators and NFT holders)</td><td>Q2 -Q3</td><td>3</td></tr><tr><td><strong>GATA Unification</strong> (<em>Phase 2)</em></td><td>Launch of Consolidated NFT collection and launch of unified on-chain DAO</td><td>Q3-Q4</td><td>1</td></tr></tbody></table>
