@@ -12,7 +12,7 @@
 * Epoch Distributed on 2nd June 2025
 * &#x20;576K Stars Yielded&#x20;
 * &#x20;[461K](https://www.mintscan.io/stargaze/tx/43C1817B8392614F7971B9BE8C5F5BC548426C972333C887550B4E537CD0B194) Stars Distribution to YP holders based on skins&#x20;
-* &#x20;10 YPs **burned** using [61K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
+* &#x20;[10](https://www.mintscan.io/stargaze/tx/BF612657A8C514EB2CC01E3BEEBEC59BC05DA45D55FF6C7B6B737DD00A91A3BE) YPs **burned** using [61K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 18K $Stars each to **,  and**&#x20;
 
 | Source        | STARS Yield                                                                                                        | USD Price (0.00012) |
