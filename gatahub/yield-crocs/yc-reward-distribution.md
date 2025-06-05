@@ -1,10 +1,10 @@
 # YC Reward Distribution
 
 {% hint style="info" %}
-Total reward Distributed : **187.7K yGATA & 19.95 SOL**\
-Total Epoch Distributed:  **5** **Epoch**\
+Total reward Distributed : **219.7K yGATA & 21.92 SOL**\
+Total Epoch Distributed:  **6** **Epoch**\
 \
-&#xNAN;_&#x4C;ast updated: 8 May 2025_
+&#xNAN;_&#x4C;ast updated: 6 June 2025_
 {% endhint %}
 
 ## Epoch 6
@@ -15,6 +15,8 @@ Total Epoch Distributed:  **5** **Epoch**\
 * 3 x Raffle rewards worth 0.07 $SOL & 1100 $yGATA each to holders of **,  and**&#x20;
 
 
+
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 ## Epoch 5
 
