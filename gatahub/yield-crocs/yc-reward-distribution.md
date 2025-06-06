@@ -11,12 +11,12 @@ Total Epoch Distributed:  **6** **Epoch**\
 
 * Epoch Distributed on 2nd June 2025
 * **32K yGATA** & **1.98 SOL** Yielded and distributed
-* 10 YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 0.07 $SOL & 1100 $yGATA each to holders of **,  and**&#x20;
+* [10](https://www.mintscan.io/omniflix/txs/79D60A87AA5F11996524280F4ACA4345D80762E5FC506892FACCE6D4D71FDC5B) YCs **burned**  [(See burn table for more details)](../yield-paws/yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth 0.07 $SOL & 1100 $yGATA each to holders of **,**  [**YC #721**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/721)**,** [**YC #6571**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/6571) **and** [**YC #1897**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/1897)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%206" %}
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption><p>YC Epoch 6</p></figcaption></figure>
 
 ## Epoch 5
 
