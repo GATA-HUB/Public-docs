@@ -21,6 +21,8 @@
 | yGATA         | 570K STARS                                                                                                         | 675 USD             |
 | **Total**     | 576K STARS                                                                                                         | 680 USD             |
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2014" %}
+
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YP Epoch 14</p></figcaption></figure>
 
 ## YP Epoch 13

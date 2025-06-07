@@ -12,6 +12,12 @@ description: Overview of all Yield Gorillas epoch rewards to holders.
 _(Last updated 4 May, 2025)_
 {% endhint %}
 
+## YG Epoch 27
+
+2nd June 2025
+
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2027" %}
+
 ## YG Epoch 26
 
 1st May 2025
