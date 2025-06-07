@@ -1,19 +1,19 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **3.63 M $STARS** / **20254 USD** Yield &#x20;
-* **3.244 M  $STARS** distributed to holders
-* **13 Epoch** distributed \
-  &#xNAN;_( Last updated May 2, 2025)_&#x20;
+* &#x34;**.206 M $STARS** / **20934 USD** Yield &#x20;
+* **3.820 M  $STARS** distributed to holders
+* **14 Epoch** distributed \
+  &#xNAN;_( Last updated June 7, 2025)_&#x20;
 {% endhint %}
 
-## YP Epoch 13
+## YP Epoch 14
 
 * Epoch Distributed on 2nd June 2025
 * &#x20;576K Stars Yielded&#x20;
 * &#x20;[461K](https://www.mintscan.io/stargaze/tx/43C1817B8392614F7971B9BE8C5F5BC548426C972333C887550B4E537CD0B194) Stars Distribution to YP holders based on skins&#x20;
 * &#x20;[10](https://www.mintscan.io/stargaze/tx/BF612657A8C514EB2CC01E3BEEBEC59BC05DA45D55FF6C7B6B737DD00A91A3BE) YPs **burned** using [61K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth 18K $Stars each to **,  and**&#x20;
+* 3 x Raffle rewards worth 18K $Stars each to [**YP #2253**](https://www.stargaze.zone/m/yieldpaws/2253)**, Y**[**P #4441**](https://www.stargaze.zone/m/yieldpaws/4441) **and** [**YP #4980**](https://www.stargaze.zone/m/yieldpaws/4980)
 
 | Source        | STARS Yield                                                                                                        | USD Price (0.00012) |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------- |
@@ -21,7 +21,7 @@
 | yGATA         | 570K STARS                                                                                                         | 675 USD             |
 | **Total**     | 576K STARS                                                                                                         | 680 USD             |
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YP Epoch 14</p></figcaption></figure>
 
 ## YP Epoch 13
 
