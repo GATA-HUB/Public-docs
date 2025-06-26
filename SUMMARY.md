@@ -47,7 +47,7 @@
   * [Revenue Distribution](gatahub/ygata/revenue-distribution.md)
 * [Yield Gorillas](gatahub/yield-gorillas/README.md)
   * [YG Asset Allocation](gatahub/yield-gorillas/yg-asset-allocation.md)
-  * [YG Reward Distributions](gatahub/yield-gorillas/yg-reward-distributions.md)
+  * [YG Reward Distributionsyg epoch summary](gatahub/yield-gorillas/yg-reward-distributionsyg-epoch-summary.md)
   * [YG & Yield Concept](gatahub/yield-gorillas/yg-and-yield-concept.md)
 * [Yield Paws](gatahub/yield-paws/README.md)
   * [YP's Assets](gatahub/yield-paws/yps-assets.md)

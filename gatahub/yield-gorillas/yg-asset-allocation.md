@@ -44,15 +44,15 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 
 This table records the Yield Gorillas income after the implementation of New yield model after community vote.  This is the 4th amended model of the distribution. Check for the older models [here](yg-asset-allocation.md#older-distribution-records). The first distribution under this model is Epoch 21, December 2024.  80% Yield directly to holders and 10% each for raffle and Burn.
 
-| Epoch/Period                                                 | Yield from Staking | Yield from yGATA  | Total               |
-| ------------------------------------------------------------ | ------------------ | ----------------- | ------------------- |
-| [21](yg-reward-distributions.md#yg-epoch-21) / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
-| [22](yg-reward-distributions.md#yg-epoch-22)/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
-| [23](yg-reward-distributions.md#yg-epoch-23)/ January 2025   | 44 ATOM            | 171 ATOM          | 215 ATOM / 1100 USD |
-| [24](yg-reward-distributions.md#yg-epoch-24)/ February 2025  | 40 ATOM            | 186 ATOM          | 226 ATOM / 1100 USD |
-| [25](yg-reward-distributions.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
-| [26](yg-reward-distributions.md#yg-epoch-26)/ April 2025     | 39 ATOM            | 182 ATOM          | 221 ATOM/ 980 USD   |
-| 27/ May 2025                                                 | 41 ATOM            | 161 ATOM          | 202 ATOM/910 USD    |
+| Epoch/Period                                                                 | Yield from Staking | Yield from yGATA  | Total               |
+| ---------------------------------------------------------------------------- | ------------------ | ----------------- | ------------------- |
+| [21](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-21) / November 2024 | 45 ATOM            | 136 ATOM          | 181 ATOM / 1620 USD |
+| [22](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-22)/ December 2024  | 43 ATOM            | 190 ATOM          | 232 ATOM / 1510 USD |
+| [23](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-23)/ January 2025   | 44 ATOM            | 171 ATOM          | 215 ATOM / 1100 USD |
+| [24](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-24)/ February 2025  | 40 ATOM            | 186 ATOM          | 226 ATOM / 1100 USD |
+| [25](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
+| [26](yg-reward-distributionsyg-epoch-summary.md#yg-epoch-26)/ April 2025     | 39 ATOM            | 182 ATOM          | 221 ATOM/ 980 USD   |
+| 27/ May 2025                                                                 | 41 ATOM            | 161 ATOM          | 202 ATOM/910 USD    |
 
 
 
@@ -101,7 +101,7 @@ Last updated June 1, 2025.&#x20;
 Distribution Ratio (70:10:10:5:5)(Holders: Back to assets :  Team : Burn: Raffle) &#x20;
 {% endhint %}
 
-<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> <a href="yg-reward-distributions.md#yg-epoch-15">15</a></td><td>381 ATOM</td><td>336 ATOM</td><td>45 ATOM</td></tr><tr><td>1st June- 30th June 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-16">16</a></td><td>399 ATOM</td><td>358 ATOM</td><td>41 ATOM</td></tr><tr><td>1st July-31st July 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-17">17</a></td><td>427 ATOM</td><td>388 ATOM</td><td>39 ATOM</td></tr><tr><td>1st August-31st August 2024</td><td><a href="yg-reward-distributions.md#undefined">18</a></td><td>441 ATOM</td><td>397 ATOM</td><td>44 ATOM</td></tr><tr><td>1st Sep-30th Sep 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-19">19</a></td><td>422 ATOM</td><td>380 ATOM</td><td>42 ATOM</td></tr><tr><td>1st Oct-31 Oct 2024</td><td><a href="yg-reward-distributions.md#yg-epoch-20">20</a></td><td>412 ATOM</td><td>371 ATOM</td><td>41 ATOM</td></tr></tbody></table>
+<table><thead><tr><th width="164">Period</th><th width="87">Epoch</th><th width="118">Total Yield</th><th width="135">Yield from LP</th><th>Yield from Staking</th></tr></thead><tbody><tr><td>1st May-31st May 2024</td><td> <a href="yg-reward-distributionsyg-epoch-summary.md#yg-epoch-15">15</a></td><td>381 ATOM</td><td>336 ATOM</td><td>45 ATOM</td></tr><tr><td>1st June- 30th June 2024</td><td><a href="yg-reward-distributionsyg-epoch-summary.md#yg-epoch-16">16</a></td><td>399 ATOM</td><td>358 ATOM</td><td>41 ATOM</td></tr><tr><td>1st July-31st July 2024</td><td><a href="yg-reward-distributionsyg-epoch-summary.md#yg-epoch-17">17</a></td><td>427 ATOM</td><td>388 ATOM</td><td>39 ATOM</td></tr><tr><td>1st August-31st August 2024</td><td><a href="yg-reward-distributionsyg-epoch-summary.md#undefined">18</a></td><td>441 ATOM</td><td>397 ATOM</td><td>44 ATOM</td></tr><tr><td>1st Sep-30th Sep 2024</td><td><a href="yg-reward-distributionsyg-epoch-summary.md#yg-epoch-19">19</a></td><td>422 ATOM</td><td>380 ATOM</td><td>42 ATOM</td></tr><tr><td>1st Oct-31 Oct 2024</td><td><a href="yg-reward-distributionsyg-epoch-summary.md#yg-epoch-20">20</a></td><td>412 ATOM</td><td>371 ATOM</td><td>41 ATOM</td></tr></tbody></table>
 
 #### Model 2 (Jan 2204 to April 2024)
 
