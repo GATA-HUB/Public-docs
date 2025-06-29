@@ -26,7 +26,7 @@ layout:
 
 
 {% hint style="info" %}
-Trade Yield Croc now on Omniflix [Market](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/collect-now) &#x20;
+Trade Yield Croc now on [Omniflix Market  ](https://omniflix.market/c/collectNow/onftdenom096ab49e894d401c8996913f3ad0d795)
 {% endhint %}
 
 ## About the collection

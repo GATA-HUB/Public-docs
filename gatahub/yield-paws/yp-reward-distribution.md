@@ -1,7 +1,7 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* &#x34;**.206 M $STARS** / **20934 USD** Yield &#x20;
+* **4.206 M $STARS** / **20934 USD** Yield &#x20;
 * **3.820 M  $STARS** distributed to holders
 * **14 Epoch** distributed \
   &#xNAN;_( Last updated June 7, 2025)_&#x20;
