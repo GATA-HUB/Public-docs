@@ -42,7 +42,7 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 
 ﻿Yield Gorillas are the first collection of non-GATA NFTs and belong to the Yield series. They consist of 10.000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA team.&#x20;
 
-The revenue from the mint got staked on [GATA validators](../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly base in so-called [YG epoch rewards](yg-reward-distributionsyg-epoch-summary.md), based on the rarity of their YGs.
+The revenue from the mint got staked on [GATA validators](../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly base in so-called [YG epoch rewards](yg-reward-distributions.md), based on the rarity of their YGs.
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>For Yield Gorillas, the allocation of revenue depends on the rarities of the NFTs (skin trait).</p></figcaption></figure>
 

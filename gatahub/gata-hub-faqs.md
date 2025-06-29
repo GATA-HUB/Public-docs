@@ -12,7 +12,7 @@ GATA HUB is the overarching term for all activities in and around GATA. These va
 
 * GATA VALIDATORS -> infrastructure services ([validators](gata-validators/), [relayers](public-goods/gata-relays.md) & [testnet](gata-validators/gata-testnet-validators.md) operations)
 * GATA DAO -> DAO activities, core NFT collections ([GATAc](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav)), [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/)
-* GATA YIELD -> Yield series collections ([YGs](yield-gorillas/)), [monthly YG epoch rewards](yield-gorillas/yg-reward-distributionsyg-epoch-summary.md)
+* GATA YIELD -> Yield series collections ([YGs](yield-gorillas/)), [monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md)
 
 </details>
 
@@ -22,7 +22,7 @@ GATA HUB is the overarching term for all activities in and around GATA. These va
 
 * By operating [validators](gata-validators/) & distributing their commissions to members of GATA DAO (part of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/))
 * By sharing the royalties from secondary market trading of [GATA NFT collections](gata-nft-dao/about-gata-nfts/) with members of GATA DAO (part of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/))
-* By distributing rewards to holders of Yield series collections ([monthly YG epoch rewards](yield-gorillas/yg-reward-distributionsyg-epoch-summary.md))&#x20;
+* By distributing rewards to holders of Yield series collections ([monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md))&#x20;
 * By providing staking rewards to delegators via high quality [infrastructure services](gata-validators/)
 * By having multiple community events throughout the year, in which stakeholders can win rewards from GATA & partner projects (Giveaways, WL spots, NFT drops, Quizzes, Zealy sprints, etc.)
 
@@ -56,7 +56,7 @@ This group navigates GATA HUB's ventures by democratic decision making - perform
 
 <summary>What does "GATA YIELD" mean?</summary>
 
-All Yield Series NFT collections fall under the term GATA YIELD, for example [Yield Gorillas (YG)](yield-gorillas/). These NFT collections provide their holders with [monthly YG epoch rewards](yield-gorillas/yg-reward-distributionsyg-epoch-summary.md) which are based on the performance of the mint funds that are partially getting staked to GATA validators and used in various DeFi activities managed by the GATA team.&#x20;
+All Yield Series NFT collections fall under the term GATA YIELD, for example [Yield Gorillas (YG)](yield-gorillas/). These NFT collections provide their holders with [monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md) which are based on the performance of the mint funds that are partially getting staked to GATA validators and used in various DeFi activities managed by the GATA team.&#x20;
 
 You can find more info on the concept of Yield series NFTs in the section [YG & Yield Concept](yield-gorillas/yg-and-yield-concept.md).&#x20;
 
@@ -69,7 +69,7 @@ You can find more info on the concept of Yield series NFTs in the section [YG & 
 Rewards get distributed at the beginning of each month (one month = one epoch) and separately for&#x20;
 
 * GATA DAO in form of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/) and for&#x20;
-* GATA YIELD in form of [monthly YG rewards](yield-gorillas/yg-reward-distributionsyg-epoch-summary.md).
+* GATA YIELD in form of [monthly YG rewards](yield-gorillas/yg-reward-distributions.md).
 
 </details>
 
@@ -110,7 +110,7 @@ Slash protection policy is to protect the GATA delegators in case of slash event
 
 No, only holders of [Colonial Cats (GATAc)](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) and [Voyager Cats (GATAv)](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) are eligible to participate in the activities of GATA DAO and get [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/).&#x20;
 
-However, with your Yield series NFT you're still eligible for receiving [monthly YG epoch rewards](yield-gorillas/yg-reward-distributionsyg-epoch-summary.md).
+However, with your Yield series NFT you're still eligible for receiving [monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md).
 
 </details>
 
