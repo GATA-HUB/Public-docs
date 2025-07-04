@@ -1,25 +1,25 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* **4.206 M $STARS** / **20934 USD** Yield &#x20;
-* **3.820 M  $STARS** distributed to holders
-* **14 Epoch** distributed \
-  &#xNAN;_( Last updated June 7, 2025)_&#x20;
+* **4.624 M $STARS** / **21352 USD** Yield &#x20;
+* **4.238 M  $STARS** distributed to holders
+* **15 Epoch** distributed \
+  &#xNAN;_( Last updated July 4, 2025)_&#x20;
 {% endhint %}
 
 ## YP Epoch 15
 
 * Epoch Distributed on 4th July 2025
-* &#x20;K Stars Yielded&#x20;
-* &#x20;[K](https://www.mintscan.io/stargaze/tx/43C1817B8392614F7971B9BE8C5F5BC548426C972333C887550B4E537CD0B194) Stars Distribution to YP holders based on skins&#x20;
-* &#x20;YPs **burned** using [K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
-* 3 x Raffle rewards worth K $Stars each to&#x20;
+* &#x20;**418K** Stars Yielded&#x20;
+* &#x20;[**334K**](https://www.mintscan.io/stargaze/tx/23115C8B15895A0C352A02D89F9FE558F87D9D0EE807666E6995BBE0BE06B04D) Stars Distribution to YP holders based on skins&#x20;
+* &#x20;[7](https://www.mintscan.io/stargaze/tx/DB762849F59EEA2B83CF253DA1B09583C906F22C1649F47835CF3B29E2BFF94E) YPs **burned** using [41K Stars](https://www.mintscan.io/stargaze/tx/E899C9445F248B366C204A81226EDEA2EF430C429C0EF578B2612289B2A46ECC) [(See burn table for more details)](yps-assets.md#burned-yps)
+* &#x20;3 x Raffle rewards worth 14K $Stars each to&#x20;
 
 | Source        | STARS Yield                                                                                                                                                                                                                | USD Price (0.001) |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | Staked Assets | [6100](https://www.mintscan.io/stargaze/tx/AC5EB7C7C5250E9CFE8BF49CAB99622518ACD7EA89B843D35014D9DFEC5042B1)[ STARS](https://www.mintscan.io/stargaze/tx/AC5EB7C7C5250E9CFE8BF49CAB99622518ACD7EA89B843D35014D9DFEC5042B1) | 6 USD             |
-| yGATA         | K STARS                                                                                                                                                                                                                    |  USD              |
-| **Total**     | K STARS                                                                                                                                                                                                                    |  USD              |
+| yGATA         | [412K STARS](https://www.mintscan.io/osmosis/tx/5A001626957BE2D899DA4B369A27C72CA7425DC6A8A9A94C356173D9163788D0)                                                                                                          | 412 USD           |
+| **Total**     | 418K STARS                                                                                                                                                                                                                 | 418 USD           |
 
 ## YP Epoch 14
 
