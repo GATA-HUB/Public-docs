@@ -7,6 +7,20 @@
   &#xNAN;_( Last updated June 7, 2025)_&#x20;
 {% endhint %}
 
+## YP Epoch 15
+
+* Epoch Distributed on 4th July 2025
+* &#x20;K Stars Yielded&#x20;
+* &#x20;[K](https://www.mintscan.io/stargaze/tx/43C1817B8392614F7971B9BE8C5F5BC548426C972333C887550B4E537CD0B194) Stars Distribution to YP holders based on skins&#x20;
+* &#x20;YPs **burned** using [K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
+* 3 x Raffle rewards worth K $Stars each to&#x20;
+
+| Source        | STARS Yield                                                                                                                                                                                                                | USD Price (0.001) |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Staked Assets | [6100](https://www.mintscan.io/stargaze/tx/AC5EB7C7C5250E9CFE8BF49CAB99622518ACD7EA89B843D35014D9DFEC5042B1)[ STARS](https://www.mintscan.io/stargaze/tx/AC5EB7C7C5250E9CFE8BF49CAB99622518ACD7EA89B843D35014D9DFEC5042B1) | 6 USD             |
+| yGATA         | K STARS                                                                                                                                                                                                                    |  USD              |
+| **Total**     | K STARS                                                                                                                                                                                                                    |  USD              |
+
 ## YP Epoch 14
 
 * Epoch Distributed on 2nd June 2025
@@ -15,11 +29,11 @@
 * &#x20;[10](https://www.mintscan.io/stargaze/tx/BF612657A8C514EB2CC01E3BEEBEC59BC05DA45D55FF6C7B6B737DD00A91A3BE) YPs **burned** using [61K Stars](https://www.mintscan.io/stargaze/tx/0EEFD89AF32120474E8FBB0B18F7E538B622CA3E92F819CA6FBB3B7D7D093F95?height=20799811) [(See burn table for more details)](yps-assets.md#burned-yps)
 * 3 x Raffle rewards worth 18K $Stars each to [**YP #2253**](https://www.stargaze.zone/m/yieldpaws/2253)**, Y**[**P #4441**](https://www.stargaze.zone/m/yieldpaws/4441) **and** [**YP #4980**](https://www.stargaze.zone/m/yieldpaws/4980)
 
-| Source        | STARS Yield                                                                                                        | USD Price (0.00012) |
-| ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| Staked Assets | [5423 STARS](https://www.mintscan.io/stargaze/tx/AD4E2E77F3CB5173CF78EDDBAB9975D1ECB948EC6E8E8BF22C4D3909E2E8EB71) | 6.5 USD             |
-| yGATA         | 570K STARS                                                                                                         | 675 USD             |
-| **Total**     | 576K STARS                                                                                                         | 680 USD             |
+| Source        | STARS Yield                                                                                                        | USD Price (0.0012) |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| Staked Assets | [5423 STARS](https://www.mintscan.io/stargaze/tx/AD4E2E77F3CB5173CF78EDDBAB9975D1ECB948EC6E8E8BF22C4D3909E2E8EB71) | 6.5 USD            |
+| yGATA         | 570K STARS                                                                                                         | 675 USD            |
+| **Total**     | 576K STARS                                                                                                         | 680 USD            |
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2014" %}
 
@@ -35,11 +49,11 @@
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2013" %}
 
-| Source        | STARS Yield                                                                                                        | USD Price (0.00011) |
-| ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| Staked Assets | [4954 STARS](https://www.mintscan.io/stargaze/tx/9956F472F8FF7871EA1A39024C17B24EA2735B8DE4C6B62E42A4DF9DE6FA2F4A) | 5.5 USD             |
-| yGATA         | [705K STARS](https://www.mintscan.io/stargaze/tx/425AB3E4193650E578AD297D0F88F5F10FA452458BD1BAA18BF5DB298E15C597) | 775 USD             |
-| **Total**     | 710K STARS                                                                                                         | 780 USD             |
+| Source        | STARS Yield                                                                                                        | USD Price (0.0011) |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| Staked Assets | [4954 STARS](https://www.mintscan.io/stargaze/tx/9956F472F8FF7871EA1A39024C17B24EA2735B8DE4C6B62E42A4DF9DE6FA2F4A) | 5.5 USD            |
+| yGATA         | [705K STARS](https://www.mintscan.io/stargaze/tx/425AB3E4193650E578AD297D0F88F5F10FA452458BD1BAA18BF5DB298E15C597) | 775 USD            |
+| **Total**     | 710K STARS                                                                                                         | 780 USD            |
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption><p>YP epoch 13</p></figcaption></figure>
 
