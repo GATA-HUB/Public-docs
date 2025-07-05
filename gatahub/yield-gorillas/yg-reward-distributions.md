@@ -18,7 +18,7 @@ _(Last updated 26 June, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2027" %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>YG epoch 27</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG epoch 27</p></figcaption></figure>
 
 ## YG Epoch 26
 

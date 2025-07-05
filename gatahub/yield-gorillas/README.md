@@ -4,20 +4,6 @@ description: >-
   Series.
 cover: ../../.gitbook/assets/yield-gorillas-gitbook-banner.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Yield Gorillas
