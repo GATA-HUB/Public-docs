@@ -21,7 +21,7 @@ Trade floor NFTs in the infinity swap [pool](https://www.stargaze.zone/infinity-
 **Public Mint Price:** 777 $STARS (50 mints/wallet)\
 **WL Mint Price:** 725 $STARS (10 mints/wallet)\
 **Collection Size**: 5000\
-**Royalties:** 1%
+**Royalties:** 1%-> 5% ([Aftre Community vote)](https://discord.com/channels/934972959913820160/1096152222238261328/1391763836574629982)&#x20;
 
 **WL mint:** April 4th 2024, 7 pm UTC\
 **Public mint:** April 5th 2024, 7 pm UTC
