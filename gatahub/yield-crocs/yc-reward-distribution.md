@@ -7,6 +7,15 @@ Total Epoch Distributed:  **6** **Epoch**\
 (_Last updated: 6 June 2025)_
 {% endhint %}
 
+## Epoch 7
+
+* Epoch Distributed on 4th July 2025
+* **35K yGATA** & **1.75 SOL** Yielded and distributed
+* 10 YCs **burned**  ([See burn table for more details](ycs-assets.md#yield-crocs-burn-info))
+* 3 x Raffle rewards worth 0.065 $SOL & 1200 $yGATA each to holders of **,**  [**YC #2201**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/2201)**,** [**YC #3186**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/3186) **and** [**YC #7089**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/7089)
+
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+
 ## Epoch 6
 
 * Epoch Distributed on 2nd June 2025
