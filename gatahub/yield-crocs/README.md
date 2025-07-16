@@ -23,7 +23,7 @@ Trade Yield Croc now on [Omniflix Market  ](https://omniflix.market/c/collectNow
 **Public Mint Price:** 300 yGATA\
 **WL Mint Price:** 270 yGATA\
 **Collection Size**: 10,000\
-**Royalties:** 3% -> 5% (increased after community vote)
+**Royalties:** 3% -> 5% ([increased after community vote](https://github.com/GATA-HUB/snapshots/blob/main/YIeld%20Series%20Discord%20votes/SS/Update%20Roylaty%20to%205%.png))
 
 ## Utility of Yield Crocs
 
