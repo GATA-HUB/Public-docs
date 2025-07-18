@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Yield Paws FAQs
 
 <details>
