@@ -5,12 +5,18 @@ description: Overview of all Yield Gorillas epoch rewards to holders.
 # YG Reward Distributions
 
 {% hint style="info" %}
-* **11,000** Atom total yield
-* **8127+** Atom distributed to holders
-* **27** Epoch distributed
+* **11,178** Atom total yield
+* **8305** Atom distributed to holders
+* **28** Epoch distributed
 
-_(Last updated 26 June, 2025)_
+_(Last updated 19 July, 2025)_
 {% endhint %}
+
+## YG Epoch 28
+
+4th July 2025
+
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 27
 
