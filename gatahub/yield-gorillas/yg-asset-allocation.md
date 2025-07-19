@@ -1,5 +1,5 @@
 ---
-description: Last updated June 1, 2025
+description: Last updated July 18, 2025
 cover: ../../.gitbook/assets/755.jpg
 coverY: 0
 ---
@@ -39,17 +39,17 @@ This table records the Yield Gorillas income after the implementation of New yie
 | [25](yg-reward-distributions.md#yg-epoch-25)/ March 2025     | 43 ATOM            | 184 ATOM          | 227 ATOM/ 1050 USD  |
 | [26](yg-reward-distributions.md#yg-epoch-26)/ April 2025     | 39 ATOM            | 182 ATOM          | 221 ATOM/ 980 USD   |
 | [27](yg-reward-distributions.md#yg-epoch-27)/ May 2025       | 41 ATOM            | 161 ATOM          | 202 ATOM/910 USD    |
-| 28/ June 2025                                                | 41.5 ATOM          | 137 ATOM          | 178 ATOM/800 USD    |
+| [28](yg-reward-distributions.md#yg-epoch-28)/ June 2025      | 41.5 ATOM          | 137 ATOM          | 178 ATOM/800 USD    |
 
 
 
 ## YG supply table
 
 {% hint style="info" %}
-Last updated June 1, 2025.&#x20;
+Last updated July 19, 2025.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>730</td><td>6874</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>777</td><td>9223</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>772</td><td>6860</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>790</td><td>9210</td></tr></tbody></table>
 
 <details>
 

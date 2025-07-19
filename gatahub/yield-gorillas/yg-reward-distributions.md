@@ -16,6 +16,8 @@ _(Last updated 19 July, 2025)_
 
 4th July 2025
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2028" %}
+
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 27
