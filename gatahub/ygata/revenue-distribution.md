@@ -12,7 +12,7 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 **yGATA Buyback: 268.2K**\
 **Epoch distributed: 8**\
 \
-(_Last updated 28 June, 2025)_
+(_Last updated 20 July, 2025)_
 {% endhint %}
 
 ### Epoch 8
