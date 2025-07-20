@@ -1,5 +1,6 @@
 ---
 description: Important and frequently asked questions.
+hidden: true
 ---
 
 # GATA DAO FAQs
