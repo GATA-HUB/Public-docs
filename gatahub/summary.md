@@ -7,7 +7,7 @@ description: >-
 
 # Summary
 
-### Infrastructure / network operations
+## Infrastructure / network operations
 
 * [Validator operations](gata-validators/)
 * [Relay operations ](public-goods/gata-relays.md)
@@ -24,7 +24,7 @@ description: >-
 * [Yield Crocs](yield-crocs/) (monthly [Solana and yGATA rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
 * [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
-### GATA Yield DAO
+## GATA Yield DAO
 
 Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
 
