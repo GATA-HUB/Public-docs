@@ -7,12 +7,12 @@ description: Epoch rewards of GATA Yield DAO
 {% hint style="info" %}
 Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking of Assets
 
-**Total Yield: 37920 USD**\
-**yGATA Distributed: 3111.3K** \
+**Total Yield: 41150 USD**\
+**yGATA Distributed: 3560.3K** \
 **yGATA Buyback: 268.2K**\
-**Epoch distributed: 8**\
+**Epoch distributed: 9**\
 \
-(_Last updated 20 July, 2025)_
+(_Last updated 1 August, 2025)_
 {% endhint %}
 
 ### Epoch 9
