@@ -49,7 +49,7 @@ Total Epoch Distributed:  7 **Epoch**\
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%204" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>YC Epoch 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>YC Epoch 4</p></figcaption></figure>
 
 ## Epoch 3
 

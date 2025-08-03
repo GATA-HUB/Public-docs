@@ -16,6 +16,8 @@ _(Last updated 2 August, 2025)_
 
 2nd August 2025
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 28
 
 4th July 2025
@@ -30,7 +32,7 @@ _(Last updated 2 August, 2025)_
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2027" %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>YG epoch 27</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YG epoch 27</p></figcaption></figure>
 
 ## YG Epoch 26
 

@@ -23,7 +23,7 @@
 | yGATA         | [412K STARS](https://www.mintscan.io/osmosis/tx/5A001626957BE2D899DA4B369A27C72CA7425DC6A8A9A94C356173D9163788D0)                                                                                                          | 412 USD           |
 | **Total**     | 418K STARS                                                                                                                                                                                                                 | 418 USD           |
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## YP Epoch 14
 
