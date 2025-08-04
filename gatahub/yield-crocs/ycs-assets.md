@@ -20,8 +20,8 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 ## Yield Crocs Burn info&#x20;
 
 {% hint style="info" %}
-Last updated 16 July 2025.
+Last updated  4 August 2025.
 {% endhint %}
 
-<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Fire</td><td>250</td><td>223</td><td>0</td><td>223</td></tr><tr><td>Water</td><td>650</td><td>575</td><td>0</td><td>575</td></tr><tr><td>Gold</td><td>1300</td><td>1148</td><td>0</td><td>1148</td></tr><tr><td>Silver</td><td>2600</td><td>2301</td><td>13</td><td>2288</td></tr><tr><td>Earth</td><td>5200</td><td>4642</td><td>120</td><td>4522</td></tr><tr><td><strong>Total</strong></td><td>10000</td><td>8890</td><td>133</td><td>8757</td></tr></tbody></table>
+<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Fire</td><td>250</td><td>223</td><td>0</td><td>223</td></tr><tr><td>Water</td><td>650</td><td>575</td><td>0</td><td>575</td></tr><tr><td>Gold</td><td>1300</td><td>1148</td><td>0</td><td>1148</td></tr><tr><td>Silver</td><td>2600</td><td>2301</td><td>13</td><td>2288</td></tr><tr><td>Earth</td><td>5200</td><td>4642</td><td>131</td><td>4511</td></tr><tr><td><strong>Total</strong></td><td>10000</td><td>8890</td><td>144</td><td>8746</td></tr></tbody></table>
 
