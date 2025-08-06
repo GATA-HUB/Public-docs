@@ -12,7 +12,7 @@ Total Epoch Distributed:  8 **Epoch**\
 * Epoch Distributed on 2nd August 2025
 * **36K yGATA** & **1.3 SOL** Yielded and distributed
 * [11](https://explorer.chainroot.io/omniflix/transactions/38DDDE197607EE6FD51F2DD8305D52E0ACFD4D8B120D9464E16BE08E1650104D) YCs **burned**  ([See burn table for more details](ycs-assets.md#yield-crocs-burn-info))
-* 3 x Raffle rewards worth 0.04 $SOL & 1200 $yGATA each to holders of&#x20;
+* 3 x Raffle rewards worth 0.04 $SOL & 1200 $yGATA each to holders of [**YC #1590**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/1590)**,** [**YC #6142**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/6142) **and** [**YC #8956**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/8956)
 
 {% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%208" %}
 
