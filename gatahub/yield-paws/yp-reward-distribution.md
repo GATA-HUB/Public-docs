@@ -7,6 +7,24 @@
   &#xNAN;_( Last updated July 4, 2025)_&#x20;
 {% endhint %}
 
+## YP Epoch 16
+
+* Epoch Distributed on 2nd August 2025
+* &#x20;**410K** Stars Yielded&#x20;
+* &#x20;[**330K**](https://www.mintscan.io/stargaze/tx/FC7D78E0BF9365DCBE73F94202E57A2237FFC879656BC97B5D6C5B8588D30B1F) Stars Distribution to YP holders based on skins&#x20;
+* &#x20;8 YPs **burned** using 41K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* &#x20;3 x Raffle rewards worth 14K $Stars each to the holders of&#x20;
+
+{% embed url="https://github.com/ABCharlieEth/snapshots/blob/main/Yield%20Paws/YP%20Epoch%2015" %}
+
+| Source        | STARS Yield                                                                                                        | USD Price (0.0011) |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| Staked Assets | [6100 STARS](https://www.mintscan.io/stargaze/tx/B37F31A0C1B2DD1F37A069815190B9461315B9D9320D8AACA48707D72C39BAF1) | 6 USD              |
+| yGATA         | 404K STARS                                                                                                         | 410 USD            |
+| **Total**     | 410K STARS                                                                                                         | 416 USD            |
+
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
 ## YP Epoch 15
 
 * Epoch Distributed on 4th July 2025
