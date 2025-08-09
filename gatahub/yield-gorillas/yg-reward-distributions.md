@@ -16,6 +16,8 @@ _(Last updated 2 August, 2025)_
 
 2nd August 2025
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/YG/YG%20Epoch%2029" %}
+
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 28
