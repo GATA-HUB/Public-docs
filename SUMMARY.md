@@ -57,7 +57,7 @@
   * [YC's Assets](gatahub/yield-crocs/ycs-assets.md)
   * [YC Reward Distribution](gatahub/yield-crocs/yc-reward-distribution.md)
 * [PengOnes](gatahub/pengones/README.md)
-  * [YC's Assets](gatahub/pengones/ycs-assets.md)
+  * [PengOne's Assets](gatahub/pengones/pengones-assets.md)
   * [YC Reward Distribution](gatahub/pengones/yc-reward-distribution.md)
 * [NFT Souvenirs](gatahub/nft-souvenirs.md)
 * [Apes in Games — Rise of Apelandia](gatahub/apes-in-games-rise-of-apelandia/README.md)
