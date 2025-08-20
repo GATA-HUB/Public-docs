@@ -63,22 +63,30 @@ The **individual yield share per NFT** gets determined by the **Skin colors** of
 
 ## Yield Bonus
 
-**1. Eligibility overview**
+#### 1. Eligibility Overview
 
-1. **Categories**: PengOnes are classified into **Base**, **Pro**, **Apex** and **1/1s**. Base yields differ across classifications; the bonus rules apply equally to all.
-2. **Epoch duration**: Bonus rewards are granted per epoch. Each bonus award lasts **six epochs**. After 6 months we will revisit the whole plan and adjsut/end/replenish accrodingly.&#x20;
+* **Categories**: PengOnes are classified into **Base**, **Pro**, **Apex**, and **1/1s**. Base yields differ across classifications; bonus rules apply equally to all.
+* **Epoch duration**: Bonus rewards are granted per epoch and last **six epochs** (\~6 months). After this period, the plan will be revisited to adjust, end, or replenish as needed.
 
-**2. Bonus reward criteria**
+***
 
-To earn a yield bonus, holders must meet one or more of the following criteria. Bonuses do not stack; meeting all three criteria grants a single 20 % bonus instead of 5 % + 5 % + 5 %.
+#### 2. Bonus Reward Criteria
 
-<table><thead><tr><th>Bonus type</th><th width="518.5999755859375">Requirements</th><th>Bonus</th></tr></thead><tbody><tr><td><strong>Yield‑series holding bonus</strong></td><td>Hold  in at least one yield‑NFT series (Yield Crocs, Yield Paws or Yield Gorillas). Each yield NFT can be paired with only one PengOne. For example, 10 Yield Crocs qualify at most 10 PengOnes.</td><td><strong>5 %</strong></td></tr><tr><td><strong>GATA DAO NFT bonus</strong></td><td>Hold and stake at least <strong>one GATA DAO NFT</strong> (e.g., Colonial Cats or Voyager Cats). Each staked DAO NFT qualifies 10 PengOne for the bonus.</td><td><strong>5 %</strong></td></tr><tr><td><strong>GATA delegator bonus</strong></td><td>Delegate at least <strong>$100 worth of GATA tokens</strong> on any supported network. Each multiple of $100 qualifies 5 PengOne for the bonus (e.g., $300 delegated qualifies fifteen PengOnes).</td><td><strong>5 %</strong></td></tr><tr><td><strong>“All of the above” bonus</strong></td><td>Simultaneously meet the yield‑series, GATA DAO NFT and GATA delegator criteria for the same PengOne. All staking/holding restrictions apply.</td><td><strong>20 %</strong></td></tr></tbody></table>
+To earn a yield bonus, holders must meet one or more of the following criteria:
 
-**3. General conditions**
+* **Yield Series Holder** – Own at least 1 Yield NFT (Crocs, Paws, Gorillas). Each NFT can only qualify **1 PengOne**.
+* **GATA DAO NFT Holder** – Own and stake at least 1 GATA DAO NFT (Colonial Cats or Voyager Cats). Each NFT can only qualify **10 PengOne**.
+* **GATA Delegator** – Delegate at least **$100 worth of GATA** on any supported network. Each $100 qualifies 5 **PengOne**.
 
-* **Lock‑in period**: To qualify, assets (yield NFTs, GATA DAO NFTs and delegated tokens) must be committed before the snapshot, Marketplace listed NFTs does not qualify.&#x20;
-* **One‑to‑one matching**: Each qualifying asset (yield NFT, DAO NFT or $100 stake) can only be applied to said number of  PengOne during a bonus period.&#x20;
-* **Bonus cap**: No PengOne can receive more than a 20 % bonus per epoch from these incentives.
+**Bonuses do not stack**. Meeting all three criteria grants a single **20% bonus** instead of 5% + 5% + 5%.
+
+***
+
+#### 3. General Conditions
+
+* **Lock-in period**: Assets (Yield NFTs, DAO NFTs, delegated tokens) must be **committed before the epoch snapshot** . Marketplace-listed NFTs do not qualify.
+* **One-to-one matching**: Each qualifying asset (NFT or $100 stake) can only be applied to the stated number of PengOnes during the bonus period.
+* **Bonus cap**: No PengOne can receive more than a **20% bonus per epoch**.
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 9.38.31 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
