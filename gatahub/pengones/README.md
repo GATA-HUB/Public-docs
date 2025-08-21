@@ -27,7 +27,7 @@ layout:
 # PengOnes
 
 {% hint style="info" %}
-Trade PengOnes now on Stargaze Market &#x20;
+Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8ev4x36qzum6gz2yw4vds5vkw8evtuvfvrghq0gjulrf9ncs9mutd6/tokens)&#x20;
 {% endhint %}
 
 ## About the collection
