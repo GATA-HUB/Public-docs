@@ -2,7 +2,6 @@
 description: >-
   PengOnes are community-powered, yield-infused penguins born in the icy
   intersection of GATA’s history, AtomOne’s future, and Stargaze’s creativity.
-hidden: true
 cover: ../../.gitbook/assets/Banner-2.png
 coverY: 0
 layout:
@@ -45,13 +44,15 @@ Symbol: POs&#x20;
 
 Each month, PengOnes collection by GATA HUB will provide you with&#x20;
 
-• **Epoch Rewards** (70% of yield revenue gets distributed to PengOnes holders )
+• **Epoch Rewards** (70% of yield revenue gets distributed to PengOnes holders in ATONE )
 
 • **Buy & Burn program** (10% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
 
 • **Yield Raffle** (10% of yield gets raffled with 3 random POs winning; each POs = 1 ticket)
 
 • **Collection offers** (10% of yield for Collection offers always at avergae mint price)
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-21 at 2.31.52 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 

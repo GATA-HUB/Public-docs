@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # PengOnes Reward Distribution
 
 {% hint style="info" %}
