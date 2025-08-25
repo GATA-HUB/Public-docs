@@ -683,3 +683,11 @@ GATA Epoch 31
 * Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 127 $ATOM
 * Distribution Date: July 4th 2025
+
+## GATA DAO EPOCH 36
+
+* Epoch duration: from July 1st 2025 to July 31st 2025
+* Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
+* Total $ATOM distributed: 127 $ATOM
+* Distribution Date: August 2nd 2025
+
