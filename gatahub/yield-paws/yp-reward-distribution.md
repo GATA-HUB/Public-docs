@@ -1,11 +1,27 @@
 # YP Reward Distribution
 
 {% hint style="info" %}
-* &#x35;**.034 M $STARS** / **21352 USD** Yield &#x20;
-* **4.848 M  $STARS** distributed to holders
-* **16 Epoch** distributed \
-  &#xNAN;_( Last updated August 8, 2025)_&#x20;
+* &#x35;**.414 M $STARS** / **21752 USD** Yield &#x20;
+* **5.228 M  $STARS** distributed to holders
+* **17 Epoch** distributed \
+  &#xNAN;_( Last updated September 1, 2025)_&#x20;
 {% endhint %}
+
+## YP Epoch 16
+
+* Epoch Distributed on 2nd September 2025
+* &#x20;380**K** Stars Yielded&#x20;
+* &#x20;[**304K**](https://www.mintscan.io/stargaze/tx/12EE803EF6445D42297F4511FC300611398757B9D50B8C9151E78137D23F24C4) Stars Distribution to YP holders based on skins&#x20;
+* &#x20;[8 YPs](https://www.mintscan.io/stargaze/tx/B6B77BD7EDD7F7EC62F91E5A0DF94F1E0C709C7EDC4A3BC3756A2E877E66FC83) **burned** using 41K Stars [(See burn table for more details)](yps-assets.md#burned-yps)
+* &#x20;3 x Raffle rewards worth 13 K $Stars each to the holders of&#x20;
+
+| Source        | STARS Yield | USD Price (0.001) |
+| ------------- | ----------- | ----------------- |
+| Staked Assets | 6100 STARS  | 6 USD             |
+| yGATA         | 374K STARS  | 374 USD           |
+| **Total**     | 380K STARS  | 380 USD           |
+
+
 
 ## YP Epoch 16
 
