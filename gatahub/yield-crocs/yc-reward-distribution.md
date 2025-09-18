@@ -14,6 +14,8 @@ Total Epoch Distributed:  9 **Epoch**\
 * [12](https://explorer.chainroot.io/omniflix/transactions/480C1072C519B391096B0FE3AD6DF54931C27A726EFA0E342A67B106DE9C995D) YCs **burned**  ([See burn table for more details](ycs-assets.md#yield-crocs-burn-info))
 * 3 x Raffle rewards worth 0.033 $SOL & 1200 $yGATA each to holders of [**YC #971**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/971)**,** [**YC #4555**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/4555) **and** [**YC #6231**](https://omniflix.market/c/onftdenom096ab49e894d401c8996913f3ad0d795/6231)
 
+{% embed url="https://github.com/GATA-HUB/snapshots/blob/main/Yield%20Crocs/rewards%20distribution/YC%20Epoch%209" %}
+
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 ## Epoch 8
