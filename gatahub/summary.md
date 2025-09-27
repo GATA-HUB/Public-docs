@@ -12,21 +12,21 @@ description: >-
 * [Validator operations](gata-validators/)
 * [Relay operations ](public-goods/gata-relays.md)
 * [Public Goods](public-goods/)
-* [Staking & Delegations ](gata-nfts/gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
+* [Staking & Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
 
 ## Real Yield; DeFi and NFT-fi
 
 ### NFT collections
 
-* [GATA NFTs](gata-nfts/gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-nfts/gata-nft-dao/dao-revenue-distribution/)& DAO membership) &#x20;
-* [Yield Gorillas](gata-nfts/yield-gorillas/) (monthly [**ATOM rewards**](gata-nfts/yield-gorillas/yg-reward-distributions.md), deflationary supply, raffle)
-* [Yield Paws](gata-nfts/yield-paws/) (monthly [**STARS rewards**](gata-nfts/yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
-* [Yield Crocs](gata-nfts/yield-crocs/) (monthly [Solana and yGATA rewards](gata-nfts/yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
-* [Souvenir NFT collections](gata-nfts/nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
+* [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-nft-dao/dao-revenue-distribution/)& DAO membership) &#x20;
+* [Yield Gorillas](yield-gorillas/) (monthly [**ATOM rewards**](yield-gorillas/yg-reward-distributions.md), deflationary supply, raffle)
+* [Yield Paws](yield-paws/) (monthly [**STARS rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
+* [Yield Crocs](yield-crocs/) (monthly [Solana and yGATA rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
+* [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ## GATA Yield DAO
 
-Community managed Yield Fund, managed by [DAO. ](gata-yield-dao/about.md)
+Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
 
 ### Apps/Games&#x20;
 

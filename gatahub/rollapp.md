@@ -1,5 +1,6 @@
 ---
 description: GATA HUB's RollApp
+hidden: true
 ---
 
 # RollApp
