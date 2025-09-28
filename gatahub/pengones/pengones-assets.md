@@ -10,13 +10,13 @@ coverY: 0
 
 Details of the PengOnes mint proceeds, allocation and base price to calculate the APRs.
 
-<table><thead><tr><th width="181">Category</th><th>Details </th></tr></thead><tbody><tr><td>NFT Quantity</td><td>3333 <strong>YPOs</strong></td></tr><tr><td>Minted</td><td> <strong>--- YPOs</strong></td></tr><tr><td>Airdrop</td><td>33 <strong>YPOs</strong> (1/1s for partner projects and community)</td></tr><tr><td>Mint Collection </td><td><strong>k $ATONE</strong> </td></tr><tr><td>Average USD Price /YPOs</td><td>-- <strong>USD</strong></td></tr><tr><td>Team Share</td><td><strong>15%</strong> </td></tr></tbody></table>
+<table><thead><tr><th width="181">Category</th><th>Details </th></tr></thead><tbody><tr><td>NFT Quantity</td><td>3333 <strong>YPOs</strong></td></tr><tr><td>Minted/Circulating</td><td><strong>3333 YPOs/ 2761  (572 Burnt)</strong></td></tr><tr><td>Airdrop</td><td>550 <strong>YPOs</strong> (10% for Infinity pool and 10% Team share)</td></tr><tr><td>Mint Collection </td><td>75K <strong>$ATONE</strong> (Excluding 10% SG fee, 7.5% marketing spend) </td></tr><tr><td>Average ATONE Price /YPOs</td><td> <strong>36.07 ATONE Gross</strong> <br> <strong>27.2 ATONE Net</strong></td></tr><tr><td>Team Share</td><td><strong>10%</strong> (all paid in Airdropped PengOnes)</td></tr></tbody></table>
 
 ## PengOnes Assets
 
-| Asset | Amount | Details |
-| ----- | ------ | ------- |
-| ATONE |        |         |
+| Asset | Amount     | Details                    |
+| ----- | ---------- | -------------------------- |
+| yGATA | 5 miillion | Staked with GATA Yield DAO |
 
 ## PengOnes Burn info&#x20;
 
