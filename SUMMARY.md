@@ -60,6 +60,7 @@
   * [PengOnes](gatahub/pengones/README.md)
     * [PengOne's Assets](gatahub/pengones/pengones-assets.md)
     * [PengOnes Reward Distribution](gatahub/pengones/pengones-reward-distribution.md)
+  * [Yield Walkers](gatahub/gata-nfts/yield-walkers.md)
   * [NFT Souvenirs](gatahub/nft-souvenirs.md)
 * [Apes in Games — Rise of Apelandia](gatahub/apes-in-games-rise-of-apelandia/README.md)
   * [AiG Lore](gatahub/apes-in-games-rise-of-apelandia/aig-lore.md)
