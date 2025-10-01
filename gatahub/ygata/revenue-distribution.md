@@ -7,10 +7,10 @@ description: Epoch rewards of GATA Yield DAO
 {% hint style="info" %}
 Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking of Assets
 
-**Total Yield: 41150 USD**\
-**yGATA Distributed: 3560.3K** \
-**yGATA Buyback: 268.2K**\
-**Epoch distributed: 9**\
+**Total Yield: 53150 USD**\
+**yGATA Distributed: 4417.3K** \
+**yGATA Buyback: 340.2K**\
+**Epoch distributed: 11**\
 \
 (_Last updated 1 August, 2025)_
 {% endhint %}
@@ -19,7 +19,7 @@ Visit [https://gatahub.zone/ygata](https://gatahub.zone/ygata) for live tracking
 
 Distributed on 29th September 2025, after the successful execution of GATA Yield DAO [prop 33.](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A33)&#x20;
 
-<table><thead><tr><th width="222">Epoch</th><th>Epoch 1</th><th>Details</th></tr></thead><tbody><tr><td><strong>Period</strong></td><td>31st August 2025 - 29th September 2025</td><td><strong>29 Productive days</strong></td></tr><tr><td><strong>LP revenue</strong></td><td>1770 USD</td><td>75% DAO assets in LP </td></tr><tr><td><strong>Staked assets revenue</strong></td><td>200 USD</td><td>25% DAO Staked asset</td></tr><tr><td><strong>Other Revenue</strong></td><td>0 USD</td><td>--</td></tr><tr><td><strong>Total Revenue</strong></td><td>1970 USD</td><td>Calculated on the base prices of 29th september 2025</td></tr><tr><td><strong>15% yGATA Liquidity share</strong> </td><td> 295 USD</td><td>At least 295 USD worth of liquidity added in the yGATA pool</td></tr><tr><td><strong>15% yGATA buyback</strong></td><td>  290 USD / yGATA</td><td>yGATA sent back to DAO treasury</td></tr><tr><td><strong>yGATA epoch reward</strong></td><td>400000 yGATA</td><td>11th yGATA epoch rewards for DAO members</td></tr><tr><td><strong>yGATA Inflation</strong></td><td>2.59%</td><td>(400K-0K)=  400K </td></tr><tr><td><strong>Earning APR</strong></td><td>28%</td><td>Realized earning in the epoch</td></tr></tbody></table>
+<table><thead><tr><th width="222">Epoch</th><th>Epoch 1</th><th>Details</th></tr></thead><tbody><tr><td><strong>Period</strong></td><td>31st August 2025 - 29th September 2025</td><td><strong>29 Productive days</strong></td></tr><tr><td><strong>LP revenue</strong></td><td>1770 USD</td><td>75% DAO assets in LP </td></tr><tr><td><strong>Staked assets revenue</strong></td><td>200 USD</td><td>25% DAO Staked asset</td></tr><tr><td><strong>Other Revenue</strong></td><td>0 USD</td><td>--</td></tr><tr><td><strong>Total Revenue</strong></td><td>1970 USD</td><td>Calculated on the base prices of 29th september 2025</td></tr><tr><td><strong>15% yGATA Liquidity share</strong> </td><td> 295 USD</td><td>At least 295 USD worth of liquidity added in the yGATA pool</td></tr><tr><td><strong>15% yGATA buyback</strong></td><td>  290 USD / 22000 yGATA</td><td>yGATA sent back to DAO treasury</td></tr><tr><td><strong>yGATA epoch reward</strong></td><td>400000 yGATA</td><td>11th yGATA epoch rewards for DAO members</td></tr><tr><td><strong>yGATA Inflation</strong></td><td>2.59%</td><td>(400K-0K)=  400K </td></tr><tr><td><strong>Earning APR</strong></td><td>28%</td><td>Realized earning in the epoch</td></tr></tbody></table>
 
 ### Epoch 10
 
