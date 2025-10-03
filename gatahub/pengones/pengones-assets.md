@@ -24,5 +24,5 @@ Details of the PengOnes mint proceeds, allocation and base price to calculate th
 Last updated  18 August 2025.
 {% endhint %}
 
-<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Base</td><td>2000</td><td>2000</td><td>0</td><td>2000</td></tr><tr><td>Pro</td><td>1000</td><td>1000</td><td>0</td><td>1000</td></tr><tr><td>Apex</td><td>330</td><td>330</td><td>0</td><td>330</td></tr><tr><td>1/1s</td><td>3</td><td>3</td><td>0</td><td>3</td></tr><tr><td><strong>Total</strong></td><td>3333</td><td>3333</td><td>0</td><td>3333</td></tr></tbody></table>
+<table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Base</td><td>2000</td><td>2000</td><td>0</td><td>2000</td></tr><tr><td>Pro</td><td>1000</td><td>1000</td><td>0</td><td>1000</td></tr><tr><td>Apex</td><td>330</td><td>330</td><td>0</td><td>330</td></tr><tr><td>1/1s</td><td>3</td><td>3</td><td>0</td><td>3</td></tr><tr><td><strong>Total</strong></td><td>3333</td><td>3333</td><td>786</td><td>2547</td></tr></tbody></table>
 
