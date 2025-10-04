@@ -10,9 +10,7 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 
 | Asset/Chain      | Quantity        |  Wallet                                                                                                               |
 | ---------------- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| STARS/ Stargaze  | 315K stargaze   | [stars...c37y](https://www.mintscan.io/stargaze/address/stars1e2vmgzdlm4yc2hls6nvclqpxcmhkmw2uzlc37y)                 |
-| OSMO/Osmosis     | 388 OSMO        | [osmo...cuur8](https://www.mintscan.io/osmosis/address/osmo1e2vmgzdlm4yc2hls6nvclqpxcmhkmw2u7cuur8)                   |
-| yGATA/GATA Yield | 1,970,000 yGATA | [omnifl....74zt](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/members) |
+| yGATA/GATA Yield | 2,100,000 yGATA | [omnifl....74zt](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/members) |
 
 ## Burned YPs
 
