@@ -2,6 +2,7 @@
 description: >-
   This section contains a transparent record of all GATA DAO governance
   proposals.
+hidden: true
 ---
 
 # GATA Constitution

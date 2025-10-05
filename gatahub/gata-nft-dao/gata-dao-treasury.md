@@ -4,6 +4,12 @@ description: Total assets/tokens present in the DAO treasury.
 
 # GATA DAO Treasury
 
+{% hint style="info" %}
+30% (publis distribution) GATA DAO acquired by GATA Yield DAO with all the assets and operations. aftre the DAO vote pass [https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A31](https://daodao.zone/dao/omniflix19z3h463xmkz66vdq8tcpk986kvecjyqxy4ywtdzu4qqe2vjyz69sy0u32r/proposals/A31)\
+\
+(4th Oct, 2025)
+{% endhint %}
+
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
