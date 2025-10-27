@@ -1,10 +1,10 @@
 ---
 description: The summary of GATA Yield bearing NFTs
+cover: ../../.gitbook/assets/github-Banner2.png
+coverY: 0
 ---
 
 # GATA NFTs
-
-
 
 | Collection    | Epoch \| Snapshot | Staked yGATA  | 6 Months APR % |
 | ------------- | ----------------- | ------------- | -------------- |
@@ -14,4 +14,4 @@ description: The summary of GATA Yield bearing NFTs
 | Yield Paws    | 18                | 1.82 million  | 120%           |
 | Yield Crocs   | 8                 | 1.96 million  |                |
 | PengOnes      | -                 | 5.02 million  |                |
-| Yield Walkers | 1                 | 2.78 million  |                |
+| Yield Walkers | 1                 | 2.78 million  | 22%            |
