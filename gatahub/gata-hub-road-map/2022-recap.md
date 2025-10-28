@@ -23,9 +23,9 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
 2\)    DAO vote to select the chains where GATA DAO will operate as a validator
 
-* Started **Sifchain validtaor** in April 2022 ([Gov prop 1](../gata-nft-dao/gata-constitution/gov.-proposal-1.md))
-* Started **Evmos & Nomic BTC** validator in May 2022 ([Gove prop 2](../gata-nft-dao/gata-constitution/gov.-proposal-2.md))
-* Started **Juno** validator in June 2022 ([Gov prop 5](../gata-nft-dao/gata-constitution/gov.-proposal-5.md))
+* Started **Sifchain validtaor** in April 2022 ([Gov prop 1](../gata-nfts/genesis-collection-1/gata-constitution/gov.-proposal-1.md))
+* Started **Evmos & Nomic BTC** validator in May 2022 ([Gove prop 2](../gata-nfts/genesis-collection-1/gata-constitution/gov.-proposal-2.md))
+* Started **Juno** validator in June 2022 ([Gov prop 5](../gata-nfts/genesis-collection-1/gata-constitution/gov.-proposal-5.md))
 
 3\)   DAO Decision hierarchy ( Team > Senate (OGs) > DAO)&#x20;
 
@@ -34,13 +34,13 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 4\)    DAO’s website, DAO’s  on-chain voting (Magic transactions using memo) , and Reward distribution module.&#x20;
 
 * On chain Voting process using the memo and on chain transactions.&#x20;
-* Reward distribution started in August 2022 ( [details here](../gata-nft-dao/dao-revenue-distribution/))
+* Reward distribution started in August 2022 ( [details here](../gata-nfts/genesis-collection/dao-revenue-distribution/))
 
 ### Expansion  (Q3-4 2022)
 
 1\)    Launch of next NFT collections on different platforms across Cosmos to onboard new users and bring more liquidity to expand the operations.
 
-* Launch of GATA-v [888 Voyager Cats](../gata-nft-dao/about-gata-nfts/origin-of-voyagers.md) as a DAO second collection of GATA Series&#x20;
+* Launch of GATA-v [888 Voyager Cats](../gata-nfts/genesis-collection/origin-of-voyagers.md) as a DAO second collection of GATA Series&#x20;
 * Launch of First Yield series, [Yield Gorillas](../yield-gorillas/). Not only another successful series but also on a different chain in Cosmos.  &#x20;
 
 2\)    Participation in incentivized Test-nets of new sovereign blockchains.
@@ -52,4 +52,4 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
 4\)    Exploring new streams of revenue.
 
-* Started **Cosmos** validator in August 2022 ([Gov prop 7](../gata-nft-dao/gata-constitution/gov.-proposal-7.md))
+* Started **Cosmos** validator in August 2022 ([Gov prop 7](../gata-nfts/genesis-collection-1/gata-constitution/gov.-proposal-7.md))

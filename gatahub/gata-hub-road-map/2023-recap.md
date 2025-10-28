@@ -8,7 +8,7 @@ coverY: -70
 
 ## Q1 2023
 
-* [Felis Update](../gata-nft-dao/gata-constitution/gov.-proposal-6.md) ; a comprehensive update to improve the [GATA revenue model](../gata-nft-dao/dao-revenue-distribution/dao-revenue-share-model.md) through a governance proposal.&#x20;
+* [Felis Update](../gata-nfts/genesis-collection-1/gata-constitution/gov.-proposal-6.md) ; a comprehensive update to improve the [GATA revenue model](../gata-nfts/genesis-collection/dao-revenue-distribution/dao-revenue-share-model.md) through a governance proposal.&#x20;
 
 ### Q2 2023
 

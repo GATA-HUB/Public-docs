@@ -26,7 +26,7 @@ _Mint price: 1 $FLIX_\
 [_GATA x Omniflix 4/20 Launch Souvenirs on Omniflix Marketplace_](https://omniflix.market/collection/onftdenoma6a057db64674de0b129e9b5c087d404)
 
 **Mint-out Rewards**\
-**•** 5x [Voyager Cat (GATAv) ](gata-nft-dao/)\
+**•** 5x [Voyager Cat (GATAv) ](gata-nfts/genesis-collection-1/)\
 • 1x [Yield Gorilla (Bull/Legend)](yield-gorillas/)\
 • 8x [Yield Gorilla (Neat/Elemental)](yield-gorillas/)\
 \
@@ -152,8 +152,8 @@ To celebrate the common journey of Stargaze & GATA, this side collection got lau
 
 **Rewards for Mint Quests**
 
-* "The Legend" (1st to collect each GH): [GATAv](gata-nft-dao/) + 500 $STARS + 1.500 Zealy XP
-* "Circle of 7" (First 7 that collect each GH): [GATAv](gata-nft-dao/) + 2500 $STARS + 2.500 Zealy XP
+* "The Legend" (1st to collect each GH): [GATAv](gata-nfts/genesis-collection-1/) + 500 $STARS + 1.500 Zealy XP
+* "Circle of 7" (First 7 that collect each GH): [GATAv](gata-nfts/genesis-collection-1/) + 2500 $STARS + 2.500 Zealy XP
 * Collect all GATA validators banners: 800 $STARS + 750 Zealy XP
 * Collect all GATAc banners: 500 $STARS + 500 Zealy XP
 * Collect all GATAv banners: 500 $STARS + 500 Zealy XP

@@ -11,7 +11,7 @@ description: Frequently asked questions about GATA HUB
 GATA HUB is the overarching term for all activities in and around GATA. These various ventures of GATA are consisting of the following parts:
 
 * GATA VALIDATORS -> infrastructure services ([validators](gata-validators/), [relayers](public-goods/gata-relays.md) & [testnet](gata-validators/gata-testnet-validators.md) operations)
-* GATA DAO -> DAO activities, core NFT collections ([GATAc](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) & [GATAv](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav)), [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/)
+* GATA DAO -> DAO activities, core NFT collections ([GATAc](gata-nfts/genesis-collection/#colonial-cats-gatac) & [GATAv](gata-nfts/genesis-collection/#voyager-cats-gatav)), [monthly GATA epoch rewards](gata-nfts/genesis-collection/dao-revenue-distribution/)
 * GATA YIELD -> Yield series collections ([YGs](yield-gorillas/)), [monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md)
 
 </details>
@@ -20,8 +20,8 @@ GATA HUB is the overarching term for all activities in and around GATA. These va
 
 <summary>How does GATA HUB provide value for its community?</summary>
 
-* By operating [validators](gata-validators/) & distributing their commissions to members of GATA DAO (part of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/))
-* By sharing the royalties from secondary market trading of [GATA NFT collections](gata-nft-dao/about-gata-nfts/) with members of GATA DAO (part of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/))
+* By operating [validators](gata-validators/) & distributing their commissions to members of GATA DAO (part of [monthly GATA epoch rewards](gata-nfts/genesis-collection/dao-revenue-distribution/))
+* By sharing the royalties from secondary market trading of [GATA NFT collections](gata-nfts/genesis-collection/) with members of GATA DAO (part of [monthly GATA epoch rewards](gata-nfts/genesis-collection/dao-revenue-distribution/))
 * By distributing rewards to holders of Yield series collections ([monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md))&#x20;
 * By providing staking rewards to delegators via high quality [infrastructure services](gata-validators/)
 * By having multiple community events throughout the year, in which stakeholders can win rewards from GATA & partner projects (Giveaways, WL spots, NFT drops, Quizzes, Zealy sprints, etc.)
@@ -46,7 +46,7 @@ GATA Tech Team is handling all activities under the umbrella term GATA VALIDATOR
 
 <summary>What does "GATA DAO" mean?</summary>
 
-GATA DAO is the decision making group of people within GATA HUB and everyone who holds a [GATAc](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) and/or [GATAv](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFT is eligible to take part in that group.&#x20;
+GATA DAO is the decision making group of people within GATA HUB and everyone who holds a [GATAc](gata-nfts/genesis-collection/#colonial-cats-gatac) and/or [GATAv](gata-nfts/genesis-collection/#voyager-cats-gatav) NFT is eligible to take part in that group.&#x20;
 
 This group navigates GATA HUB's ventures by democratic decision making - performed by discussing current & future activities in GATA Discord and by finalizing decisions via onchain voting.
 
@@ -68,7 +68,7 @@ You can find more info on the concept of Yield series NFTs in the section [YG & 
 
 Rewards get distributed at the beginning of each month (one month = one epoch) and separately for&#x20;
 
-* GATA DAO in form of [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/) and for&#x20;
+* GATA DAO in form of [monthly GATA epoch rewards](gata-nfts/genesis-collection/dao-revenue-distribution/) and for&#x20;
 * GATA YIELD in form of [monthly YG rewards](yield-gorillas/yg-reward-distributions.md).
 
 </details>
@@ -77,7 +77,7 @@ Rewards get distributed at the beginning of each month (one month = one epoch) a
 
 <summary>How can I join GATA DAO?</summary>
 
-Joining GATA DAO is rather simple, you just need to hold a [GATAc](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) and/or [GATAv](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) NFT to be eligible. You can get these NFTs on Stargaze:
+Joining GATA DAO is rather simple, you just need to hold a [GATAc](gata-nfts/genesis-collection/#colonial-cats-gatac) and/or [GATAv](gata-nfts/genesis-collection/#voyager-cats-gatav) NFT to be eligible. You can get these NFTs on Stargaze:
 
 * [GATAc on Stargaze](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm)
 * [GATAv on Stargaze](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum)
@@ -89,9 +89,7 @@ Joining GATA DAO is rather simple, you just need to hold a [GATAc](gata-nft-dao/
 <summary>What does GATA HUB delegators get</summary>
 
 * Frequent Giveaways and raffle&#x20;
-
-- NFT drops like [GATA Delegator Awards 2023](nft-souvenirs.md)
-
+* NFT drops like [GATA Delegator Awards 2023](nft-souvenirs.md)
 * delegation Support&#x20;
 
 </details>
@@ -108,7 +106,7 @@ Slash protection policy is to protect the GATA delegators in case of slash event
 
 <summary>I'm holding a Yield series NFT - can I join GATA DAO with that?</summary>
 
-No, only holders of [Colonial Cats (GATAc)](gata-nft-dao/about-gata-nfts/#colonial-cats-gatac) and [Voyager Cats (GATAv)](gata-nft-dao/about-gata-nfts/#voyager-cats-gatav) are eligible to participate in the activities of GATA DAO and get [monthly GATA epoch rewards](gata-nft-dao/dao-revenue-distribution/).&#x20;
+No, only holders of [Colonial Cats (GATAc)](gata-nfts/genesis-collection/#colonial-cats-gatac) and [Voyager Cats (GATAv)](gata-nfts/genesis-collection/#voyager-cats-gatav) are eligible to participate in the activities of GATA DAO and get [monthly GATA epoch rewards](gata-nfts/genesis-collection/dao-revenue-distribution/).&#x20;
 
 However, with your Yield series NFT you're still eligible for receiving [monthly YG epoch rewards](yield-gorillas/yg-reward-distributions.md).
 

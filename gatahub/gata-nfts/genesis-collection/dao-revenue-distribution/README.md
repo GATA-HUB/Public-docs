@@ -4,13 +4,13 @@ description: Details about GATA's revenue distribution.
 
 # DAO Revenue Distribution
 
-Each month, GATA distributes the revenue to the members of GATA DAO (holders of [GATAc & GATAv](../about-gata-nfts/)). These monthly distributions are called **GATA epoch rewards** and are based on GATA's [DAO Revenue Share Model](dao-revenue-share-model.md).
+Each month, GATA distributes the revenue to the members of GATA DAO (holders of [GATAc & GATAv](../)). These monthly distributions are called **GATA epoch rewards** and are based on GATA's [DAO Revenue Share Model](dao-revenue-share-model.md).
 
 * Wallet that holds $ATOM for distributions: [cosmos15pqtxqnntu64cw4m7v0nv2f35lfm3zzasz4z3d](https://www.mintscan.io/cosmos/account/cosmos15pqtxqnntu64cw4m7v0nv2f35lfm3zzasz4z3d)
 
 ### Reward Accumulation&#x20;
 
-Based on the decision of [proposal 7](../gata-constitution/gov.-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../gata-validators/).&#x20;
+Based on the decision of [proposal 7](../../genesis-collection-1/gata-constitution/gov.-proposal-7.md) of GATA DAO, reward distribution occurs on a monthly basis. Each month, the commissions from 25 days get distributed and the rest of the days of each month get self-bonded to increase & maintain the self-bonded ratio of [GATA validators](../../../gata-validators/).&#x20;
 
 {% hint style="info" %}
 * **7,341 ATOM** distributed to GATA holders till date.&#x20;
@@ -23,33 +23,33 @@ _(Last Updated 20 July 2025)_
 ## GATA DAO EPOCH 1
 
 * Epoch duration: from July 22nd 2022 to August 31st 2022
-* Eligibility: 986/999 eligible holders of [GATAc NFTs](../about-gata-nfts/#colonial-cats-gatac) earned 0.52 $ATOM per GATAc.&#x20;
+* Eligibility: 986/999 eligible holders of [GATAc NFTs](../#colonial-cats-gatac) earned 0.52 $ATOM per GATAc.&#x20;
 * Total $ATOM distributed: 515 $ATOM
 * Distribution Date: September 1st 2022
 
-{% file src="../../../.gitbook/assets/GATA_DAO_1st_EPOCH_rewardl_ist.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_1st_EPOCH_rewardl_ist.txt" %}
 GATA DAO first Epoch addresses. 0.52/Atom/GATAc
 {% endfile %}
 
 ## GATA DAO EPOCH 2
 
 * Epoch duration: from September 1st 2022 to September 30th 2022
-* Eligibility: 1327/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.43 $ATOM per GATA.&#x20;
+* Eligibility: 1327/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.43 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 570.6 $ATOM
 * Distribution Date: October 1st 2022
 
-{% file src="../../../.gitbook/assets/GATA DAO EPOCH 2.txt" %}
+{% file src="../../../../.gitbook/assets/GATA DAO EPOCH 2.txt" %}
 GATA DAO Second Epoch addresses. 0.43/Atom/GATA
 {% endfile %}
 
 ## GATA DAO EPOCH 3
 
 * Epoch duration: from October 1st 2022 to October 31st 2022
-* Eligibility: 1327/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.43 $ATOM per GATA.&#x20;
+* Eligibility: 1327/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.43 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 570.6 $ATOM
 * Distribution Date: November 1st 2022
 
-{% file src="../../../.gitbook/assets/GATA_DAO_3rd_epoch_Reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_3rd_epoch_Reward_list.txt" %}
 GATA DAO third EPOCH addresses. 0.43/Atom/GATA
 {% endfile %}
 
@@ -66,11 +66,11 @@ GATA DAO third EPOCH addresses. 0.43/Atom/GATA
 ## GATA DAO EPOCH 4
 
 * Epoch duration: from November 1st 2022 to November 30th 2022
-* Eligibility: 1327/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.51 $ATOM per GATA.&#x20;
+* Eligibility: 1327/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.51 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 680 $ATOM
 * Distribution Date: December 1st 2022
 
-{% file src="../../../.gitbook/assets/GATA_DAO_4th_EPOCH_Reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_4th_EPOCH_Reward_list.txt" %}
 GATA DAO fourth EPOCH addresses. 0.51/Atom/GATA
 {% endfile %}
 
@@ -87,11 +87,11 @@ GATA DAO fourth EPOCH addresses. 0.51/Atom/GATA
 ## GATA DAO EPOCH 5
 
 * Epoch duration: from December 1st 2022 to December 31st 2022
-* Eligibility: 1327/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.&#x20;
+* Eligibility: 1327/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 212 $ATOM
 * Distribution Date: December 31st 2022
 
-{% file src="../../../.gitbook/assets/GATA_DAO_5th_Epoch_Reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_5th_Epoch_Reward_list.txt" %}
 GATA DAO fifth epoch reward addresses
 {% endfile %}
 
@@ -107,11 +107,11 @@ GATA DAO fifth epoch reward addresses
 ## GATA DAO EPOCH 6
 
 * Epoch duration: from January 1st 2023 to January 31st 2023
-* Eligibility: 1327/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.13 $ATOM per GATA.&#x20;
+* Eligibility: 1327/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.13 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 175 $ATOM
 * Distribution Date: February 1st 2023
 
-{% file src="../../../.gitbook/assets/GATA_DAO_6th_epoch_reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_6th_epoch_reward_list.txt" %}
 GATA DAO 6th Epoch addresses
 {% endfile %}
 
@@ -127,11 +127,11 @@ GATA DAO 6th Epoch addresses
 ## GATA DAO EPOCH 7
 
 * Epoch duration: from February 1st 2023 to February 28th 2023
-* Eligibility: 1627/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
+* Eligibility: 1627/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 195 $ATOM
 * Distribution Date: March 1st 2023
 
-{% file src="../../../.gitbook/assets/GATA_DAO_Epoch_7_reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_DAO_Epoch_7_reward_list.txt" %}
 GATA DAO 7th Epoch addresses
 {% endfile %}
 
@@ -149,11 +149,11 @@ GATA DAO 7th Epoch addresses
 ## GATA DAO EPOCH 8
 
 * Epoch duration: from March 1st 2023 to March 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 208 $ATOM
 * Distribution Date: April 1st 2023
 
-{% file src="../../../.gitbook/assets/GATA_Epoch_8_reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_Epoch_8_reward_list.txt" %}
 GATA DAO 8th Epoch addresses
 {% endfile %}
 
@@ -172,11 +172,11 @@ GATA DAO 8th Epoch addresses
 ## GATA DAO EPOCH 9
 
 * Epoch duration: from April 1st 2023 to April 30th 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.12 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 208 $ATOM
 * Distribution Date: May 2nd 2023
 
-{% file src="../../../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
 Epoch 9
 {% endfile %}
 
@@ -195,11 +195,11 @@ Epoch 9
 ## GATA DAO EPOCH 10
 
 * Epoch duration: from May 1st 2023 to May 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.1 $ATOM per GATA.&#x20;
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.1 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 175 $ATOM
 * Distribution Date: May 31st 2023
 
-{% file src="../../../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
 Epoch 10
 {% endfile %}
 
@@ -221,11 +221,11 @@ GATA DAO EPOCH 11
 -----------------
 
 * Epoch duration: from June 1st 2023 to June 30th 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTss earned 0.09 $ATOM per GATA.&#x20;
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTss earned 0.09 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 155 $ATOM
 * Distribution Date: July 5th 2023
 
-{% file src="../../../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
+{% file src="../../../../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
 Epoch 11
 {% endfile %}
 
@@ -245,11 +245,11 @@ Epoch 11
 ## GATA DAO EPOCH 12
 
 * Epoch duration: from July 1st 2023 to July 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.075 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.075 $ATOM per GATA.
 * Total $ATOM distributed: 125 $ATOM
 * Distribution Date: August 3rd 2023
 
-{% file src="../../../.gitbook/assets/GATA Epoch 12 distribution.txt" %}
+{% file src="../../../../.gitbook/assets/GATA Epoch 12 distribution.txt" %}
 GATA DAO Epoch 12
 {% endfile %}
 
@@ -269,11 +269,11 @@ GATA DAO Epoch 12
 ## GATA DAO EPOCH 13
 
 * Epoch duration: from August 1st 2023 to August 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.075 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.075 $ATOM per GATA.
 * Total $ATOM distributed: 130 $ATOM
 * Distribution Date: September 1st 2023
 
-{% file src="../../../.gitbook/assets/GATA distribution Epoch 13.txt" %}
+{% file src="../../../../.gitbook/assets/GATA distribution Epoch 13.txt" %}
 GATA Epoch 13
 {% endfile %}
 
@@ -295,11 +295,11 @@ GATA Epoch 13
 ## GATA DAO EPOCH 14
 
 * Epoch duration: from September 1st 2023 to September 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.08 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.08 $ATOM per GATA.
 * Total $ATOM distributed: 140 $ATOM
 * Distribution Date: October 3rd 2023
 
-{% file src="../../../.gitbook/assets/GATA Reward epoch 14.txt" %}
+{% file src="../../../../.gitbook/assets/GATA Reward epoch 14.txt" %}
 GATA Epoch 14
 {% endfile %}
 
@@ -320,11 +320,11 @@ GATA Epoch 14
 ## GATA DAO EPOCH 15
 
 * Epoch duration: from October 1st 2023 to October 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.09 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.09 $ATOM per GATA.
 * Total $ATOM distributed: 158 $ATOM
 * Distribution Date: November 15th 2023
 
-{% file src="../../../.gitbook/assets/GATA Epoch 15 reward distribution.txt" %}
+{% file src="../../../../.gitbook/assets/GATA Epoch 15 reward distribution.txt" %}
 GATA epoch 15
 {% endfile %}
 
@@ -346,11 +346,11 @@ GATA epoch 15
 ## GATA DAO EPOCH 16
 
 * Epoch duration: from November 1st 2023 to November 30th 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.08 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.08 $ATOM per GATA.
 * Total $ATOM distributed: 140 $ATOM
 * Distribution Date: December 2nd 2023
 
-{% file src="../../../.gitbook/assets/GATA epoch 16 reward distribution.txt" %}
+{% file src="../../../../.gitbook/assets/GATA epoch 16 reward distribution.txt" %}
 GATA EPOCH 16
 {% endfile %}
 
@@ -371,11 +371,11 @@ GATA EPOCH 16
 ## GATA DAO EPOCH 17
 
 * Epoch duration: from December 1st 2023 to December 31st 2023
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.11 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.11 $ATOM per GATA.
 * Total $ATOM distributed: 190 $ATOM
 * Distribution Date: January 1st 2024
 
-{% file src="../../../.gitbook/assets/GATA epoch 17.txt" %}
+{% file src="../../../../.gitbook/assets/GATA epoch 17.txt" %}
 Epoch 17
 {% endfile %}
 
@@ -396,7 +396,7 @@ Epoch 17
 ## GATA DAO EPOCH 18
 
 * Epoch duration: from January 1st 2024 to January 31st 2024
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.11 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.11 $ATOM per GATA.
 * Total $ATOM distributed: 190 $ATOM
 * Distribution Date: February 1st 2024
 
@@ -418,11 +418,11 @@ Epoch 17
 ## GATA DAO Epoch 19
 
 * Epoch duration: from February 1st 2024 to February 29th 2024
-* Eligibility: 1727/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.
+* Eligibility: 1727/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.
 * Total $ATOM distributed: 220 $ATOM
 * Distribution Date: March 1st 2024
 
-{% file src="../../../.gitbook/assets/GATA Epoch 19 addresses.txt" %}
+{% file src="../../../../.gitbook/assets/GATA Epoch 19 addresses.txt" %}
 
 | Source             | Atom Revenue | USD Value (USD 12/Atom) |
 | ------------------ | ------------ | ----------------------- |
@@ -443,7 +443,7 @@ Epoch 17
 ## GATA DAO Epoch 20
 
 * Epoch duration: from March 1st 2024 to March 31st 2024
-* Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
+* Eligibility: 986/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
 * Total $ATOM distributed: 180 $ATOM
 * Distribution Date: April 1st 2024
 
@@ -469,7 +469,7 @@ GATA Epoch 20
 ## GATA DAO Epoch 21
 
 * Epoch duration: from April 1st 2024 to April 30th 2024
-* Eligibility: 916/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Eligibility: 916/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 137 $ATOM
 * Distribution Date: May 1st 2024
 
@@ -491,7 +491,7 @@ GATA Epoch 20
 ## GATA DAO Epoch 22
 
 * Epoch duration: from May 1st 2024 to May 31st 2024
-* Eligibility: 916/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Eligibility: 916/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 148 $ATOM
 * Distribution Date: June 2nd 2024
 
@@ -515,7 +515,7 @@ GATA Epoch 20
 ## GATA DAO Epoch 23
 
 * Epoch duration: from June 1st 2024 to June 30th 2024
-* Eligibility: 929/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Eligibility: 929/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 141 $ATOM
 * Distribution Date: July 2nd 2024
 
@@ -541,7 +541,7 @@ GATA Epoch 23
 ## GATA DAO Epoch 24
 
 * Epoch duration: from July 1st 2024 to July 31st 2024
-* Eligibility: 938/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.
+* Eligibility: 938/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.
 * Total $ATOM distributed: 151 $ATOM
 * Distribution Date: August 1st 2024
 
@@ -554,7 +554,7 @@ Epoch 24 snapshot
 ## GATA DAO Epoch 25
 
 * Epoch duration: from August 1st 2024 to August 31st 2024
-* Eligibility: 902/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.17 $ATOM per GATA.
+* Eligibility: 902/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.17 $ATOM per GATA.
 * Total $ATOM distributed: 158 $ATOM
 * Distribution Date: September 1st 2024
 
@@ -569,7 +569,7 @@ Epoch 25 snapshot
 ## GATA DAO Epoch 26
 
 * Epoch duration: from September 1st 2024 to September 30th 2024
-* Eligibility: 882/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
+* Eligibility: 882/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
 * Total $ATOM distributed: 158 $ATOM
 * Distribution Date: October 1st 2024
 
@@ -584,7 +584,7 @@ Epoch 26 snapshot
 ## GATA DAO Epoch 27
 
 * Epoch duration: from October 1st 2024 to October 30th 2024
-* Eligibility: 896/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
+* Eligibility: 896/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.18 $ATOM per GATA.
 * Total $ATOM distributed: 160 $ATOM
 * Distribution Date: October 1st 2024
 
@@ -599,7 +599,7 @@ Epoch 27 snapshot
 ## GATA DAO Epoch 28
 
 * Epoch duration: from November 1st 2024 to November 30th 2024
-* Eligibility: 955/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Eligibility: 955/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 145 $ATOM
 * Distribution Date: December 1st 2024
 
@@ -612,7 +612,7 @@ Epoch 28 snapshot
 ## GATA DAO Epoch 29
 
 * Epoch duration: from December 1st 2024 to December 31st 2024
-* Eligibility: 965/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
+* Eligibility: 965/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.
 * Total $ATOM distributed: 146 $ATOM
 * Distribution Date: January 1st 2024
 
@@ -625,7 +625,7 @@ GATA Epoch 29
 ## GATA DAO Epoch 30
 
 * Epoch duration: from January 1st 2025 to January 31st 2025
-* Eligibility: 969/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.145 $ATOM per GATA.
+* Eligibility: 969/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.145 $ATOM per GATA.
 * Total $ATOM distributed: 142 $ATOM
 * Distribution Date: February 1st 2025
 
@@ -638,7 +638,7 @@ GATA Epoch 30
 ## GATA DAO EPOCH 31
 
 * Epoch duration: from February 1st 2025 to February 28th 2025
-* Eligibility: 980/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.&#x20;
+* Eligibility: 980/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.16 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 151 $ATOM
 * Distribution Date: March 1st 2025
 
@@ -651,7 +651,7 @@ GATA Epoch 31
 ## GATA DAO EPOCH 32
 
 * Epoch duration: from March 1st 2025 to March 31st 2025
-* Eligibility: 984/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.&#x20;
+* Eligibility: 984/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 148 $ATOM
 * Distribution Date: April 1st 2025
 
@@ -662,7 +662,7 @@ GATA Epoch 31
 ## GATA DAO EPOCH 33
 
 * Epoch duration: from April 1st 2025 to April 30th 2025
-* Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.&#x20;
+* Eligibility: 986/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.15 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 151 $ATOM
 * Distribution Date: May 2nd 2025
 
@@ -673,21 +673,21 @@ GATA Epoch 31
 ## GATA DAO EPOCH 34
 
 * Epoch duration: from May 1st 2025 to May 31st 2025
-* Eligibility: 981/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.13 $ATOM per GATA.&#x20;
+* Eligibility: 981/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.13 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 132 $ATOM
 * Distribution Date: June 2nd 2025
 
 ## GATA DAO EPOCH 35
 
 * Epoch duration: from June 1st 2025 to June 30th 2025
-* Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
+* Eligibility: 986/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 127 $ATOM
 * Distribution Date: July 4th 2025
 
 ## GATA DAO EPOCH 36
 
 * Epoch duration: from July 1st 2025 to July 31st 2025
-* Eligibility: 986/1887 eligible holders of [GATAc](../about-gata-nfts/#colonial-cats-gatac) & [GATAv](../about-gata-nfts/#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
+* Eligibility: 986/1887 eligible holders of [GATAc](../#colonial-cats-gatac) & [GATAv](../#voyager-cats-gatav) NFTs earned 0.125 $ATOM per GATA.&#x20;
 * Total $ATOM distributed: 127 $ATOM
 * Distribution Date: August 2nd 2025
 

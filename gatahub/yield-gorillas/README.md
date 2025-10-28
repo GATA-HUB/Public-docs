@@ -34,7 +34,7 @@ The revenue from the mint got staked on [GATA validators](../gata-validators/) a
 
 ### Yield Gorillas History
 
-The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../gata-nft-dao/about-gata-nfts/), all delegators to [GATA validators](../gata-validators/).
+The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../gata-nfts/genesis-collection/), all delegators to [GATA validators](../gata-validators/).
 
 Around launch, GATA provided infos via [launch article on Medium](https://medium.com/gatadao/yield-gorillas-serie-is-here-4ae0c2423017) as well as various [minting scenarios](https://medium.com/gatadao/yield-gorilla-rewards-calculation-21dc924787e3).
 

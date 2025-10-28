@@ -1,5 +1,6 @@
 ---
 description: Total assets/tokens present in the DAO treasury.
+hidden: true
 ---
 
 # GATA DAO Treasury

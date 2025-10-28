@@ -12,13 +12,13 @@ description: >-
 * [Validator operations](gata-validators/)
 * [Relay operations ](public-goods/gata-relays.md)
 * [Public Goods](public-goods/)
-* [Staking & Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
+* [Staking & Delegations ](gata-nfts/genesis-collection-1/gata-dao-staking-delegations.md) &#x20;
 
 ## Real Yield; DeFi and NFT-fi
 
 ### NFT collections
 
-* [GATA NFTs](gata-nft-dao/about-gata-nfts/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-nft-dao/dao-revenue-distribution/)& DAO membership) &#x20;
+* [GATA NFTs](gata-nfts/genesis-collection/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-nfts/genesis-collection/dao-revenue-distribution/)& DAO membership) &#x20;
 * [Yield Gorillas](yield-gorillas/) (monthly [**ATOM rewards**](yield-gorillas/yg-reward-distributions.md), deflationary supply, raffle)
 * [Yield Paws](yield-paws/) (monthly [**STARS rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
 * [Yield Crocs](yield-crocs/) (monthly [Solana and yGATA rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
