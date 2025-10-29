@@ -6,6 +6,8 @@ coverY: 0
 
 # GATA NFTs
 
+
+
 | Collection    | Epoch \| Snapshot | Staked yGATA  | 6 Months APR % |
 | ------------- | ----------------- | ------------- | -------------- |
 | Colonial Cats | 38                | 2.65 million  |                |
@@ -14,4 +16,4 @@ coverY: 0
 | Yield Paws    | 18                | 1.82 million  | 120%           |
 | Yield Crocs   | 8                 | 1.96 million  |                |
 | PengOnes      | -                 | 5.02 million  |                |
-| Yield Walkers | 1                 | 2.78 million  | 22%            |
+| Yield Walkers | 1                 | 2.77 million  | 22%            |
