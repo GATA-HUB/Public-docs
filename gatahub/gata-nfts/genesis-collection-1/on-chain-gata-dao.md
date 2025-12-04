@@ -66,8 +66,7 @@ DAODAO doesn't support governance with/by staking of multiple NFT collections in
 \
 • The collection DAO's are the sole members of the main GATA DAO.\
 \
-• Therefore, holders of GATAc & GATAv vote directly on governance proposals of the Main DAO through their own DAOs & the result of each collection DAO will be passed as vote to main DAO, automatically.\
-
+• Therefore, holders of GATAc & GATAv vote directly on governance proposals of the Main DAO through their own DAOs & the result of each collection DAO will be passed as vote to main DAO, automatically.<br>
 
 </details>
 
@@ -105,8 +104,7 @@ Any DAO member can start a governance proposal, proposal deposit is 1000 $STARS 
 
 <img src="../../../.gitbook/assets/image (22).png" alt="" data-size="original">
 
-Open the proposal and vote as you deem right \
-
+Open the proposal and vote as you deem right <br>
 
 <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="original">
 

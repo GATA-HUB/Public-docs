@@ -39,8 +39,7 @@ Each month, Yield Crocs collection by GATA HUB will provide you with&#x20;
 
 Yield Crocss holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. These are **$SOL $yGATA** which get distributed directly to the wallets of holders. You just need to hold your Crocs tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
 
-The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: \
-
+The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: <br>
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Supply of Yield Crocs</p></figcaption></figure>
 

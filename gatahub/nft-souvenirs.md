@@ -54,14 +54,14 @@ Bought \~$100 worth of GATA x Omniflix launch souvenir to burn.  [https://omnifl
 
 ### 3rd Monthly Rewards (August 2023)
 
-1x 10 [AiG](apes-in-games-rise-of-apelandia/aig-nft-collection.md) NFTs\
+1x 10 [AiG](/broken/pages/T9b5f4gbkGsbIlXs4G1x) NFTs\
 20x 10 $ARCH
 
 [https://twitter.com/GataDaoZone/status/1691383512371286017?s=20](https://twitter.com/GataDaoZone/status/1691383512371286017?s=20)
 
 ### **4th Monthly Rewards (September 2023)**
 
-1x 10 [AiG](apes-in-games-rise-of-apelandia/aig-nft-collection.md) NFTs\
+1x 10 [AiG](/broken/pages/T9b5f4gbkGsbIlXs4G1x) NFTs\
 20x 10 $ARCH\
 20x 10 $FLIX
 

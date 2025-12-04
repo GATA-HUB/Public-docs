@@ -15,8 +15,7 @@ Check Asset Dashboard [here ](https://gatahub.zone/ygata)\
 \
 GATA Yield DAO was supported by Omniflix and Stargaze community pools with 500K FLIX and 9 Million STARS respectively. \
 \- Stargaze community pool participation  [https://www.mintscan.io/stargaze/proposals/292](https://www.mintscan.io/stargaze/proposals/292)\
-\- Omniflix community pool participation  [https://www.mintscan.io/omniflix/proposals/46](https://www.mintscan.io/omniflix/proposals/46)\
-
+\- Omniflix community pool participation  [https://www.mintscan.io/omniflix/proposals/46](https://www.mintscan.io/omniflix/proposals/46)<br>
 {% endhint %}
 
 ### Veto Power

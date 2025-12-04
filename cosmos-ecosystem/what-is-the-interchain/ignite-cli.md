@@ -42,7 +42,6 @@ Ignite CLI beschleunigt den Prozess von der ersten Idee bis zur Produktion um 95
 
 Wenn du mit Ignite CLI arbeitest, kannst du Dinge wie die Schlüsselverwaltung, die Erstellung von Validatoren sowie die Übertragung von Token einfach und schnell über die CLI erledigen.
 
-\
-
+<br>
 
 </details>

@@ -44,7 +44,6 @@ Mit CosmWasm können Smart Contracts mit Hilfe des IBC-Protokolls auf mehreren C
 
 Bekannte Ethereum-Tools, wie beispielsweise Truffle oder Metamask, sind mit Ethermint kompatibel. Entwickler können sogar ihre Solidity Smart Contracts portieren, um mit dem Interchain-Ökosystem zu interagieren. Der Bau einer eigenen Blockchain ist dabei nicht notwendig, um Interchain-kompatible Smart Contracts zu entwickeln, es kann alles mit Ethermint gemacht werden. Während Ethermint jedoch die Ausführung von Vanilla-Ethereum als anwendungsspezifische Cosmos-Blockchain ermöglicht, profitieren Entwickler wiederum von der CometBFT.
 
-\
-
+<br>
 
 </details>

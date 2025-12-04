@@ -6,7 +6,6 @@
 ## 📌 GATA HUB's Ventures  <a href="#gatahub" id="gatahub"></a>
 
 * [Summary](gatahub/summary.md)
-* [RollApp](gatahub/rollapp.md)
 * [GATA Validators](gatahub/gata-validators/README.md)
   * [Slash Protection Policy](gatahub/gata-validators/slash-protection-policy.md)
   * [ICS Partner Chains](gatahub/gata-validators/ics-partner-chains.md)
@@ -62,9 +61,6 @@
     * [PengOnes Reward Distribution](gatahub/pengones/pengones-reward-distribution.md)
   * [Yield Walkers](gatahub/gata-nfts/yield-walkers.md)
   * [NFT Souvenirs](gatahub/nft-souvenirs.md)
-* [Apes in Games — Rise of Apelandia](gatahub/apes-in-games-rise-of-apelandia/README.md)
-  * [AiG Lore](gatahub/apes-in-games-rise-of-apelandia/aig-lore.md)
-  * [AiG NFT Collection](gatahub/apes-in-games-rise-of-apelandia/aig-nft-collection.md)
 * [🛤️ GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
   * [2025 Roadmap](gatahub/gata-hub-road-map/2025-roadmap.md)
   * [2024 Recap](gatahub/gata-hub-road-map/2024-recap.md)
@@ -110,5 +106,4 @@
 ## 🧑‍🤝‍🧑 What's cooking in community
 
 * [Zealy (Formerly Crew3)](whats-cooking-in-community/zealy-formerly-crew3.md)
-* [Quiz](whats-cooking-in-community/quiz.md)
 * [📙 Disclaimer](whats-cooking-in-community/disclaimer.md)

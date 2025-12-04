@@ -24,7 +24,6 @@ Zum Beispiel können Entwickler die Ethereum Virtual Machine (EVM) aus dem Go Et
 
 &#x20;Bestehende Ethereum-Tools, wie beispielsweise Truffle oder Metamask, sind mit Ethermint kompatibel. Entwickler können sogar ihre Solidity Smart Contracts portieren, um mit dem Interchain Ecosystem zu interagieren. Der Aufbau einer Blockchain ist dabei nicht einmal notwendig, um Interchain-kompatible Smart Contracts zu entwickeln, denn alles, was dazu benötigt wird, kann mit Ethermint gemacht werden. Während Ethermint jedoch die Ausführung von Vanilla Ethereum als anwendungsspezifische Cosmos-Blockchain ermöglicht, profitieren Entwickler von CometBFT.
 
-\
-
+<br>
 
 </details>

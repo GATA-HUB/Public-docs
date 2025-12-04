@@ -30,4 +30,4 @@ Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
 
 ### Apps/Games&#x20;
 
-* [Yield dApp](rollapp.md)
+* [Yield dApp](/broken/pages/9Q2SwI2N3Oc6DmrXbtSb)

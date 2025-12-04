@@ -20,7 +20,7 @@ coverY: -70
 
 ### Q3 2023
 
-* Launch of [AIG](../apes-in-games-rise-of-apelandia/aig-lore.md); Apes in games (The complete launch postponed after delays from the launchpad).
+* Launch of [AIG](/broken/pages/1ObYIO2CSLr6rTsIZFUL); Apes in games (The complete launch postponed after delays from the launchpad).
 * Launch of [Archway](../gata-validators/) [ ](../gata-validators/)validtaor.&#x20;
 * Launch of [Passage ](../gata-validators/)Network Validator.
 * Launch of GATA [Delegators Award NFT](../nft-souvenirs.md); airdropped to 5.2K unique delegators of GATA validators.  &#x20;

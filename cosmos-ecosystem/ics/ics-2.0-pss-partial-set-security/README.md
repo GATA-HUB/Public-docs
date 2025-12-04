@@ -8,4 +8,4 @@ Currently, although the technology theoretically supports permissionless creatio
 
 Consumer chains will also feature "ownership," enabling a DAO or the chain’s on-chain governance to control various settings. This includes setting the chain's start time, modifying validator lists, and adjusting the number of validators. These features allow for greater flexibility and control over the chain's operations, ensuring it can be tailored to specific needs and circumstances.\
 \
-[https://forum.cosmos.network/t/chips-discussion-phase-permissionless-ics/13955](https://forum.cosmos.network/t/chips-discussion-phase-permissionless-ics/13955)\
+[https://forum.cosmos.network/t/chips-discussion-phase-permissionless-ics/13955](https://forum.cosmos.network/t/chips-discussion-phase-permissionless-ics/13955)<br>

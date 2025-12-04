@@ -36,7 +36,6 @@ Handelt es sich bei der anderen Kette jedoch um eine Kette mit probabilistischer
 
 Peg-Zonen sind Blockchains mit schneller Endgültigkeit, die den Zustand der Kette verfolgen, um die Endgültigkeit herzustellen. Die Peg-Zone-Kette selbst ist IBC-kompatibel und fungiert als Brücke zwischen den übrigen Ketten des IBC-Netzwerks und der probabilistischen Finalitätskette.
 
-\
-
+<br>
 
 </details>

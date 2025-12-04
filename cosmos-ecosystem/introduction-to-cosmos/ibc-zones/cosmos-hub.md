@@ -2,7 +2,7 @@
 description: A Beginner’s Guide to the ATOM Token in the Cosmos Hub
 ---
 
-# ATOM Token
+# Cosmos HUB
 
 If you're familiar with **Bitcoin (BTC)** and **Ethereum (ETH)**, the **ATOM** token can feel quite different. Bitcoin is mainly a store of value, and Ethereum powers decentralized apps and smart contracts. Cosmos, however, aims to solve a unique problem—**interoperability** between blockchains. ATOM plays a crucial role in this.
 
@@ -30,8 +30,7 @@ The **Cosmos Hub** is like a central connecting point for various blockchains (c
 
 If you’re already familiar with how Ethereum 2.0’s staking works or the governance features of some DeFi tokens, ATOM is similar but applied to a unique use case—interoperability between blockchains. With Cosmos and ATOM, the goal is to create an ecosystem of blockchains that can work together in a decentralized manner, rather than competing in isolation.
 
-This makes ATOM a crucial part of a larger vision where different blockchain technologies can collaborate, enhancing innovation across the industry.\
-
+This makes ATOM a crucial part of a larger vision where different blockchain technologies can collaborate, enhancing innovation across the industry.<br>
 
 **Read more here**&#x20;
 

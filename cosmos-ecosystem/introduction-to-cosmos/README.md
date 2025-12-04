@@ -30,8 +30,7 @@ Ein wesentlicher Bestandteil dieses Netzwerks von Blockchains ist das Kommunikat
 
 Insgesamt handelt es sich bei Cosmos um einen einzigartigen Ansatz von Blockchain-Architektur, bei dem Interoperabilität, Skalierbarkeit und Sicherheit im Vordergrund stehen. Indem es verschiedenen Blockchains ermöglicht, miteinander zu kommunizieren und Transaktionen durchzuführen, hat Cosmos das Potenzial, neue Anwendungsfälle für Blockchain-Technologien zu erschließen und den Weg für eine stärker dezentralisierte und demokratisierte Zukunft zu ebnen.
 
-\
-
+<br>
 
 </details>
 

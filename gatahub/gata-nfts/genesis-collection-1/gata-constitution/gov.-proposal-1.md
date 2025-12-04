@@ -33,4 +33,4 @@ Team's perspective: -Most important objective for us all should be to start gene
 In addition, GATA DAO is planning to send Colonial Cats farthest into Stars, launching another NFT collection on Stargaze. Also someday deep into Cosmos at a later stage. A detailed announcement will be made in the coming weeks as soon as everything is finalized. The only certainty at this point is the Gen mint participants (GATA holders) will be incentivized for being the early believers, as we wish to keep our every promise. Consider this an early half announcement as we wish to run GATA Validators successfully before the next NFT launch.&#x20;
 
 -We feel the above information is important and should be shared with the community to make the right decision. Please vote and make it count as there are only 950 votes! -Please remember, this is only the team's personal perspective with all the information at our disposal. You have 48hrs to DYOR and vote accordingly. -The team does not serve individuals. Our loyalty and sincerity serve the DAO and the community as a whole. Thank you.\
-\
+<br>
