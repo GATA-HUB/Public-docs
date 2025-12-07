@@ -18,16 +18,14 @@ description: >-
 
 ### NFT collections
 
-* [GATA NFTs](gata-nfts/genesis-collection/) (holders obtain co-ownership of validators, monthly [**ATOM rewards** ](gata-nfts/genesis-collection/dao-revenue-distribution/)& DAO membership) &#x20;
-* [Yield Gorillas](yield-gorillas/) (monthly [**ATOM rewards**](yield-gorillas/yg-reward-distributions.md), deflationary supply, raffle)
-* [Yield Paws](yield-paws/) (monthly [**STARS rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
-* [Yield Crocs](yield-crocs/) (monthly [Solana and yGATA rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
+* [GATA NFTs](gata-nfts/genesis-collection/) (Staragze genesis collection launched in Feb 2021)
+* [Yield Gorillas](yield-gorillas/) (Teritori genesis collection moved to SG in 2024 origanlly launched in 2022 with monthly [**rewards**](yield-gorillas/yg-reward-distributions.md) )
+* [Yield Paws](yield-paws/) (monthly [**rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
+* [Yield Crocs](yield-crocs/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
+* [PengOnes ](pengones/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
+* [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series)
 * [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ## GATA Yield DAO
 
-Community managed Yield Fund, managed by [DAO. ](ygata/gata-yield-dao.md)
-
-### Apps/Games&#x20;
-
-* [Yield dApp](/broken/pages/9Q2SwI2N3Oc6DmrXbtSb)
+Community Yield Fund, managed by [DAO.](ygata/gata-yield-dao.md)
