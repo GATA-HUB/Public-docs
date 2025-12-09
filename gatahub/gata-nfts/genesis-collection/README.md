@@ -4,7 +4,7 @@ description: >-
   rewards.
 ---
 
-# About GATA NFTs
+# Genesis Collection
 
 NFT collections of the GATA Series were the first NFTs of GATA HUB. They consist of twocollections:
 
@@ -21,8 +21,7 @@ Out of 700 applicants, just 15 projects were short-listed by the Stargaze team a
 
 Supply: 999 GATAc&#x20;
 
-[Trade Colonial Cats (GATAc) on Stargaze](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm) \
-[Check Colonial Cats (GATAc) stats on Constellations](https://info.stargaze.zone/collections/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm)&#x20;
+[Trade Colonial Cats (GATAc) on Stargaze](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm) <br>
 
 <figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -32,8 +31,7 @@ Voyager Cats (GATAv) is the 2nd GATA series NFT collection of GATA DAO and launc
 
 Supply: 888 GATAv
 
-[Trade Voyager Cats (GATAv) on Stargaze](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum) \
-[Check the stats of Voyager Cats (GATAv) on Constellations ](https://info.stargaze.zone/collections/stars19tedq0x8csy6v35cqcjy8f76j2f0fsljjytuxcvl3x4sj82tmxnqgxuu85)
+[Trade Voyager Cats (GATAv) on Stargaze](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum) <br>
 
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
