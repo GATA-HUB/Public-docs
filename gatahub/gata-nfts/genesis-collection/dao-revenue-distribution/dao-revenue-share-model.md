@@ -1,5 +1,6 @@
 ---
 description: Overview & illustration of GATA's revenue flow model
+hidden: true
 ---
 
 # DAO Revenue Share model
