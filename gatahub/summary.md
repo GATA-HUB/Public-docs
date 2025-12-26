@@ -18,12 +18,12 @@ description: >-
 
 ### NFT collections
 
-* [GATA NFTs](gata-nfts/genesis-collection/) (Staragze genesis collection launched in Feb 2021)
+* [Genesis NFTs](gata-nfts/genesis-collection/) (Staragze genesis collection launched in Feb 2021)
 * [Yield Gorillas](yield-gorillas/) (Teritori genesis collection moved to SG in 2024 origanlly launched in 2022 with monthly [**rewards**](yield-gorillas/yg-reward-distributions.md) )
 * [Yield Paws](yield-paws/) (monthly [**rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
 * [Yield Crocs](yield-crocs/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
 * [PengOnes ](pengones/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
-* [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series)
+* [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series, monthly Rewards)
 * [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ## GATA Yield DAO
