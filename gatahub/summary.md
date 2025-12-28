@@ -23,7 +23,7 @@ description: >-
 * [Yield Paws](yield-paws/) (monthly [**rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
 * [Yield Crocs](yield-crocs/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
 * [PengOnes ](pengones/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
-* [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series, monthly Rewards)
+* [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series, monthly Rewards deflationary supply and raffle)
 * [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
 ## GATA Yield DAO
