@@ -27,7 +27,9 @@ layout:
 
 {% hint style="info" %}
 Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8ev4x36qzum6gz2yw4vds5vkw8evtuvfvrghq0gjulrf9ncs9mutd6/tokens) \
-Epoch Details&#x20;
+Epoch Details [Snapshots](https://github.com/GATA-HUB/snapshots/tree/main/PengOnes)\
+Epoch distributed 4 \
+Assets [↗](./)
 {% endhint %}
 
 ## About the collection
