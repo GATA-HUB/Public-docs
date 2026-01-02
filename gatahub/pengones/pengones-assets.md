@@ -26,3 +26,4 @@ Last updated  22 October, 2025.
 
 <table><thead><tr><th>Skin</th><th data-type="number">Supply</th><th data-type="number">Minted</th><th data-type="number">Burn</th><th data-type="number">Circulating</th></tr></thead><tbody><tr><td>Base</td><td>2000</td><td>2000</td><td>0</td><td>2000</td></tr><tr><td>Pro</td><td>1000</td><td>1000</td><td>0</td><td>1000</td></tr><tr><td>Apex</td><td>330</td><td>330</td><td>0</td><td>330</td></tr><tr><td>1/1s</td><td>3</td><td>3</td><td>0</td><td>3</td></tr><tr><td><strong>Total</strong></td><td>3333</td><td>3333</td><td>1508</td><td>1825</td></tr></tbody></table>
 
+d

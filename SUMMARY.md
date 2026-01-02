@@ -58,7 +58,6 @@
     * [YC Reward Distribution](gatahub/yield-crocs/yc-reward-distribution.md)
   * [PengOnes](gatahub/pengones/README.md)
     * [PengOne's Assets](gatahub/pengones/pengones-assets.md)
-    * [PengOnes Reward Distribution](gatahub/pengones/pengones-reward-distribution.md)
   * [Yield Walkers](gatahub/gata-nfts/yield-walkers.md)
   * [NFT Souvenirs](gatahub/nft-souvenirs.md)
 * [🛤️ GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)

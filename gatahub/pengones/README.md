@@ -26,7 +26,8 @@ layout:
 # PengOnes
 
 {% hint style="info" %}
-Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8ev4x36qzum6gz2yw4vds5vkw8evtuvfvrghq0gjulrf9ncs9mutd6/tokens)&#x20;
+Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8ev4x36qzum6gz2yw4vds5vkw8evtuvfvrghq0gjulrf9ncs9mutd6/tokens) \
+Epoch Details&#x20;
 {% endhint %}
 
 ## About the collection
@@ -39,6 +40,29 @@ Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8
 **Collection Size**: 3,333\
 **Royalties:**  5% \
 Symbol: POs&#x20;
+
+### PengOnes Mint proceeds <a href="#pengones-mint-proceeds" id="pengones-mint-proceeds"></a>
+
+Details of the PengOnes mint proceeds, allocation and base price to calculate the APRs.​
+
+| NFT Quantity              | 3333 **YPOs**                                                    |
+| ------------------------- | ---------------------------------------------------------------- |
+| Minted/Circulating        | **3333 YPOs/ 2761 (572 Burnt)**                                  |
+| Airdrop                   | 550 **YPOs** (10% for Infinity pool and 10% Team share)          |
+| Mint Collection           | 75K **$ATONE** (Excluding 10% SG fee, 7.5% marketing spend)      |
+| Average ATONE Price /YPOs | Gross: **36.07 ATONE / 3366 yGATA Net: 27.2 ATONE / 2539 yGATA** |
+| Team Share                | **10%** (all paid in Airdropped PengOnes)                        |
+
+### PengOnes Burn info <a href="#pengones-burn-info" id="pengones-burn-info"></a>
+
+Last updated 2 January, 2026.​
+
+| Base      | 2000 | 1126 | 874 \| 44%  |
+| --------- | ---- | ---- | ----------- |
+| Pro       | 1000 | 380  | 620 \| 62%  |
+| Apex      | 330  | 15   | 315 \| 96%  |
+| 1/1s      | 3    | 0    | 3 \| 100%   |
+| **Total** | 3333 | 1521 | 1812 \| 54% |
 
 ## Utility of PengOnes&#x20;
 
