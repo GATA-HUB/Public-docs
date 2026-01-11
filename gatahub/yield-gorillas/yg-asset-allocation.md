@@ -6,6 +6,12 @@ coverY: 0
 
 # YG Asset Allocation
 
+
+
+{% hint style="info" %}
+This Page is being removed DATA might be broken _(Jan, 2026)_&#x20;
+{% endhint %}
+
 ## Mint Proceeds&#x20;
 
 The original amount was staked at the end of the Mint (Nov 2022).  100% of the Yield Gorillas mint proceeds had been staked right after the mint in form of [4920](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767)[ ATOM](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767) and [381K TORI](https://www.mintscan.io/teritori/tx/C1CFA0BAE0A08B827D2F1BC0A41DC37D9DAA80BC464836F94163C00E92DFE39E?height=756347).&#x20;
