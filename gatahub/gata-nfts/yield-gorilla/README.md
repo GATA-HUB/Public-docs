@@ -2,11 +2,11 @@
 description: >-
   Yield Gorillas (also called YGs) are the 1st collection of GATA's Yield
   Series.
-cover: ../../.gitbook/assets/yield-gorillas-gitbook-banner.jpg
+cover: ../../../.gitbook/assets/yield-gorillas-gitbook-banner.jpg
 coverY: 0
 ---
 
-# Yield Gorillas
+# Yield Gorilla
 
 ### **Prologue & Lore of Yield Gorillas**
 
@@ -28,13 +28,13 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 
 ﻿Yield Gorillas are the first collection of non-GATA NFTs and belong to the Yield series. They consist of 10.000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA team.&#x20;
 
-The revenue from the mint got staked on [GATA validators](../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly base in so-called [YG epoch rewards](yg-reward-distributions.md), based on the rarity of their YGs.
+The revenue from the mint got staked on [GATA validators](../../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly epoch, based on the rarity of their YGs.
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>For Yield Gorillas, the allocation of revenue depends on the rarities of the NFTs (skin trait).</p></figcaption></figure>
 
 ### Yield Gorillas History
 
-The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../gata-nfts/genesis-collection/), all delegators to [GATA validators](../gata-validators/).
+The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../genesis-collection/), all delegators to [GATA validators](../../gata-validators/).
 
 Around launch, GATA provided infos via [launch article on Medium](https://medium.com/gatadao/yield-gorillas-serie-is-here-4ae0c2423017) as well as various [minting scenarios](https://medium.com/gatadao/yield-gorilla-rewards-calculation-21dc924787e3).
 
@@ -42,4 +42,4 @@ The minting for whitelisted addresses (Category 1, 2 and 3) finished in 4, 4 and
 
 ### Trading Yield Gorillas
 
-Yield Gorillas are available on Teritori's marketplace: [Trade YGs on Teritori](https://app.teritori.com/collection/tori-tori1999u8suptza3rtxwk7lspve02m406xe7l622erg3np3aq05gawxsrh9g0p)
+Yield Gorillas are available on Teritori's marketplace: [Trade YGs on Stargaze](https://www.stargaze.zone/m/stars139hxs27d83qtqayw5jvawjlqa5xn6dg0pa2ymfljw7zdcjpyjmfq27srxl/tokens)

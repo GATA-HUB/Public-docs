@@ -27,8 +27,8 @@ _Mint price: 1 $FLIX_\
 
 **Mint-out Rewards**\
 **•** 5x [Voyager Cat (GATAv) ](gata-nfts/genesis-collection-1/)\
-• 1x [Yield Gorilla (Bull/Legend)](yield-gorillas/)\
-• 8x [Yield Gorilla (Neat/Elemental)](yield-gorillas/)\
+• 1x [Yield Gorilla (Bull/Legend)](gata-nfts/yield-gorilla/)\
+• 8x [Yield Gorilla (Neat/Elemental)](gata-nfts/yield-gorilla/)\
 \
 **Monthly Rewards**\
 \~$100 USD in rewards (Tokens & NFTs)&#x20;
@@ -44,7 +44,7 @@ All winners will be selected automatically.
 
 ### 1st Monthly Rewards (June 2023)
 
-1 [Yield Gorilla (Neat/Elemental)](yield-gorillas/) each to 10 winners. Total 10 YGs\
+1 [Yield Gorilla (Neat/Elemental)](gata-nfts/yield-gorilla/) each to 10 winners. Total 10 YGs\
 10 $FLIX each to 10 winners. Total 100 $FLIX  \
 [https://twitter.com/GataDaoZone/status/1670083887052242947?s=20](https://twitter.com/GataDaoZone/status/1670083887052242947?s=20)&#x20;
 

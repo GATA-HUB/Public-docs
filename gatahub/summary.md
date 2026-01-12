@@ -19,7 +19,7 @@ description: >-
 ### NFT collections
 
 * [Genesis NFTs](gata-nfts/genesis-collection/) (Staragze genesis collection launched in Feb 2021)
-* [Yield Gorillas](yield-gorillas/) (Teritori genesis collection moved to SG in 2024 origanlly launched in 2022 with monthly [**rewards**](yield-gorillas/yg-reward-distributions.md) )
+* [Yield Gorillas](gata-nfts/yield-gorilla/) (Teritori genesis collection moved to SG in 2024 origanlly launched in 2022 with monthly [**rewards**](gata-nfts/yield-gorilla/yg-reward-distributions.md) )
 * [Yield Paws](yield-paws/) (monthly [**rewards**](yield-paws/yp-reward-distribution.md), deflationary supply and POL for infinity pools)
 * [Yield Crocs](yield-crocs/) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)
 * [PengOnes ](gata-nfts/pengones.md) (monthly[ rewards](yield-crocs/yc-reward-distribution.md), deflationary supply and raffle)

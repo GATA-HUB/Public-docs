@@ -1,6 +1,6 @@
 ---
 description: Last updated August 8, 2025
-cover: ../../.gitbook/assets/755.jpg
+cover: ../../../.gitbook/assets/755.jpg
 coverY: 0
 ---
 
@@ -24,7 +24,7 @@ The original amount was staked at the end of the Mint (Nov 2022).  100% of the Y
 | ------ | ------------- | ------------------------------------------------------------------- |
 | ATOM   | 2500 ATOM     | Mint                                                                |
 | TORI   | 381,000 TORI  | Mint                                                                |
-| yGATA  | 1,450,000     | LP Investment in [yGATA](../ygata/)                                 |
+| yGATA  | 1,450,000     | LP Investment in [yGATA](../../ygata/)                              |
 | OSMO   | 565 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
 | TIA    | 100 TIA       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
 | DYM    | 100 DYM       | [Airdrop](yg-asset-allocation.md#airdrops-for-yg-wallets)           |
