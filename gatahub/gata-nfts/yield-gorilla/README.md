@@ -8,6 +8,14 @@ coverY: 0
 
 # Yield Gorilla
 
+{% hint style="info" %}
+* **12,950** Atom total yield
+* **9047** Atom distributed to holders
+* **34** Epoch distributed
+
+_(Last updated 13 Januray, 2025)_
+{% endhint %}
+
 ### **Prologue & Lore of Yield Gorillas**
 
 _There's a sense or logic to everything, right? So, how does Yield Gorilla comes in to play? How are they related to GATA? Who came first? All these questions are fitting!_&#x20;
