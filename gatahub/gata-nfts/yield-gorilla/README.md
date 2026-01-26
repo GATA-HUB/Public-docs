@@ -13,7 +13,7 @@ coverY: 0
 * **9047** Atom distributed to holders
 * **34** Epoch distributed
 
-_(Last updated 13 Januray, 2025)_
+_(Last updated 13 January, 2025)_
 {% endhint %}
 
 ### **Prologue & Lore of Yield Gorillas**
