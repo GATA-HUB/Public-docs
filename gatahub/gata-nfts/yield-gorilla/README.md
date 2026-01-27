@@ -32,29 +32,52 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 **Royalties:** 3%\
 **Public mint: November** 15th 2022
 
+## YG supply table
+
+{% hint style="info" %}
+Last updated August 8, 2025.&#x20;
+{% endhint %}
+
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>788</td><td>6844</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>806</td><td>9194</td></tr></tbody></table>
+
+<details>
+
+<summary>Additional YG burn activities</summary>
+
+50 GATAv from marketing wallet  were used to burn the YGs in discord auction style. \
+\
+**Rules of auction**
+
+* &#x20;Weightage Allocation _1 point for neat 4 for bear and pump 6 for mooned and 10 for legend/bull._&#x20;
+* YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
+* Minimum bid _8 points are the minimum bid._&#x20;
+* &#x20;Auction Time _is 3 days, at the end of the 3rd day, and after that, the auction ends if there is no higher bid for 1 hour. The winner will be informed._
+* Batch allocation _Maximum of 10 GATAv will be auctioned at a time._
+* Transaction _At the end of the auction winner will be chosen and informed._&#x20;
+
+## Batch 1-2, May 2023.&#x20;
+
+20 GATAv were given  for burning YG. During the campaign 170 Neat/elemental, 5 Bull/legend, and 3 Pump/bear were burned. &#x20;
+
+## Batch 3, June 2023
+
+10 GATAv were given for burning YG. During the campaign 66 Neat/elemental, 2  mooned, 7 Pump/bear and 1 Bull/legend were burned.&#x20;
+
+</details>
+
 ### Concept of Yield Gorillas & Yield Series
 
-﻿Yield Gorillas are the first collection of non-GATA NFTs and belong to the Yield series. They consist of 10.000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA team.&#x20;
+﻿Yield Gorillas are the first collection of GATA Yield series. They consist of 10,000 YG NFTs that derive their value from revenue accrued via staking rewards and DeFi activities managed by the GATA Yield DAO.&#x20;
 
-The revenue from the mint got staked on [GATA validators](../../gata-validators/) and the rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly epoch, based on the rarity of their YGs.
+The revenue from the mint orignally got staked on [GATA validators](../../gata-validators/), then sent to GATA Yield for % representation in GATA Yield DAO. The rewards collected from staking & DeFi activities are distributed to the holders of Yield Gorillas on a monthly epoch, based on the rarity of their YGs.
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>For Yield Gorillas, the allocation of revenue depends on the rarities of the NFTs (skin trait).</p></figcaption></figure>
 
-### Yield Gorillas History
 
-The minting of YGs began on November 16th 2022 in the order of whitelist categories. Community members of GATA DAO had been given priority for whitelisting as well as holders of both [GATA NFT series](../genesis-collection/), all delegators to [GATA validators](../../gata-validators/).
-
-Around launch, GATA provided infos via [launch article on Medium](https://medium.com/gatadao/yield-gorillas-serie-is-here-4ae0c2423017) as well as various [minting scenarios](https://medium.com/gatadao/yield-gorilla-rewards-calculation-21dc924787e3).
-
-The minting for whitelisted addresses (Category 1, 2 and 3) finished in 4, 4 and 12 hours respectively. The rest of the YGs minted out during public mint afterwards.
 
 ### Trading Yield Gorillas
 
 Yield Gorillas are available on Teritori's marketplace: [Trade YGs on Stargaze](https://www.stargaze.zone/m/stars139hxs27d83qtqayw5jvawjlqa5xn6dg0pa2ymfljw7zdcjpyjmfq27srxl/tokens)
-
-{% hint style="info" %}
-This Page is being removed DATA might be broken _(Jan, 2026)_&#x20;
-{% endhint %}
 
 ## Mint Proceeds&#x20;
 
@@ -92,39 +115,6 @@ This table records the Yield Gorillas income after the implementation of New yie
 | [28](yg-reward-distributions.md#yg-epoch-28)/ June 2025      | 41.5 ATOM          | 137 ATOM          | 178 ATOM/800 USD    |
 | [29](yg-reward-distributions.md#yg-epoch-29) / July 2025     | 41 ATOM            | 130 ATOM          | 171 ATOM/850 USD    |
 | 30/ August 2025                                              | 41 ATOM            | 127 ATOM          | 168 ATOM/800 USD    |
-
-## YG supply table
-
-{% hint style="info" %}
-Last updated August 8, 2025.&#x20;
-{% endhint %}
-
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>788</td><td>6844</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>806</td><td>9194</td></tr></tbody></table>
-
-<details>
-
-<summary>Additional YG burn activities</summary>
-
-50 GATAv from marketing wallet  were used to burn the YGs in discord auction style. \
-\
-**Rules of auction**
-
-* &#x20;Weightage Allocation _1 point for neat 4 for bear and pump 6 for mooned and 10 for legend/bull._&#x20;
-* YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
-* Minimum bid _8 points are the minimum bid._&#x20;
-* &#x20;Auction Time _is 3 days, at the end of the 3rd day, and after that, the auction ends if there is no higher bid for 1 hour. The winner will be informed._
-* Batch allocation _Maximum of 10 GATAv will be auctioned at a time._
-* Transaction _At the end of the auction winner will be chosen and informed._&#x20;
-
-## Batch 1-2, May 2023.&#x20;
-
-20 GATAv were given  for burning YG. During the campaign 170 Neat/elemental, 5 Bull/legend, and 3 Pump/bear were burned. &#x20;
-
-## Batch 3, June 2023
-
-10 GATAv were given for burning YG. During the campaign 66 Neat/elemental, 2  mooned, 7 Pump/bear and 1 Bull/legend were burned.&#x20;
-
-</details>
 
 ## Airdrops for YG wallets
 
