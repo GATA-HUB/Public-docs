@@ -11,7 +11,7 @@ coverY: 0
 {% hint style="info" %}
 * **12,950** Atom total yield
 * **9047** Atom distributed to holders
-* **34** Epoch distributed
+* **34** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
 
 _(Last updated 13 January, 2025)_
 {% endhint %}
@@ -28,8 +28,8 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 **Network:** [Stargaze Zone](https://www.stargaze.zone/m/yieldgorillas/tokens) (Migrated from Teritori)\
 **Collection Type:** Standard Collection \
 &#x20;**Public Mint Price:** 2 $Atom (50 mints/wallet)\
-**Collection Size**: 10000\
-**Royalties:** 3%\
+**Collection Size**: 10000 (see current supply in the table below)\
+**Royalties:** 5%\
 **Public mint: November** 15th 2022
 
 ## YG supply table
@@ -73,31 +73,11 @@ The revenue from the mint orignally got staked on [GATA validators](../../gata-v
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>For Yield Gorillas, the allocation of revenue depends on the rarities of the NFTs (skin trait).</p></figcaption></figure>
 
-
-
-### Trading Yield Gorillas
-
-Yield Gorillas are available on Teritori's marketplace: [Trade YGs on Stargaze](https://www.stargaze.zone/m/stars139hxs27d83qtqayw5jvawjlqa5xn6dg0pa2ymfljw7zdcjpyjmfq27srxl/tokens)
-
 ## Mint Proceeds&#x20;
 
 The original amount was staked at the end of the Mint (Nov 2022).  100% of the Yield Gorillas mint proceeds had been staked right after the mint in form of [4920](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767)[ ATOM](https://www.mintscan.io/cosmos/tx/B548B0664A9D051CEF0861E04253E4CAF1AF617BE0FDF26CAE5041FB15740964?height=13004767) and [381K TORI](https://www.mintscan.io/teritori/tx/C1CFA0BAE0A08B827D2F1BC0A41DC37D9DAA80BC464836F94163C00E92DFE39E?height=756347).&#x20;
 
-## Current Staked Assets
 
-`Estimated value of the Staked Assets 28K USD`
-
-| Asset  | Amount Staked | Source                                                              |
-| ------ | ------------- | ------------------------------------------------------------------- |
-| ATOM   | 2500 ATOM     | Mint                                                                |
-| TORI   | 381,000 TORI  | Mint                                                                |
-| yGATA  | 1,450,000     | LP Investment in [yGATA](../../ygata/)                              |
-| OSMO   | 565 OSMO      | [LP Incentives](https://www.mintscan.io/osmosis/address/osmo1p454f) |
-| TIA    | 100 TIA       | [Airdrop](./#airdrops-for-yg-wallets)                               |
-| DYM    | 100 DYM       | [Airdrop](./#airdrops-for-yg-wallets)                               |
-| ARCH   | 500 ARCH      | [Airdrop](./#airdrops-for-yg-wallets)                               |
-| Source | 5000 Source   | [Airdrop](./#airdrops-for-yg-wallets)                               |
-| SAGA   | 50 SAGA       | [Airdrop](./#airdrops-for-yg-wallets)                               |
 
 ## YG Monthly income&#x20;
 
