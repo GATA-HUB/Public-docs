@@ -51,7 +51,6 @@
     * [YG & Yield Concept](gatahub/gata-nfts/yield-gorilla/yg-and-yield-concept.md)
   * [Yield Paws](gatahub/yield-paws/README.md)
     * [YP Reward Distribution](gatahub/yield-paws/yp-reward-distribution.md)
-    * [Yield Paws FAQs](gatahub/yield-paws/yield-paws-faqs.md)
   * [Yield Crocs](gatahub/yield-crocs/README.md)
     * [YC's Assets](gatahub/yield-crocs/ycs-assets.md)
     * [YC Reward Distribution](gatahub/yield-crocs/yc-reward-distribution.md)
