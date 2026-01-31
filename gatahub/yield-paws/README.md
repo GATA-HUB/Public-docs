@@ -61,8 +61,8 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 | Skin      | Original supply  | Burned | Current supply |
 | --------- | ---------------- | ------ | -------------- |
 | Brown     | 100              | 0      | 100            |
-| Grey      | 300              | 0      | 300            |
-| Black     | 800              | 0      | 800            |
-| White     | 1000             | 1      | 999            |
-| Orange    | 2800             | 322    | 2478           |
-| **Total** | **5000**         | 323    | **4677**       |
+| Grey      | 300              | 4      | 296            |
+| Black     | 800              | 106    | 694            |
+| White     | 1000             | 164    | 836            |
+| Orange    | 2800             | 782    | 2024           |
+| **Total** | **5000**         | 1057   | 3943           |
