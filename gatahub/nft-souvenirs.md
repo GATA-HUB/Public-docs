@@ -231,7 +231,7 @@ GATA HUB Delegator Reward NFTs for every GATA fam member who staked with GATA on
 
 <summary>Details- GATA Christmas 2024 drop </summary>
 
-Commemorative side collection of GATA with which we celebrated Christmas & year's end in 2023 with the community. Free mint for \~5500 GATA stakeholders .\
+Commemorative side collection of GATA with which we celebrated Christmas & year's end in 2024 with the community. Free mint for \~5500 GATA stakeholders .\
 \
 [GATA Xmas greetings 2024 on Stargaze Marketplace](https://www.stargaze.zone/m/stars13u6ugmja48etdpy5gaf6hnkmx8gw05fkcg0wr9ry65qc5nm39cpqc3tt3x/tokens)
 
@@ -246,5 +246,15 @@ Commemorative side collection of GATA with which we celebrated Christmas & year'
 Celebrate 3 incredible years of GATA HUB with this special Open Edition collection! Mint your free commemorative NFT from March 11th, 4 PM UTC to March 18th, 4 PM UTC and be part of the legacy.\
 \
 [View collection ](https://omniflix.market/c/onftdenom5841d7530dfd4dd0b61093389896aae8/non-transferable)
+
+</details>
+
+## 10- GATA Xmas Greetings 2025
+
+<details>
+
+<summary>Commemorative side collection of GATA with which we celebrated Christmas &#x26; year's end in 2025 with the community.<br><br><a href="https://www.stargaze.zone/m/stars1s22kasrulme74mdytraj2r02hlg0ufdva9dz3a4hvl2304gpdltszkurq3/tokens">GATA Xmas greetings 2025 on Stargaze Marketplace</a></summary>
+
+
 
 </details>
