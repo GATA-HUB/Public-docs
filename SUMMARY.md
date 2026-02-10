@@ -8,7 +8,6 @@
 * [Summary](gatahub/summary.md)
 * [GATA Validators](gatahub/gata-validators/README.md)
   * [Slash Protection Policy](gatahub/gata-validators/slash-protection-policy.md)
-  * [ICS Partner Chains](gatahub/gata-validators/ics-partner-chains.md)
   * [GATA Testnet Validators](gatahub/gata-validators/gata-testnet-validators.md)
   * [Foundation Delegations](gatahub/gata-validators/foundation-delegations.md)
 * [Public goods](gatahub/public-goods/README.md)

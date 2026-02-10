@@ -12,7 +12,6 @@ description: >-
 * [Validator operations](gata-validators/)
 * [Relay operations ](public-goods/gata-relays.md)
 * [Public Goods](public-goods/)
-* [Staking & Delegations ](gata-nfts/genesis-collection-1/gata-dao-staking-delegations.md) &#x20;
 
 ## Real Yield; DeFi and NFT-fi
 
@@ -26,6 +25,6 @@ description: >-
 * [Yield Walkers](gata-nfts/yield-walkers.md) (A Burn-to-mint Yield Series, monthly Rewards deflationary supply and raffle)
 * [Souvenir NFT collections](nft-souvenirs.md) (side collections to celebrate the memorable events) &#x20;
 
-## GATA Yield DAO
+### GATA Yield DAO
 
 Community Yield Fund, managed by [DAO.](ygata/gata-yield-dao.md)

@@ -37,7 +37,7 @@ GATA Tech Team is handling all activities under the umbrella term GATA VALIDATOR
 * [GATA validators](gata-validators/)
 * [GATA relayers](public-goods/gata-relays.md)
 * [Participation in Testnets](gata-validators/gata-testnet-validators.md)&#x20;
-* [ICS Partner Chains](gata-validators/ics-partner-chains.md) &#x20;
+* [ICS Partner Chains](/broken/pages/7R7vVnQNufTpi2luZOAa) &#x20;
 * [Foundation Delegations](gata-validators/foundation-delegations.md)
 
 </details>

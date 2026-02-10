@@ -29,10 +29,7 @@ Because every network has different slashing parameters, we cannot give you esti
 
 * **Cosmos Hub**
 * **Atom One**
-* **Juno**
-* **Omniflix**
 * **Akash Network**
-* **Stargaze**
 
 ### **Past Slash/Refund Events**
 
@@ -40,7 +37,7 @@ Because every network has different slashing parameters, we cannot give you esti
 
 October 2023: unknown reasons, resulting in downtime slash.&#x20;
 
-{% file src="../../../.gitbook/assets/gata_passage_delegator_slash_refund.xlsx" %}
+{% file src="../../.gitbook/assets/gata_passage_delegator_slash_refund.xlsx" %}
 PASG Slashing 2023-10
 {% endfile %}
 
@@ -48,7 +45,7 @@ PASG Slashing 2023-10
 
 November 2023: node traffic got stuck and validator lost connection to peers, resulting in downtime slash.&#x20;
 
-{% file src="../../../.gitbook/assets/gata_akash_delegator_slash_refund.xlsx" %}
+{% file src="../../.gitbook/assets/gata_akash_delegator_slash_refund.xlsx" %}
 AKT Slashing 2023-11
 {% endfile %}
 
@@ -56,7 +53,7 @@ AKT Slashing 2023-11
 
 February 11, 2024: validator lost connection to peers during infrastructure upgrade, resulting in downtime slash.&#x20;
 
-{% file src="../../../.gitbook/assets/Slash amount Cosmos HUB 11Feb 2024.txt" %}
+{% file src="../../.gitbook/assets/Slash amount Cosmos HUB 11Feb 2024.txt" %}
 ATOM Slashing 2024-02
 {% endfile %}
 
@@ -64,6 +61,6 @@ March 5, 2025: Validator slashed because of Stride ICS chain downtime.&#x20;
 
 
 
-{% file src="../../../.gitbook/assets/GATA_Cosmos_D_Slash_refund.txt" %}
+{% file src="../../.gitbook/assets/GATA_Cosmos_D_Slash_refund.txt" %}
 ATOM slashing 2025-03
 {% endfile %}
