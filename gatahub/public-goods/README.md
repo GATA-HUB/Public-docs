@@ -4,5 +4,4 @@ Public goods are goods that are non-excludable and non-rivalrous, meaning they c
 
 * [Relays ](gata-relays.md)
 * [Endpoints](end-points.md)
-* Snapshots
 * [Educational material](../../cosmos-ecosystem/introduction-to-cosmos/)
