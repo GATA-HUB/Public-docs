@@ -9,11 +9,11 @@ coverY: 0
 # Yield Gorilla
 
 {% hint style="info" %}
-* **12,950** Atom total yield
-* **9047** Atom distributed to holders
-* **34** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
+* **129,500** USD total yield
+* **90K+** USD distributed to holders
+* **35** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
 
-_(Last updated 13 January, 2025)_
+_(Last updated 5 March , 2025)_
 {% endhint %}
 
 ### **Prologue & Lore of Yield Gorillas**
@@ -35,10 +35,10 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 ## YG supply table
 
 {% hint style="info" %}
-Last updated January 30, 2026.&#x20;
+Last updated March 30, 2026.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>1522</td><td>6110</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>1541</td><td>8459</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>1530</td><td>6102</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>1549</td><td>8451</td></tr></tbody></table>
 
 <details>
 
