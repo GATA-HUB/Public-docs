@@ -1,5 +1,6 @@
 ---
 description: Overview of all Yield Gorillas epoch rewards to holders.
+hidden: true
 ---
 
 # YG Reward Distributions

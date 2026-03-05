@@ -1,4 +1,10 @@
+---
+hidden: true
+---
+
 # YP Reward Distribution
+
+h
 
 {% hint style="info" %}
 * &#x35;**.414 M $STARS** / **21752 USD** Yield &#x20;

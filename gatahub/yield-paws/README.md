@@ -9,6 +9,13 @@ coverY: 0
 
 # Yield Paws
 
+{% hint style="info" %}
+* 18K PHOTON + &#x35;**.414 M $STARS** / **23552 USD** Yield &#x20;
+* **18K PHOTON + 5.228 M  $STARS** distributed to holders
+* **23 Epoch** distributed \
+  &#xNAN;_( Last updated March 6, 2025)_&#x20;
+{% endhint %}
+
 ## About the collection
 
 **Collection name:** [Yield Paws](https://www.stargaze.zone/l/yieldpaws) \
@@ -64,5 +71,5 @@ Details of the Yield Paws mint proceeds, allocation and base price to calculate 
 | Grey      | 300              | 4      | 296            |
 | Black     | 800              | 106    | 694            |
 | White     | 1000             | 164    | 836            |
-| Orange    | 2800             | 782    | 2024           |
-| **Total** | **5000**         | 1057   | 3943           |
+| Orange    | 2800             | 785    | 2021           |
+| **Total** | **5000**         | 1060   | 3940           |
