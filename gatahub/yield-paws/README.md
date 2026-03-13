@@ -10,9 +10,9 @@ coverY: 0
 # Yield Paws
 
 {% hint style="info" %}
-* 18K PHOTON + &#x35;**.414 M $STARS** / **23552 USD** Yield &#x20;
+* **18K PHOTON + 5.414 M $STARS** / **23552 USD** Yield &#x20;
 * **18K PHOTON + 5.228 M  $STARS** distributed to holders
-* **23 Epoch** distributed \
+* **23 Epoch** distributed [_(Epoch Details)_](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Paws)\
   &#xNAN;_( Last updated March 6, 2025)_&#x20;
 {% endhint %}
 
