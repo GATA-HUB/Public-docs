@@ -41,9 +41,7 @@ Each month, this Yield series collection by GATA HUB will provide you with&#x20;
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
-Yield Paws holders benefit from monthly distributions of revenue gained from the [yield model activities](./#concept-of-yield-paws-funding-model-and-distribution), the so called **epoch rewards**. These are **$STARS** which get distributed directly to the wallets of holders. You just need to hold your kitties tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
-
-The **individual yield share per NFT** gets determined by the **fur colors** of your kitties. There are **5 different colors** with **5 different yield share values**. The rarer your kitties, the higher your rewards:&#x20;
+Yield Paws holders benefit from monthly distributions of revenue gained from the [yield model activities](./#concept-of-yield-paws-funding-model-and-distribution), the so called **epoch rewards**. These are **$STARS** which get distributed directly to the wallets of holders.  The **individual yield share per NFT** gets determined by the **fur colors** of your kitties. There are **5 different colors** with **5 different yield share values**. The rarer your kitties, the higher your rewards:&#x20;
 
 <figure><img src="../../.gitbook/assets/gata-yp-apr-overview.jpg" alt=""><figcaption><p>Yield Distribution &#x26; APR Projections</p></figcaption></figure>
 
