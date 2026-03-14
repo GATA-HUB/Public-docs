@@ -1,4 +1,10 @@
+---
+hidden: true
+---
+
 # YC Reward Distribution
+
+a
 
 {% hint style="info" %}
 Total reward Distributed : 326**K yGATA & 25.97 SOL**\

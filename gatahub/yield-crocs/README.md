@@ -9,10 +9,16 @@ coverY: 0
 
 # Yield Crocs
 
-
+{% hint style="info" %}
+Total reward Distributed : **10150 PHOTON, 326K yGATA & 25.97 SOL**\
+Total Epoch Distributed:  **14 Epoch**\
+\
+(_Last updated: 14 March 2026)_\
+_For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Crocs)
+{% endhint %}
 
 {% hint style="info" %}
-Trade Yield Croc now on [Omniflix Market  ](https://omniflix.market/c/collectNow/onftdenom096ab49e894d401c8996913f3ad0d795)
+Yield Crocs are now being migrated to Stargaze marketplace.
 {% endhint %}
 
 ## About the collection
@@ -29,17 +35,15 @@ Trade Yield Croc now on [Omniflix Market  ](https://omniflix.market/c/collectNow
 
 Each month, Yield Crocs collection by GATA HUB will provide you with&#x20;
 
-• Epoch Rewards (80% of yield revenue gets distributed to YC holders in $SOL and $yGATA)
+• Epoch Rewards (90% of yield revenue gets distributed to YC holders in $PHOTON previously ($SOL and $yGATA)
 
-• Buy & Burn program (10% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
+• Buy & Burn program (5% of yield gets used to sweep floor & to reduce supply continuously)&#x20;
 
-• Yield Raffle (10% of yield gets raffled with 3 random YCs winning; each YC = 1 ticket)
+• Yield Raffle (5% of yield gets raffled with 3 random YCs winning; each YC = 1 ticket)
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
-Yield Crocss holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. These are **$SOL $yGATA** which get distributed directly to the wallets of holders. You just need to hold your Crocs tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
-
-The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: <br>
+Yield Crocss holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. These are **$PHOTON** which get distributed directly to the wallets of holders. The **individual yield share per NFT** gets determined by the **Skin colors** of your Crocs. There are **5 different colors** with **5 different yield share values**. The rarer your Crocs, the higher your rewards: <br>
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Supply of Yield Crocs</p></figcaption></figure>
 
