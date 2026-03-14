@@ -1,8 +1,7 @@
 ---
 description: >-
   Your friendly neighborhood crocs provide you with monthly epoch rewards in
-  $SOL and $yGATA. Earn passive income from various DeFi activities managed by
-  GATA.
+  $PHOTON. Earn passive income from various DeFi activities managed by GATA.
 cover: ../../.gitbook/assets/yc-gitbook-banner.jpg
 coverY: 0
 ---
@@ -11,7 +10,7 @@ coverY: 0
 
 {% hint style="info" %}
 Total reward Distributed : **10150 PHOTON, 326K yGATA & 25.97 SOL**\
-Total Epoch Distributed:  **14 Epoch**\
+Total Epoch Distributed:  **15 Epoch**\
 \
 (_Last updated: 14 March 2026)_\
 _For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Crocs)
