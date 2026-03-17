@@ -4,32 +4,16 @@ description: >-
   intersection of GATA’s history, AtomOne’s future, and Stargaze’s creativity.
 cover: ../../.gitbook/assets/Banner-2.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # PengOnes
 
 {% hint style="info" %}
-Trade PengOnes now on [Stargaze Market ](https://www.stargaze.zone/m/stars1n7af8ev4x36qzum6gz2yw4vds5vkw8evtuvfvrghq0gjulrf9ncs9mutd6/tokens) \
-Epoch Details [Snapshots](https://github.com/GATA-HUB/snapshots/tree/main/PengOnes)\
-Epoch distributed 4 \
-Assets [↗](./)
+Total reward Distributed : **25450 PHOTON, 1.3K USD**\
+Total Epoch Distributed:  **6 Epoch**\
+\
+(_Last updated: 16 March 2026)_\
+_For Epoch details_ [↗](https://github.com/GATA-HUB/snapshots/tree/main/PengOnes)
 {% endhint %}
 
 ## About the collection
