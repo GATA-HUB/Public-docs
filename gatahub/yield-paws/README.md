@@ -18,8 +18,8 @@ coverY: 0
 
 ## About the collection
 
-**Collection name:** [Yield Paws](https://www.stargaze.zone/l/yieldpaws) \
-**Network:** [Stargaze Zone](https://www.stargaze.zone/l/yieldpaws)\
+**Collection name:** [Yield Paws](https://stargaze.zone/m/cosmos1te4992utv2kyfguf6lad2szsunj29gqqsvjzqdsfh9g62yeuvclsvvtl8t) \
+**Network:** Cosmos Hub\
 **Collection Type:** Standard Collection \
 **Public Mint Price:** 777 $STARS (50 mints/wallet)\
 **WL Mint Price:** 725 $STARS (10 mints/wallet)\
