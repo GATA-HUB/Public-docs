@@ -24,8 +24,8 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 
 ## About the collection
 
-**Collection name:** [Yield Gorillas ](https://www.stargaze.zone/m/yieldgorillas/tokens)\
-**Network:** [Stargaze Zone](https://www.stargaze.zone/m/yieldgorillas/tokens) (Migrated from Teritori)\
+**Collection name:** [Yield Gorillas ](https://stargaze.zone/m/cosmos1a4uanyytpvx0cq043yljlf0phhy2h95t6wsraprhnryyaqzdjw2sl3z5rn)\
+**Network:** Teritori > Stargaze > Cosmos HUB\
 **Collection Type:** Standard Collection \
 &#x20;**Public Mint Price:** 2 $Atom (50 mints/wallet)\
 **Collection Size**: 10000 (see current supply in the table below)\
