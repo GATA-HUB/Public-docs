@@ -18,8 +18,8 @@ _For Epoch details_ [↗](https://github.com/GATA-HUB/snapshots/tree/main/PengOn
 
 ## About the collection
 
-**Collection name:** PengOnes \
-**Network:** Stargaze\
+**Collection name:** [PengOnes ](https://stargaze.zone/m/cosmos1dvx9q8ck866qmpqpqdy3guqt96579x9ukn6qxx6mtf4x5gxfzfqschuxlw)\
+**Network:** Stargaze > Cosmos  Hub\
 **Collection Type:** Standard Collection \
 **Public Mint Price:** 40 ATONE\
 **WL Mint Price:** 34-37 ATONE\
