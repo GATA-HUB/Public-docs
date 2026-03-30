@@ -1,11 +1,7 @@
----
-hidden: true
----
-
 # Yield Walkers
 
 {% hint style="info" %}
-Total reward Distributed : **25450 PHOTON, 1.3K USD**\
+Total reward Distributed : **12750 PHOTON, 0.6K USD**\
 Total Epoch Distributed:  **6 Epoch**\
 \
 (_Last updated: 30 March 2026)_\
