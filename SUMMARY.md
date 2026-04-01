@@ -57,11 +57,11 @@
   * [Yield Walkers](gatahub/gata-nfts/yield-walkers.md)
   * [NFT Souvenirs](gatahub/nft-souvenirs.md)
 * [🛤️ GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
+  * [2026 Roadmap](gatahub/gata-hub-road-map/2026-roadmap.md)
   * [2025 Recap](gatahub/gata-hub-road-map/2025-recap.md)
   * [2024 Recap](gatahub/gata-hub-road-map/2024-recap.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
-  * [2026 Roadmap](gatahub/gata-hub-road-map/2026-roadmap.md)
 * [🙋‍♀️ GATA HUB FAQs](gatahub/gata-hub-faqs.md)
 
 ## 🔯 Cosmos ecosystem
