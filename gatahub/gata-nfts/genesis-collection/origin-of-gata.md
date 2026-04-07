@@ -41,3 +41,5 @@ A colonial Soldier γάτα (gáta), protector of thrones whilst guarding the fr
 With an expansive perspective on earth and cosmos, the King γάτα (gáta) had gazed on time horizons where no vision can reach. After building empires from the remains of the rivals the king ascended from the lands of the earth due to boredom in the colonial era. Now, with eyes on new territories to rule, the King γάτα (gáta) steps up again to resolve the battles of cosmos with his reign.\
 \
 ![](<../../../.gitbook/assets/image (36).png>)
+
+f
