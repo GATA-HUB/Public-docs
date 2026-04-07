@@ -1,5 +1,6 @@
 ---
 description: Details about GATA's revenue distribution.
+hidden: true
 ---
 
 # DAO Revenue Distribution
