@@ -6,8 +6,6 @@ description: >-
 
 # Genesis Collection
 
-
-
 {% hint style="info" %}
 * **7,841 ATOM** & 3**6300 PHOTON** distributed to GATA holders till date.&#x20;
 * **18,322 ATOM** Yielded from GATA DAO operations (40 Epochs untill the model changed).
@@ -20,8 +18,8 @@ _(Last Updated 7 April 2026)_
 
 NFT collections of the GATA Series were the first NFTs of GATA HUB. They consist of two collections:
 
-* [Colonial Cats](https://stargaze.zone/m/cosmos1q2a8pl96nm3t4xnzpe5q96f3je7awssqh2js4er4wdv66e44kf4qd37k5w) (shortened to: "GATAc")
-* [Voyager Cats](https://stargaze.zone/m/cosmos1rprz62z0vpa6ex0wcwmqkq6ls3cye9wea5lfshpg8fm2ztg28znsy4jzww) (shortened to: "GATAv")
+* [Colonial Cats](https://stargaze.zone/m/cosmos1q2a8pl96nm3t4xnzpe5q96f3je7awssqh2js4er4wdv66e44kf4qd37k5w) (shortened to: "GATAc") [_Stake here_](https://daodao.zone/dao/cosmos18a4u5n2yjn6vfhfzd769jfu8ttefhj6fmtacujy8n7325jmngmuq5ufmc6/home)
+* [Voyager Cats](https://stargaze.zone/m/cosmos1rprz62z0vpa6ex0wcwmqkq6ls3cye9wea5lfshpg8fm2ztg28znsy4jzww) (shortened to: "GATAv") [_Stake here_](https://daodao.zone/dao/cosmos177eqa8ym5efsm747r4h3jz42fatjfdqvmnxr95xwcpkm6x4rpzkqj2x0n8/home)
 
 Holding any NFTs from these two core collections grants the holder voting rights within GATA DAO and provides access to GATA's monthly epoch rewards (the distribution of revenue to stakeholders).&#x20;
 
