@@ -11,7 +11,7 @@ coverY: 0
 {% hint style="info" %}
 * **129,500** USD total yield in ATOM / PHOTON&#x20;
 * **94K+** USD distributed to holders
-* **35** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
+* **37** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
 
 _(Last updated 9 April , 2026)_
 {% endhint %}
@@ -35,7 +35,7 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 ## YG supply table
 
 {% hint style="info" %}
-Last updated March 30, 2026.&#x20;
+Last updated April 10, 2026.&#x20;
 {% endhint %}
 
 <table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>1534</td><td>6098</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>1552</td><td>8448</td></tr></tbody></table>
