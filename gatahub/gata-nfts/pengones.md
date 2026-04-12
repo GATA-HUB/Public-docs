@@ -11,10 +11,10 @@ coverY: 0
 g
 
 {% hint style="info" %}
-Total reward Distributed : **25450 PHOTON, 1.3K USD**\
-Total Epoch Distributed:  **6 Epoch**\
+Total reward Distributed : **34490 PHOTON, 1.8K USD**\
+Total Epoch Distributed:  7 **Epoch**\
 \
-(_Last updated: 16 March 2026)_\
+(_Last updated: 12 April 2026)_\
 _For Epoch details_ [↗](https://github.com/GATA-HUB/snapshots/tree/main/PengOnes)
 {% endhint %}
 
@@ -62,15 +62,15 @@ Each month, PengOnes collection by GATA HUB will provide you with&#x20;
 
 • **Yield Raffle** (10% of yield gets raffled with 3 random POs winning; each POs = 1 ticket)
 
-• **Collection offers** (10% of yield for Collection offers always at avergae mint price)
+• **Collection offers** (10% of yield for Collection offers always at average mint price)
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-21 at 2.31.52 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Monthly Yield Revenue & Trait-Based Yield Distribution&#x20;
 
-PengOne holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. The Yield gets distributed directly to the wallets of holders. You just need to hold your Penguines tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
+PengOnes holders benefit from monthly distributions of revenue gained from the yield model activities, the so called **epoch rewards**. The Yield gets distributed directly to the wallets of holders. You just need to hold your Penguins tightly: **no staking is needed** to be eligible for these monthly epoch rewards.
 
-The **individual yield share per NFT** gets determined by the **Skin colors** of your Penguine. There are 3 **different yield share values**. and a super rare 1/1s. The rarer your penguine, the higher your rewards:&#x20;
+The **individual yield share per NFT** gets determined by the **Skin colors** of your Penguin. There are 3 **different yield share values**. and a super rare 1/1s. The rarer your penguin, the higher your rewards:&#x20;
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 9.51.55 PM.jpeg" alt=""><figcaption></figcaption></figure>
 

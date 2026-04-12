@@ -1,10 +1,10 @@
 # Yield Walkers
 
 {% hint style="info" %}
-Total reward Distributed : **12750 PHOTON, 0.6K USD**\
-Total Epoch Distributed:  **6 Epoch**\
+Total reward Distributed : **17540 PHOTON, 0.9K USD**\
+Total Epoch Distributed:  7 **Epoch**\
 \
-(_Last updated: 30 March 2026)_\
+(_Last updated: 12 April 2026)_\
 _For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Paws)
 {% endhint %}
 
@@ -31,9 +31,9 @@ Details of the PengOnes mint proceeds, allocation and base price to calculate th
 
 Last updated 30 March, 2026.​
 
-| Fresh Walker    | 550  | 6   | 544\| 99%   |
+| Fresh Walker    | 550  | 7   | 543\| 99%   |
 | --------------- | ---- | --- | ----------- |
 | Rotting stalker | 250  | 0   | 250 \| 100% |
 | Decayed Crawler | 125  | 0   | 125 \| 100% |
 | Ancient Husk    | 75   | 0   | 75 \| 100%  |
-| **Total**       | 1000 | 994 | 994\| 99%   |
+| **Total**       | 1000 | 993 | 993\| 99%   |
