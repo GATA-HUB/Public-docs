@@ -9,10 +9,10 @@ coverY: 0
 # Yield Crocs
 
 {% hint style="info" %}
-Total reward Distributed : **10150 PHOTON, 326K yGATA & 25.97 SOL**\
-Total Epoch Distributed:  **15 Epoch**\
+Total reward Distributed : **14150 PHOTON, 326K yGATA & 25.97 SOL**\
+Total Epoch Distributed:  **16 Epoch**\
 \
-(_Last updated: 14 March 2026)_\
+(_Last updated: 14 April 2026)_\
 _For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Crocs)
 {% endhint %}
 
