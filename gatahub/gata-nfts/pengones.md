@@ -45,12 +45,12 @@ Details of the PengOnes mint proceeds, allocation and base price to calculate th
 
 Last updated 2 January, 2026.​
 
-| Base      | 2000 | 1126 | 874 \| 44%  |
+| Base      | 2000 | 1129 | 871 \| 43%  |
 | --------- | ---- | ---- | ----------- |
 | Pro       | 1000 | 380  | 620 \| 62%  |
 | Apex      | 330  | 15   | 315 \| 96%  |
 | 1/1s      | 3    | 0    | 3 \| 100%   |
-| **Total** | 3333 | 1521 | 1812 \| 54% |
+| **Total** | 3333 | 1524 | 1809 \| 54% |
 
 ## Utility of PengOnes&#x20;
 
