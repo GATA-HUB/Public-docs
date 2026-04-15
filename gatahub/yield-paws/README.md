@@ -12,7 +12,7 @@ coverY: 0
 {% hint style="info" %}
 * **14K PHOTON + 5.414 M $STARS** / **23552 USD** Yield &#x20;
 * **14K PHOTON + 5.228 M  $STARS** distributed to holders
-* **23 Epoch** distributed [_(Epoch Details)_](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Paws)\
+* **24 Epoch** distributed [_(Epoch Details)_](https://github.com/ABCharlieEth/snapshots/tree/main/Yield%20Paws)\
   &#xNAN;_( Last updated April 14, 2025)_&#x20;
 {% endhint %}
 
