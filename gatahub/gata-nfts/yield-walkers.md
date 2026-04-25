@@ -29,7 +29,9 @@ Details of the PengOnes mint proceeds, allocation and base price to calculate th
 
 ### Yield Walkers Burn info <a href="#pengones-burn-info" id="pengones-burn-info"></a>
 
+{% hint style="info" %}
 Last updated 30 March, 2026.​
+{% endhint %}
 
 | Fresh Walker    | 550  | 7   | 543\| 99%   |
 | --------------- | ---- | --- | ----------- |
