@@ -32,6 +32,7 @@
     * [YC Reward Distribution](gatahub/yield-crocs/yc-reward-distribution.md)
   * [PengOnes](gatahub/gata-nfts/pengones.md)
   * [Yield Walkers](gatahub/gata-nfts/yield-walkers.md)
+  * [GATA Pixel](gatahub/gata-nfts/gata-pixel.md)
   * [NFT Souvenirs](gatahub/nft-souvenirs.md)
   * [Genesis Collection](gatahub/gata-nfts/genesis-collection-1/README.md)
     * [On Chain GATA DAO](gatahub/gata-nfts/genesis-collection-1/on-chain-gata-dao.md)
