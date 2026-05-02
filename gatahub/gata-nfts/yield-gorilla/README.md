@@ -35,10 +35,10 @@ _There's a sense or logic to everything, right? So, how does Yield Gorilla comes
 ## YG supply table
 
 {% hint style="info" %}
-Last updated April 10, 2026.&#x20;
+Last updated May 2, 2026.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>1534</td><td>6098</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>1552</td><td>8448</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="133">Initial supply</th><th width="103">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>1539</td><td>6103</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>1557</td><td>8443</td></tr></tbody></table>
 
 <details>
 
