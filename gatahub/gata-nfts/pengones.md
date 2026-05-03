@@ -8,13 +8,11 @@ coverY: 0
 
 # PengOnes
 
-g
-
 {% hint style="info" %}
-Total reward Distributed : **34490 PHOTON, 1.8K USD**\
-Total Epoch Distributed:  7 **Epoch**\
+Total reward Distributed : **43260 PHOTON, 2.3K USD**\
+Total Epoch Distributed: **8 Epoch**\
 \
-(_Last updated: 12 April 2026)_\
+(_Last updated: 3 May 2026)_\
 _For Epoch details_ [↗](https://github.com/GATA-HUB/snapshots/tree/main/PengOnes)
 {% endhint %}
 
@@ -43,14 +41,16 @@ Details of the PengOnes mint proceeds, allocation and base price to calculate th
 
 ### PengOnes Burn info <a href="#pengones-burn-info" id="pengones-burn-info"></a>
 
-Last updated 2 January, 2026.​
+{% hint style="info" %}
+Last updated 3 May, 2026.​
+{% endhint %}
 
-| Base      | 2000 | 1129 | 871 \| 43%  |
+| Base      | 2000 | 1130 | 870 \| 43%  |
 | --------- | ---- | ---- | ----------- |
 | Pro       | 1000 | 380  | 620 \| 62%  |
 | Apex      | 330  | 15   | 315 \| 96%  |
 | 1/1s      | 3    | 0    | 3 \| 100%   |
-| **Total** | 3333 | 1524 | 1809 \| 54% |
+| **Total** | 3333 | 1525 | 1808 \| 54% |
 
 ## Utility of PengOnes&#x20;
 
