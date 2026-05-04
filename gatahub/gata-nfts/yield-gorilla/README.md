@@ -9,11 +9,11 @@ coverY: 0
 # Yield Gorilla
 
 {% hint style="info" %}
-* **129,500** USD total yield in ATOM / PHOTON&#x20;
-* **94K+** USD distributed to holders
-* **37** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
+* **129,900** USD total yield in ATOM / PHOTON&#x20;
+* **95K** USD distributed to holders
+* **38** Epoch distributed [↗](https://github.com/ABCharlieEth/snapshots/tree/main/YG)
 
-_(Last updated 9 April , 2026)_
+_(Last updated 4 May , 2026)_
 {% endhint %}
 
 ### **Prologue & Lore of Yield Gorillas**
