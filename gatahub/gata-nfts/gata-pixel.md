@@ -5,6 +5,23 @@ coverY: 0
 
 # GATA Pixel
 
+{% hint style="info" %}
+Total reward Distributed : **PHOTON,  USD**\
+Total Epoch Distributed:  **0 Epoch**\
+\
+(_Last updated: 11 May 2026)_\
+_For Epoch details_ ↗
+{% endhint %}
+
+## About the collection
+
+**Collection name:** [GATA Pixels](https://stargaze.zone/m/cosmos1rusfnupu3wp0txmc8mw3jn88sx9f7vx4j9m3lcvh7dc3fkxvshpsprsx5h)\
+**Network:** Cosmos  Hub\
+**Collection Type:** Standard mint\
+**Collection Size**: 1,111\
+**Royalties:**  5% \
+Symbol: GPs&#x20;
+
 GATA Pixels is a yield-focused NFT collection built by GATA as an experiment in evolving NFTfi beyond speculation. The collection combines yield generation, redemption-based liquidity, and transparency into a single system designed to make NFTs behave more like functional assets rather than static collectibles.
 
 The collection consists of 1111 NFTs launched on Stargaze, with rarity tiers that directly impact yield performance. Unlike traditional NFT collections where rarity is mostly cosmetic, GATA Pixels introduces functional rarity, where higher-tier NFTs receive increased yield multipliers.
