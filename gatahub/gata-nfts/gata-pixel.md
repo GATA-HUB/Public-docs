@@ -9,8 +9,8 @@ coverY: 0
 Total reward Distributed : **PHOTON,  USD**\
 Total Epoch Distributed:  **0 Epoch**\
 \
-(_Last updated: 11 May 2026)_\
-_For Epoch details_ ↗
+(_Last updated: 17 May 2026)_\
+_For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/GATA%20Pixels)
 {% endhint %}
 
 ## About the collection
