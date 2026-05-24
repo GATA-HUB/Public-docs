@@ -22,7 +22,7 @@ _For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/GA
 **Royalties:**  5% \
 Symbol: GPs&#x20;
 
-GATA Pixels is a yield-focused NFT collection built by GATA as an experiment in evolving NFTfi beyond speculation. The collection combines yield generation, redemption-based liquidity, and transparency into a single system designed to make NFTs behave more like functional assets rather than static collectibles.
+GATA Pixels is a yield-focused NFT collection built by GATA as an experiment in evolving NFTfi beyond speculation. The collection combines yield generation, redemption-based liquidity, and transparency into a single system designed to make NFTs behave more like functional assets rather than static collectables.
 
 The collection consists of 1111 NFTs launched on Stargaze, with rarity tiers that directly impact yield performance. Unlike traditional NFT collections where rarity is mostly cosmetic, GATA Pixels introduces functional rarity, where higher-tier NFTs receive increased yield multipliers.
 
@@ -31,7 +31,7 @@ The collection consists of 1111 NFTs launched on Stargaze, with rarity tiers tha
 The purpose of GATA Pixels is to address three major limitations that have historically prevented NFTfi from scaling sustainably:
 
 * Lack of exit liquidity
-* Undefined or unmeasurable yield
+* Undefined or un-measurable yield
 * Limited transparency and accountability
 
 Traditional NFTs rely heavily on secondary market liquidity, meaning holders can only exit if another buyer is willing to purchase the asset. GATA Pixels introduces a redemption system intended to reduce this dependency and create a more structured ownership model.
@@ -54,7 +54,7 @@ GATA Pixels targets an average benchmark yield of approximately 15% annually in 
 
 Yield generation is supported through treasury allocations and ecosystem strategies managed within the broader GATA infrastructure.
 
-The objective is not only to distribute yield, but to make performance measurable and trackable over time through transparent reporting.
+The objective is not only to distribute yield, but to make performance measurable and track able over time through transparent reporting.
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2026-04-30 at 10.06.43 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
