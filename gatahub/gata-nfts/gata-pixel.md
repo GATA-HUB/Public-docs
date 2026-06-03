@@ -6,10 +6,11 @@ coverY: 0
 # GATA Pixel
 
 {% hint style="info" %}
-Total reward Distributed : **PHOTON,  USD**\
-Total Epoch Distributed:  **0 Epoch**\
+Total reward Distributed : **12000 PHOTON,  400 USD**\
+Total Epoch Distributed:  **1 Epoch**\
+APR: 23.5%\
 \
-(_Last updated: 17 May 2026)_\
+(_Last updated: 3 June 2026)_\
 _For Epoch details_ [↗](https://github.com/ABCharlieEth/snapshots/tree/main/GATA%20Pixels)
 {% endhint %}
 
