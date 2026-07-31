@@ -6,6 +6,10 @@
 ## 📌 GATA HUB's Ventures  <a href="#gatahub" id="gatahub"></a>
 
 * [Summary](gatahub/summary.md)
+* [Reward App](gatahub/reward-app/README.md)
+  * [User Guide](gatahub/reward-app/user-guide.md)
+  * [Caution](gatahub/reward-app/caution.md)
+  * [FAQ](gatahub/reward-app/faq.md)
 * [GATA Validators](gatahub/gata-validators/README.md)
   * [Slash Protection Policy](gatahub/gata-validators/slash-protection-policy.md)
   * [GATA Testnet Validators](gatahub/gata-validators/gata-testnet-validators.md)
