@@ -45,8 +45,8 @@ Tier Score = Delegation Score + Permanent Points + NFT Hold Score
 | Ember   | 1,000          |
 | Seeker  | 2,500          |
 | Devout  | 10,000         |
-| Radiant | 25,000         |
-| Star    | 50,000         |
+| Radiant | 30,000         |
+| Star    | 75,000         |
 
 Higher tiers unlock a bigger **Loyalty Bonus boost**, **raffle standing tickets**, and status.
 
